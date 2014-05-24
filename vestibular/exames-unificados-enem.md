@@ -3,10 +3,10 @@ ENEM
 
 Atualmente, o Exame Nacional do Ensino Médio é uma da principais formas de ingresso em cursos de nível superior de instituições federais. 
 
-Quando foi implementado 
-Quais faculdades aderem (lista de universidades que aderem ao ENEM)
-Restrições e Regras
-Como funciona (FASES, DURAÇÃO, NUMERO DE QUESTÕES)
+- Quando foi implementado
+- Quais faculdades aderem (lista de universidades que aderem ao ENEM)
+- Restrições e Regras
+- Como funciona (FASES, DURAÇÃO, NUMERO DE QUESTÕES)
 
 Para a inscrição, basta se cadastrar no site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) correspondente ao ENEM e completar os seus dados pessoais como endereço, CPF,RG,estado civil, ano em que cursa o ensino médio (estudantes do terceiro ano são insentos do pagamento),entre outros. Acompanhando a inscrição é possível ver os locais de prova tanto no cartão de inscrição que, em geral, é entregue via correio no endereço cadastrado no site quanto no próprio site em si. A taxa da mesma, no ano de 2013, foi de 35 reais, com excessão dos que solicitaram insenção ou alunos do terceiro ano do ensino médio.
 

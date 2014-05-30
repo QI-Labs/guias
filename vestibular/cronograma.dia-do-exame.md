@@ -1,4 +1,4 @@
-No dia dos exames
+No dia do exame
 ------------------
 __Antes do Exame__
 

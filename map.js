@@ -10,12 +10,15 @@ module.exports =  {
 				file: "vestibular/exames-unificados.md",
 				children: {
 					"enem": {
+						name: "ENEM",
 						file: "vestibular/exames-unificados.enem.md",
 					},
 					"fuvest": {
+						name: "FUVEST",
 						file: "vestibular/exames-unificados.fuvest.md",
 					},
 					"unicamp": {
+						name: "UNICAMP",
 						file: "vestibular/exames-unificados.unicamp.md",
 					}
 				}

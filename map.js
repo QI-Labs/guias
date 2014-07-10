@@ -99,4 +99,104 @@ module.exports =  {
 			}
 		}
 	},
+	olimpiadas: {
+		name: "Olimpíadas Científicas",
+		color: "red",
+		file: "olimpiadas/main.md",
+		children: {
+			"olimpiadas-matematica": {
+				name: "Olimpíadas de Matemática",
+				redirect: "olimpiadas-matematica",
+			},
+			"olimpiadas-fisica": {
+				name: "Olimpíadas de Física",
+				redirect: "olimpiadas-fisica",
+			},
+			"olimpiadas-quimica": {
+				name: "Olimpíadas de Química",
+				redirect: "olimpiadas-quimica",
+			},
+			"olimpiadas-informatica": {
+				name: "Olimpíadas de Informática",
+				redirect: "olimpiadas-informática",
+			},
+			"olimpiadas-Biologia": {
+				name: "Olimpíadas de Biologia",
+				redirect: "olimpiadas-biologia",
+			},
+		}
+	},
+	"olimpiadas-matematica": {
+		name: "Olimpíadas de Matemática",
+		color: "red",
+		file: "olimpiadas/matematica/main.md",
+		children: {
+			"plano-de-estudo": {
+				name: "Plano de Estudos",
+				file: "olimpiadas/matematica/main.md",
+				children: {
+
+				}
+			},
+			"conteúdo": {
+				name: "Conteúdo das Provas",
+				file: "olimpiadas/matematica/main.md",
+				children: {
+					
+				}
+			},
+			acervo: {
+				name: "Acervo de Competições",
+				file: "olimpiadas/matematica/main.md",
+				children: {
+					obm: {
+						name: "Olimpíada Brasileira de Matemática (OBM)",
+						file: "olimpiadas/matematica/main.md",
+					},
+					obmep: {
+						name: "Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)",
+						file: "olimpiadas/matematica/main.md",
+					},
+					omerj: {
+						name: "Olimpíada Brasileira de Matemática do Estado do Rio de Janeiro (OMERJ)",
+						file: "olimpiadas/matematica/main.md",
+					},
+				}
+			}
+		}
+	},
+	"olimpiadas-fisica": {
+		name: "Olimpíadas de Física",
+		color: "red",
+		file: "olimpiadas/fisica/main.md",
+		children: {
+			"plano-de-estudo": {
+				name: "Plano de Estudos",
+				file: "olimpiadas/fisica/main.md",
+				children: {
+				}
+			},
+			"conteudo": {
+				name: "Conteúdo das Provas",
+				file: "olimpiadas/fisica/conteudo.md",
+				children: {
+				}
+			},
+			acervo: {
+				name: "Acervo de Competições",
+				file: "olimpiadas/fisica/main.md",
+				children: {
+					obf: {
+						name: "Olimpíada Brasileira de Física (OBF)",
+						file: "olimpiadas/fisica/main.md",
+					},
+					obfep: {
+						name: "Olimpíada Brasileira de Física das Escolas Públicas (OBFEP)",
+						file: "olimpiadas/fisica/main.md",
+					},
+				}
+			}
+		}
+	}
+
 }

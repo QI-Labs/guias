@@ -18,4 +18,4 @@ Na primeira fase são abordadas as ciências humanas e ciências da natureza em 
   
 A nota é calculada pelo TRI (Teoria da Resposta ao Item), no qual, além do número de respostas, é levado em consideração a coerência das mesmas. Por esse sistema, um participante que deixa a prova em branco recebe a nota mínima calculada, e não zero. Vale ressaltar que esse cáculo de notas mínima (nenhum acerto) e máxima (45 acertos) depende do grau de dificuldade da prova, na qual cada item possui parâmetros previamente conhecidos. São esses parâmetros que dizem as pontuações de mínimo e máximo da prova. Dessa forma, se a prova é composta com mais itens fáceis, o máximo da prova tenderá a ser mais baixo, e se , por outro lado, ela é composta com mais itens difíceis, o mínimo tenderá  a ser mais alto.  
 
-Após o resultado, que pode ser acessado no INEP, os candidatos são selecionados pelo [SISU] (PÁGINA DO SISU)
+Após o resultado, que pode ser acessado no INEP, os candidatos são selecionados pelo [SISU](PÁGINA DO SISU)!

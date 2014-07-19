@@ -2,7 +2,6 @@
 module.exports =  {
 	vestibular: {
 		name: "Vestibular",
-		color: "red",
 		file: "vestibular/main.md",
 		children: {
 			"exames-unificados": {
@@ -101,7 +100,6 @@ module.exports =  {
 	},
 	olimpiadas: {
 		name: "Olimpíadas Científicas",
-		color: "red",
 		file: "olimpiadas/main.md",
 		children: {
 			"olimpiadas-matematica": {
@@ -120,7 +118,7 @@ module.exports =  {
 				name: "Olimpíadas de Informática",
 				redirect: "olimpiadas-informática",
 			},
-			"olimpiadas-Biologia": {
+			"olimpiadas-biologia": {
 				name: "Olimpíadas de Biologia",
 				redirect: "olimpiadas-biologia",
 			},
@@ -128,21 +126,19 @@ module.exports =  {
 	},
 	"olimpiadas-matematica": {
 		name: "Olimpíadas de Matemática",
-		color: "red",
+		icon: 'icon-circle-compass',
 		file: "olimpiadas/matematica/main.md",
 		children: {
 			"plano-de-estudo": {
 				name: "Plano de Estudos",
 				file: "olimpiadas/matematica/main.md",
 				children: {
-
 				}
 			},
-			"conteúdo": {
+			"conteudo": {
 				name: "Conteúdo das Provas",
 				file: "olimpiadas/matematica/main.md",
 				children: {
-					
 				}
 			},
 			acervo: {
@@ -167,7 +163,7 @@ module.exports =  {
 	},
 	"olimpiadas-fisica": {
 		name: "Olimpíadas de Física",
-		color: "red",
+		icon: 'icon-genius',
 		file: "olimpiadas/fisica/main.md",
 		children: {
 			"plano-de-estudo": {
@@ -197,6 +193,5 @@ module.exports =  {
 				}
 			}
 		}
-	}
-
+	},
 }

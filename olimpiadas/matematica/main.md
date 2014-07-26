@@ -48,6 +48,11 @@ Começaremos com um artigo escrito pelos professores Carlos Shine, Edmilson Mott
 
 Você pode consultar todo o artigo [clicando aqui](http://cyshine.webs.com/email-imo.pdf)!
 
+
+
+Links Úteis
+============
+
 __MathLinks__
 
 O site que também é conhecido como  “Art of Problem Solving”,  é um dos mais famosos fóruns de discussões de problemas em Matemática do mundo. o Mathlinks reuni milhares de matemáticos loucos por desafios, se você tem uma dúvida em um problema lá eh o lugar para tira-la, se deseja a resolução de alguma prova internacional você também irá, provavelmente, encontrar lá suas soluções.

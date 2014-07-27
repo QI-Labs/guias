@@ -129,16 +129,34 @@ module.exports =  {
 		icon: 'icon-circle-compass',
 		file: "olimpiadas/matematica/main.md",
 		children: {
-			"plano-de-estudo": {
-				name: "Plano de Estudos",
-				file: "olimpiadas/matematica/main.md",
+			"introducao": {
+				name: "Introdução a Olimpíadas de Matemática",
+				file: "olimpiadas/matematica/introducao.md",
 				children: {
+					"niveis": {
+						name: "Níveis de Competição",
+						file: "olimpiadas/matematica/introducao.niveis.md",
+					},
 				}
 			},
-			"conteudo": {
-				name: "Conteúdo das Provas",
-				file: "olimpiadas/matematica/main.md",
+			"topicos": {
+				name: "Tópicos de Estudo",
+				file: "olimpiadas/matematica/materias.md",
 				children: {
+					"imo": {
+						name: "Olimpíada Internacional",
+						file: "olimpiadas/matematica/materias.md",
+					},
+				}
+			},
+			"fontes": {
+				name: "Fontes de conteúdo",
+				file: "olimpiadas/matematica/fontes-de-conteudo.md",
+				children: {
+					"aops": {
+						name: "Art of Problem Solving",
+						file: "olimpiadas/matematica/fontes-de-conteudo.aops.md",
+					},
 				}
 			},
 			acervo: {

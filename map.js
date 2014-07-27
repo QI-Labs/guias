@@ -144,8 +144,8 @@ module.exports =  {
 				file: "olimpiadas/matematica/materias.md",
 				children: {
 					"imo": {
-						name: "Olimpíada Internacional",
-						file: "olimpiadas/matematica/materias.md",
+						name: "Olimpíada Internacional (IMO)",
+						file: "olimpiadas/matematica/materias.imo.md",
 					},
 				}
 			},

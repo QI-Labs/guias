@@ -1,0 +1,5 @@
+# OBM - OLIMPÍADA BRASILEIRA DE MATEMÁTICA
+
+A OBM é um projeto conjunto do Instituto Nacional de Matemática Pura Aplicada (IMPA), da Sociedade Brasileira de Matemática (SBM) e conta com o apoio do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq/MCTI), da Secretaria de Ciência e Tecnologia para Inclusão Social (Secis), do Ministério de Educação (MEC) por intermédio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), do Fundo Nacional de Desenvolvimento da Educação (FNDE), da Academia Brasileira de Ciências (ABC) e do Instituto Nacional de Ciência e Tecnologia de Matemática (INCT-Mat).
+
+Cada edição nacional da OBM é dividida em quatro níveis (nível 1, 2, 3 e Universitário) e em três fases (exceto o nível Universitário, que é composto de apenas 2 fases). A terceira fase é dividida em dois dias com três problemas cada (exceto o nível 1, que é apenas um dia com cinco problemas) e quatro horas e meia de duração. A pontuação total da OBM é a soma das pontuações das três fases.

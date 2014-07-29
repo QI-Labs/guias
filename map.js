@@ -161,19 +161,19 @@ module.exports =  {
 			},
 			acervo: {
 				name: "Acervo de Competições",
-				file: "olimpiadas/matematica/main.md",
+				file: "olimpiadas/matematica/acervo.md",
 				children: {
 					obm: {
 						name: "Olimpíada Brasileira de Matemática (OBM)",
-						file: "olimpiadas/matematica/main.md",
+						file: "olimpiadas/matematica/acervo.obm.md",
 					},
 					obmep: {
 						name: "Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)",
-						file: "olimpiadas/matematica/main.md",
+						file: "olimpiadas/matematica/acervo.obmep.md",
 					},
 					omerj: {
-						name: "Olimpíada Brasileira de Matemática do Estado do Rio de Janeiro (OMERJ)",
-						file: "olimpiadas/matematica/main.md",
+						name: "Olimpíada Internacional de Matemática (IMO)",
+						file: "olimpiadas/matematica/acervo.imo.md",
 					},
 				}
 			}

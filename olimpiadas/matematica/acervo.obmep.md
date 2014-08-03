@@ -16,7 +16,7 @@ Os participantes da OBMEP  são divididos em três níveis:
 
 </div>
 
-### Fases
+## Fases
 
 A OBMEP se divide em duas fases:
 
@@ -50,7 +50,7 @@ Na OBMEP são premiados 500 (quinhentos) alunos com medalhas de ouro, 1500 (mil 
 
 ## Fontes
 
-[Site Oficial](http://www.obmep.org.br/)
+[Site Oficial da OBMEP](http://www.obmep.org.br/)
 
 
 [Página OBMEP](https://www.facebook.com/obmep/info)

@@ -2,17 +2,19 @@
 
 A Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) é um projeto do Instituto de Matemática Pura e Aplicada (IMPA) que tem como objetivo estimular o estudo da matemática e revelar talentos na área, criando um ambiente estimulante para o estudo da matemática entre alunos e professores de todo o Brasil. Desde 2005, a olimpíada cresce a cada ano, e devio aos sucessivos recordes de participação, a OBMEP se caracteriza como a maior Olimpíada de Matemática do mundo.
 
-## Funcionamento
+<div class="wow">
 
-### Níveis de Participação
+<h2>Níveis de Participação</h2>
 
 Os participantes da OBMEP  são divididos em três níveis:
 
-- Nível 1 – estudantes de 6º e 7º anos do Ensino Fundamental
+<ul>
+	<li>Nível 1 – estudantes de 6º e 7º anos do Ensino Fundamental</li>
+	<li>Nível 2 – estudantes de 8º e 9º anos do Ensino Fundamental</li>
+	<li>Nível 3 – estudantes do Ensino Médio</li>
+</ul>
 
-- Nível 2 – estudantes de 8º e 9º anos do Ensino Fundamental
-
-- Nível 3 – estudantes do Ensino Médio
+</div>
 
 ### Fases
 

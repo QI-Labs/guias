@@ -1,23 +1,33 @@
 
-# Olimmpíada Brasileira de Matemática das Escolas Públicas
+# Olimpíada Brasileira de Matemática das Escolas Públicas
 
-A Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) é um projeto que tem como objetivo estimular o estudo da matemática e revelar talentos na área.
+A Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) é um projeto do Instituto de Matemática Pura e Aplicada (IMPA) que tem como objetivo estimular o estudo da matemática e revelar talentos na área, criando um ambiente estimulante para o estudo da matemática entre alunos e professores de todo o Brasil. Desde 2005, a olimpíada cresce a cada ano, e devio aos sucessivos recordes de participação, a OBMEP se caracteriza como a maior Olimpíada de Matemática do mundo.
 
-Iniciada em 2005, a OBMEP vem crescendo a cada ano criando um ambiente estimulante para o estudo da Matemática entre alunos e professores de todo o país.
+## Funcionamento
 
-Em 2012, cerca de 19,1 milhões de alunos se inscreveram na competição e 99,4% dos municípios brasileiros estiveram representados.
+### Níveis de Participação
 
-Os sucessivos recordes de participação fazem da OBMEP a maior Olimpíada de Matemática do mundo.
+Os participantes da OBMEP  são divididos em três níveis:
 
-Os alunos que participam da OBMEP  a fazem em duas fases e são divididos em três níveis:
+- Nível 1 – estudantes de 6º e 7º anos do Ensino Fundamental
 
-• Nível 1 – estudantes de 6º e 7º anos do Ensino Fundamental
+- Nível 2 – estudantes de 8º e 9º anos do Ensino Fundamental
 
-• Nível 2 – estudantes de 8º e 9º anos do Ensino Fundamental
+- Nível 3 – estudantes do Ensino Médio
 
-• Nível 3 – estudantes do Ensino Médio
+### Fases
 
-## Links
+A OBMEP se divide em duas fases:
+
+- 1ª Fase: Aplicação da prova com 20 questões objetivas, em cada escola inscrita. A correção é feita pelos professores das próprias escolas, a partir das instruções e gabaritos elaborados pela OBMEP.
+
+- 2ª Fase: Prova discursiva contendo entre seis e oito questões, aplicada em centros de aplicação indicados pela OBMEP. Participam dessa Fase aproximadamente 5% dos alunos em cada Nível que obtiveram melhor pontuação na 1ª Fase.
+
+## Como Participar
+
+## Premiação
+
+## Projetos relacionados
 
 [Site Oficial](http://www.obmep.org.br/)
 [Portal da Matemática](http://matematica.obmep.org.br/)

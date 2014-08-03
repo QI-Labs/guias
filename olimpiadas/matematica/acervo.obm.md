@@ -29,10 +29,10 @@ Para os Níveis 1, 2 e 3, a OBM será realizada em três fases. A primeira fase 
 - 1ª Fase: Uma prova de múltipla escolha com 20 a 25 questões com duração de 3 horas.
 
 - 2ª Fase: Uma prova mista (parte A e parte B) realizada apenas nas escolas que enviaram o relatório da primeira fase, com duração de 4 horas e 30 minutos.
-
-- 3 Fase: - Nível 1 - uma prova discursiva com 5 problemas com duração de 4 horas e 30 minutos.
-
-                   - Níveis 2 e 3 - duas provas discursivas realizadas em dois dias consecutivos com 3 problemas em cada dia com uma duração de 4 horas e 30 minutos por dia.
+                   
+- 3 Fase:
+ - Nível 1 - uma prova discursiva com 5 problemas com duração de 4 horas e 30 minutos.
+ - Níveis 2 e 3 - duas provas discursivas realizadas em dois dias consecutivos com 3 problemas em cada dia com uma duração de 4 horas e 30 minutos por dia.
 
 #### Nível Universitário
 

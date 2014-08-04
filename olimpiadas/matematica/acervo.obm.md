@@ -1,13 +1,8 @@
-# OBM - OLIMPÍADA BRASILEIRA DE MATEMÁTICA
+# OBM - Olimpíada Brasileira de Matemática
 
-A OBM é um projeto conjunto do Instituto Nacional de Matemática Pura Aplicada (IMPA), da Sociedade Brasileira de Matemática (SBM) e conta com o apoio do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq/MCTI), da Secretaria de Ciência e Tecnologia para Inclusão Social (Secis), do Ministério de Educação (MEC) por intermédio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), do Fundo Nacional de Desenvolvimento da Educação (FNDE), da Academia Brasileira de Ciências (ABC) e do Instituto Nacional de Ciência e Tecnologia de Matemática (INCT-Mat).
+A Olimpíada Brasileira de Matemática (OBM) é uma competição aberta a todos os estudantes do Ensino Fundamental, Ensino Médio e Universitário das escolas brasileiras públicas e privadas.
 
-
-# Olimpíada Brasileira de Matemática
-
-
-
-
+A primeira edição da olimpíada foi organizada em 1979, e acada ano mais e mais estudantes se juntam a competição. A Sociedade Brasileria de Matemática em estreita parceria com o IMPA, elaborou o projeto tendo como objetivos principais estimular o estudo da Matemática pelos alunos, desenvolver e aperfeiçoar a capacitação dos professores, influenciar na melhoria do ensino, e detectar jovens talentos.
 
 ## Níveis de Participação
 
@@ -29,10 +24,10 @@ Para os Níveis 1, 2 e 3, a OBM será realizada em três fases. A primeira fase 
 - 1ª Fase: Uma prova de múltipla escolha com 20 a 25 questões com duração de 3 horas.
 
 - 2ª Fase: Uma prova mista (parte A e parte B) realizada apenas nas escolas que enviaram o relatório da primeira fase, com duração de 4 horas e 30 minutos.
-                   
+
 - 3 Fase:
  - Nível 1 - uma prova discursiva com 5 problemas com duração de 4 horas e 30 minutos.
- - Níveis 2 e 3 - duas provas discursivas realizadas em dois dias consecutivos com 3 problemas em cada dia com uma duração de 4 horas e 30 minutos por dia.
+- Níveis 2 e 3 - duas provas discursivas realizadas em dois dias consecutivos com 3 problemas em cada dia com uma duração de 4 horas e 30 minutos por dia.
 
 #### Nível Universitário
 
@@ -64,9 +59,8 @@ A premiação da OBM é realizada anualmente, durante a realização da Semana O
 
 [POTI](http://www.poti.impa.br/)
 
-
 ## Fontes
 
 [Site Oficial da OBM](http://www.obm.org.br/opencms/)
 
-[Página]()
+[Revista Eureka]()

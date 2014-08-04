@@ -25,17 +25,17 @@ No Brasil, o processo de seleção para a IMO ocorre através da [Olimpíada Bra
 
 Processo de Seleção:
 
-1) A comissão encarregada da seleção das equipes que representarão o Brasil nas competições internacionais (CES) deve elaborar rankings com a classificação e pontuação de todos os alunos participantes do processo em cada um dos seguintes eventos:
+1. A comissão encarregada da seleção das equipes que representarão o Brasil nas competições internacionais (CES) deve elaborar rankings com a classificação e pontuação de todos os alunos participantes do processo em cada um dos seguintes eventos:
 
-i) Resultado na OBM;
-ii) Provas de seleção;
-iii) Listas de treinamento.
+- Resultado na OBM;
+- Provas de seleção;
+- Listas de treinamento.
 
-2) Finalmente a CES envia esses dados com uma sugestão de equipe para apreciação pela Comissão de Olimpíadas, que pode aprová-la ou sugerir as modificações que considerar adequadas. Caso CES e Comissão de Olimpíadas não entrem em acordo, a Comissão de Olimpíadas tem a última palavra.
+2. Finalmente a CES envia esses dados com uma sugestão de equipe para apreciação pela Comissão de Olimpíadas, que pode aprová-la ou sugerir as modificações que considerar adequadas. Caso CES e Comissão de Olimpíadas não entrem em acordo, a Comissão de Olimpíadas tem a última palavra.
 
-3) A CES e a Comissão de Olimpíadas podem, se julgarem conveniente, levar em consideração os resultados dos estudantes em olimpíadas anteriores ou em provas de seleção e listas de preparação para outras olimpíadas.
+3. A CES e a Comissão de Olimpíadas podem, se julgarem conveniente, levar em consideração os resultados dos estudantes em olimpíadas anteriores ou em provas de seleção e listas de preparação para outras olimpíadas.
 
-4) Assim, como na OBM, não haverá revisão de notas em ii e iii.
+4. Assim, como na OBM, não haverá revisão de notas em ii e iii.
 
 </div>
 

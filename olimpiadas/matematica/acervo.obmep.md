@@ -1,4 +1,4 @@
-# Olimpíada Brasileira de Matemática das Escolas Públicas
+# OBMEP - Olimpíada Brasileira de Matemática das Escolas Públicas
 
 A Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) é um projeto do Instituto de Matemática Pura e Aplicada (IMPA) que tem como objetivo estimular o estudo da matemática e revelar talentos na área, criando um ambiente estimulante para o estudo da matemática entre alunos e professores de todo o Brasil. Desde 2005, a olimpíada cresce a cada ano, e devio aos sucessivos recordes de participação, a OBMEP se caracteriza como a maior Olimpíada de Matemática do mundo.
 

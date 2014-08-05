@@ -1,4 +1,8 @@
-# IMO: Olimpíada Internacional de Matemática
+# Acervo de Olimpíadas
+
+O acervo: Pequena introdução sobre a OBM, OBMEP e IMO. Falar das outras olimpíadas de matemática.
+
+
 
 A Olimpíada Internacional de Matemática é o maior evento educacional do gênero do mundo. Realizada desde 1959, a competição envolve hoje a participação de cerca de 600 estudantes entre 14 e 19 anos de idade, que fazem provas em dois dias consecutivos. Participam dessa competição cerca de 100 países de todo o mundo, representados por equipes de até 6 estudantes secundários ou que não tenham
 ingressado na Universidade ou equivalente na data da celebração da Olimpíada.

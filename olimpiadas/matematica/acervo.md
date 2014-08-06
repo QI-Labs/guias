@@ -1,27 +1,26 @@
 # Acervo de Olimpíadas
 
-O acervo: Pequena introdução sobre a OBM, OBMEP e IMO. Falar das outras olimpíadas de matemática.
+A partir daqui é possível acessar diversas olimpíadas de matemática, sejam elas brasileira ou internacionais!
 
-Principais olimpíadas:
+## Principais olimpíadas de matemática no Brasil:
 
-- OBMEP
-- OBM
-- Olimpíada de Maio
-- Lusofonia
-- Rioplatense
-- Asian Pacific Mathematics Olympiad (APMO)
-- Ibero-Americana de Matemática
-- IMO
-- Romanian Master
+- [OBM]()
+- [OBMEP]()
 
+No Brasil existem diversas olimpíadas de matemática, regionais e nacionais. As competições mais importantes são em primeiro lugar a OBM e em segundo a OBMEP. 
 
-A Olimpíada Internacional de Matemática é o maior evento educacional do gênero do mundo. Realizada desde 1959, a competição envolve hoje a participação de cerca de 600 estudantes entre 14 e 19 anos de idade, que fazem provas em dois dias consecutivos. Participam dessa competição cerca de 100 países de todo o mundo, representados por equipes de até 6 estudantes secundários ou que não tenham
-ingressado na Universidade ou equivalente na data da celebração da Olimpíada.
+A [OBM]() é a mais antiga olimpíada do Brasil, aberta pros públicos do sexto ano até alunos de ensino médio, e também abrangendo nível universitário. Através desta olimpíada que é realizada a seleção do time de seis competidores que participarão da IMO.
 
-Em cada dia, os concorrentes resolvem provas com três problemas, com valor de sete pontos cada, aplicados em quatro horas e meia de prova, abrangendo as disciplinas de álgebra, teoria dos números, combinatória e geometria.
+A [OBMEP]() é exclusiva para alunos de escola pública, e com sucessivos recordes de participação, é considerada a maior olimpíada do mundo com mais de 19 milhões de participantes.
 
-Em 2012 o Brasil conquistou uma medalha de ouro, uma de prata e três de bronze, ficando entre os 20 países mais bem colocados.
+## Principais olimpíadas de matemática internacionais:
 
-A participação brasileira nas competições internacionais de matemática é organizada pela Olimpíada Brasileira de Matemática (OBM) que tem por objetivos estimular o estudo da matemática, contribuir para a melhoria do ensino no país, identificar e apoiar estudantes com talento para a pesquisa científica e selecionar e preparar as equipes brasileiras que participam das diversas competições internacionais de matemática.
+- [IMO]()
+- [Olimpíada de Maio]()
+- [Lusofonia]()
+- [Rioplatense]()
+- [Asian Pacific Mathematics Olympiad (APMO)]()
+- [Ibero-Americana de Matemática]()
+- [Romanian Master]()
 
-A OBM é um projeto conjunto do Instituto Nacional de Matemática Pura Aplicada (IMPA), da Sociedade Brasileira de Matemática (SBM) e conta com o apoio do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq/MCTI), da Secretaria de Ciência e Tecnologia para Inclusão Social (Secis), do Ministério de Educação (MEC) por intermédio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), do Fundo Nacional de Desenvolvimento da Educação (FNDE), da Academia Brasileira de Ciências (ABC) e do Instituto Nacional de Ciência e Tecnologia de Matemática (INCT-Mat).
+A [IMO]() é o maior evento educacional do gênero do mundo, sendo realizada todo ano no mês de Julho. Atualmente, a competição envolve a cerca de 600 estudantes competindo, que fazem provas em dois dias consecutivos. Participam da olimpíada cerca de 100 países de todo o mundo, representados por equipes de até 6 estudantes.

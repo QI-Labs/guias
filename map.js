@@ -171,7 +171,7 @@ module.exports =  {
 						name: "Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)",
 						file: "olimpiadas/matematica/acervo.obmep.md",
 					},
-					omerj: {
+					imo: {
 						name: "Olimpíada Internacional de Matemática (IMO)",
 						file: "olimpiadas/matematica/acervo.imo.md",
 					},

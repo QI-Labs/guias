@@ -82,7 +82,7 @@ Retirado de: site oficial OBM <http://www.obm.org.br/> 4/8/2014
 
 ## Como se preparar
 
-Como a seleção dos participantes brasileiros na IMO é feita através da OBM, recomendamos ler a parte de [OBM]() no nosso site. N próprio site da OBM você pode encontrar [provas e gabaritos](http://www.obm.org.br/opencms/provas_gabaritos/) de edições anteriores da olimpíada, uma página para [leituras recomendadas](http://www.obm.org.br/opencms/como_se_preparar/links/) e um [banco de provas internacionais](http://www.obm.org.br/opencms/como_se_preparar/provas/).
+Como a seleção dos participantes brasileiros na IMO é feita através da OBM, recomendamos ler a parte de [OBM]() no nosso site. No próprio site da OBM você pode encontrar [provas e gabaritos](http://www.obm.org.br/opencms/provas_gabaritos/) de edições anteriores da olimpíada, uma página para [leituras recomendadas](http://www.obm.org.br/opencms/como_se_preparar/links/) e um [banco de provas internacionais](http://www.obm.org.br/opencms/como_se_preparar/provas/).
 O site da IMO também oferece problemas de [edições anteriores](http://www.imo-official.org/problems.aspx), embora nem todos sejam disponíveis em português.
 
 É importante procurar outras formas de estudo além das provas anteriores, e para isso sugerimos a página [Fontes e Conteúdo]() para formas diferentes de trabalhar a matemática, e [Plano de Estudo](), com diversos livros sugeridos!

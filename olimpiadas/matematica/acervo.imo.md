@@ -17,6 +17,38 @@ Os objetivos da IMO são:
 
 A prova tem um total de seis problemas matemáticos, cada um podendo valer no máximo sete pontos. Os competidores possuem dois dias consecutivos para a resolução da prova, sendo no máximo quatro horas e meia por dia para resolver três questões. 
 
+<!--
+
+Os problemas podem ser de qualquer área da matemática do ensino médio, que inclui geometria, teoria dos números, álgebra e análise combinatória. A resolução dos problemas não exige conhecimento de matemática avançada, necessitando porém de grande inteligência e habilidades matemáticas.
+
+Tópicos abordados
+Álgebra:
+Teoremas fundamentais sobre Álgebra;
+Desigualdades;
+Fatoração de um polinômio;
+Teorema de Vieta.
+Análise Combinatória:
+Teoria dos grafos.
+Geometria
+Linha de Euler;
+Propriedades do ortocentro;
+Nove pontos-círculo;
+Linha de Simson;
+A desigualdade de Ptolomeu, Ceva e Menelau.
+Teoria dos Números:
+Teoremas fundamentais sobre Aritmética;
+Equações Lineares, quadrática e diofantinas, incluindo a equação de Pell;
+Aritmética dos restos, Teorema de Fermat e de Euler.
+Tópicos excluídos:
+Cálculo;
+Números complexos (embora presentes no passado);
+Inversão na geometria;
+Geometria sólida (embora presente no passado, pode retornar).
+
+http://olympiads.win.tue.nl/imo/index.html
+
+-->
+
 
 ## Como participar
 
@@ -69,4 +101,6 @@ Fontes
 [General Regulation IMO](http://www.imo-official.org/documents/RegulationsIMO.pdf)
 
 [Site Oficial da IMO 2014](http://www.imo2014.org.za/)
+
+Para o logo: http://www.imo-official.org/general.aspx
 -->

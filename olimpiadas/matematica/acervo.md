@@ -1,6 +1,6 @@
 # Acervo de Olimpíadas
 
-A partir daqui é possível acessar diversas olimpíadas de matemática, sejam elas brasileira ou internacionais!
+A partir daqui é possível acessar diversas olimpíadas de matemática, sejam elas brasileiras ou internacionais!
 
 ## Principais olimpíadas de matemática no Brasil:
 

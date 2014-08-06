@@ -1,6 +1,6 @@
 # OBM - Olimpíada Brasileira de Matemática
 
-A Olimpíada Brasileira de Matemática (OBM) é uma competição aberta a todos os estudantes do Ensino Fundamental, Ensino Médio e Universitário das escolas brasileiras públicas e privadas.
+A Olimpíada Brasileira de Matemática (OBM) é uma competição aberta a todos os estudantes do Ensino Fundamental, Ensino Médio e Universitário das escolas brasileiras públicas e privadas, que se caracteriza por ser a mais tradicional das competições matemáticas brasileiras. Vários pesquisadores brasileiros de destaque na Matemática ou em áreas afins tiveram na OBM um importante ponto de partida em suas carreiras.
 
 A primeira edição da olimpíada foi organizada em 1979, e acada ano mais e mais estudantes se juntam a competição. A Sociedade Brasileria de Matemática em estreita parceria com o IMPA, elaborou o projeto tendo como objetivos principais estimular o estudo da Matemática pelos alunos, desenvolver e aperfeiçoar a capacitação dos professores, influenciar na melhoria do ensino, e detectar jovens talentos.
 

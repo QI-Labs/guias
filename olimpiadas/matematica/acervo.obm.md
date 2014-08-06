@@ -59,8 +59,10 @@ A premiação da OBM é realizada anualmente, durante a realização da Semana O
 
 [POTI](http://www.poti.impa.br/)
 
-## Fontes
+<!--
+
+Fontes
 
 [Site Oficial da OBM](http://www.obm.org.br/opencms/)
 
-[Revista Eureka]()
+-->

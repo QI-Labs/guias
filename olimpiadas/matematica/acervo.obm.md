@@ -55,9 +55,16 @@ Serão premiados os alunos que obtiverem as melhores pontuações finais. Esses 
 
 A premiação da OBM é realizada anualmente, durante a realização da Semana Olímpica. Para garantir a particiáção dos alunos premiados, a Comissão Nacional de Olimpíadas patrocina o translado, a hospedagem e demais despesas dos ganhadores de medalhas de ouro! Para alunos que ganham medalhas de prata ou bronze, haverá patrocínio da hospedagem e despesas de alimentação. Os diplomas das mensões honrosas serão enviadas pelo correio.
 
+<!-- <div class = "red"> -->
+
+Os resultados obtidos na OBM são fundamentais na escolha das equipes que representam o Brasil em competições internacionais de Matemática (Olimpíada do Cone Sul, Olimpíada Ibero- Americana e, a mais importante delas, a Olimpíada Internacional de Matemática, na qual estudantes brasileiros já obtiveram 7 medalhas de ouro).
+
+<!-- </div> -->
+
 ## Projetos relacionados
 
 [POTI](http://www.poti.impa.br/)
+[Revista Eureka](http://www.obm.org.br/opencms/revista_eureka/)
 
 <!--
 

@@ -57,6 +57,10 @@ Segundo o Regulamento Geral da IMO, cada país convidado a participar da competi
 
 No Brasil, o processo de seleção para a IMO ocorre através da [Olimpíada Brasileira de Matemática](). Portanto, participam do processo alunos premiados com medalhas de ouro, prata, bronze e menções honrosas na OBM do ano imediatamente anterior ao processo de seleção. Além disso, para ser selecionado para a IMO, os participantes têm que ter menos de 20 anos e não podem estar cursando qualquer universidade. 
 
+<!--
+<div class = "red">
+-->
+
 Processo de Seleção:
 
 1. A comissão encarregada da seleção das equipes que representarão o Brasil nas competições internacionais (CES) deve elaborar rankings com a classificação e pontuação de todos os alunos participantes do processo em cada um dos seguintes eventos:
@@ -71,6 +75,10 @@ Processo de Seleção:
 
 4. Assim, como na OBM, não haverá revisão de notas em ii e iii.
 
+<!--
+Retirado de: site oficial OBM <http://www.obm.org.br/> 4/8/2014
+</div>
+-->
 
 ## Como se preparar
 

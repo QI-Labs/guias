@@ -2,10 +2,11 @@
 
 A partir daqui é possível acessar diversas olimpíadas de matemática, sejam elas brasileiras ou internacionais!
 
-## Principais olimpíadas de matemática no Brasil:
+## Principais olimpíadas de matemática no Brasil
 
 - [OBM]()
 - [OBMEP]()
+
 
 No Brasil existem diversas olimpíadas de matemática, regionais e nacionais. As competições mais importantes são em primeiro lugar a OBM e em segundo a OBMEP. 
 
@@ -13,7 +14,7 @@ A [OBM]() é a mais antiga olimpíada do Brasil, aberta pros públicos do sexto 
 
 A [OBMEP]() é exclusiva para alunos de escola pública, e com sucessivos recordes de participação, é considerada a maior olimpíada do mundo com mais de 19 milhões de participantes.
 
-## Principais olimpíadas de matemática internacionais:
+## Principais olimpíadas de matemática internacionais
 
 - [IMO]()
 - [Olimpíada de Maio]()

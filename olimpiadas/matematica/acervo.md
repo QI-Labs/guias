@@ -1,6 +1,6 @@
 # Acervo de Olimpíadas
 
-A partir daqui é possível acessar diversas olimpíadas de matemática, sejam elas brasileira sou internacionais.
+A partir daqui é possível acessar diversas olimpíadas de matemática, sejam elas brasileira ou internacionais!
 
 ## Principais olimpíadas de matemática no Brasil:
 
@@ -20,7 +20,7 @@ A [OBMEP]() é exclusiva para alunos de escola pública, e com sucessivos record
 - [Lusofonia]()
 - [Rioplatense]()
 - [Asian Pacific Mathematics Olympiad (APMO)]()
-- [Ibero-Americana de Matemática]
+- [Ibero-Americana de Matemática]()
 - [Romanian Master]()
 
 A [IMO]() é o maior evento educacional do gênero do mundo, sendo realizada todo ano no mês de Julho. Atualmente, a competição envolve a cerca de 600 estudantes competindo, que fazem provas em dois dias consecutivos. Participam da olimpíada cerca de 100 países de todo o mundo, representados por equipes de até 6 estudantes.

@@ -61,10 +61,12 @@ Em geral, o número total de prêmios (primeiro, segundo e terceiro lugares) seg
 [Art of Problem Solving]()
 
 
-## Fontes
+<!--
+Fontes
 
 [Site Oficial da IMO](http://www.imo-official.org/)
 
 [General Regulation IMO](http://www.imo-official.org/documents/RegulationsIMO.pdf)
 
 [Site Oficial da IMO 2014](http://www.imo2014.org.za/)
+-->

@@ -47,10 +47,10 @@ Na OBMEP são premiados 500 (quinhentos) alunos com medalhas de ouro, 1500 (mil 
 
 [Clubes de Matemática da OBMEP](http://clubes.obmep.org.br/blog/)
 
-
-## Fontes
+<!--
+Fontes
 
 [Site Oficial da OBMEP](http://www.obmep.org.br/)
 
-
 [Página OBMEP](https://www.facebook.com/obmep/info)
+-->

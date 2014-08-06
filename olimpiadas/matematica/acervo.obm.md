@@ -17,7 +17,7 @@ A OBM é organizada em quatro níveis:
 
 As fases para os níveis 1, 2 e 3 são diferentes das fases para nível universitário, cujas datas são fixadas anualmente pela Comissão Nacional de Olimpíadas da SBM.
 
-#### Níveis 1, 2 e 3
+### Níveis 1, 2 e 3
 
 Para os Níveis 1, 2 e 3, a OBM será realizada em três fases. A primeira fase será realizada no primeiro semestre, a segunda e a terceira no segundo semestre.
 
@@ -29,7 +29,7 @@ Para os Níveis 1, 2 e 3, a OBM será realizada em três fases. A primeira fase 
  - Nível 1 - uma prova discursiva com 5 problemas com duração de 4 horas e 30 minutos.
  - Níveis 2 e 3 - duas provas discursivas realizadas em dois dias consecutivos com 3 problemas em cada dia com uma duração de 4 horas e 30 minutos por dia.
 
-#### Nível Universitário
+### Nível Universitário
 
 Para o Nível Universitário, a OBM será realizada em duas fases ambas aplicadas no segundo semestre coincidindo em dia e horário com a segunda e terceira fases dos níveis 2 e 3.
 

@@ -35,11 +35,11 @@ __Volume 3__
 
 __Volume 4__
 
- - Nº 1
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - Nº 1 A Proof for The Lambek and Moser Theorem
+ - Nº 2 A Taste of Topology
+ - Nº 3 Rearrangement Inequality; Power of Points Respect to Circle
+ - Nº 4 Equation x^4+y^4=z^4
+ - Nº 5 (artigo teórico em chinês sem tradução)
 
 __Volume 5__
 

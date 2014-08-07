@@ -7,15 +7,15 @@ A revista é escrita em sua grande maioria em inglês. Embora alguns poucos arti
 
 Organizada em volumes, e em cada um há há quatro ou cinco revistas, cada uma contendo coluna de olimpíada, coluna de problemas e artigos de teorias matemáticas.
 
-### Tópicos abordados na Mathematical Excalibur
+### Tópicos principais abordados na Mathematical Excalibur
 
 Volume 1
 
  - Nº 1 Pigeonhole Principle
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - Nº 2 Pythagorean Triples
+ - Nº 3 Similar Triangles via Complex Numbers
+ - Nº 4 Descartes' Rule of Signs
+ - Nº 5 Systems of Distinct Representatives
 
 Volume 2
 

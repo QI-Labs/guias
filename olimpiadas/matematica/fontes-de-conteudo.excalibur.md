@@ -123,37 +123,32 @@ __Volume 14__
 
 __Volume 15__
 
- - [Nº 1]() 
- - [Nº 2]() 
- - [Nº 3]() 
- - [Nº 4]() 
- - [Nº 5]() 
-
-Primitive Roots Modulo Primes
-Lagrange Interpolation Formula
-IMO Shortlisted Problems
-Klamkin’s Inequality
+ - [Nº 1]() Primitive Roots Modulo Primes
+ - [Nº 2]() Lagrange Interpolation Formula
+ - [Nº 3]() IMO Shortlisted Problems
+ - [Nº 4]() Klamkin’s Inequality
+ - [Nº 5]() Harmonic Series (I)
 
 __Volume 16__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() Harmonic Series (II)
+ - [Nº 2]() Euler’s Planar Graph Formula
+ - [Nº 3]() Remarks on IMO 2011
+ - [Nº 4]() Zsigmondy’s Theorem; A Geometry Theorem
+ - [Nº 5]() Casey’s Theorem
 
 __Volume 17__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() IMO 2012 (Leader Perspective)
+ - [Nº 2]() IMO 2012 (Member Perspective)
+ - [Nº 3]() Primes in Arithmetic Progressions
+ - [Nº 4]() Putnam Exam
+ - [Nº 5]() The Inequality of A. Oppenheim
 
 __Volume 18__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() Ptolemy’s Inequality
+ - [Nº 2]() IMO 2013 – Leader Report (I)
+ - [Nº 3]() Sequences; IMO 2013 - Leader Report(II)
+ - [Nº 4]() PUMaC 2013
+ - [Nº 5]() Using Tangent Lines to Prove Inequalities (Part II)

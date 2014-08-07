@@ -28,11 +28,10 @@ __Volume 2__
 
 __Volume 3__
 
- - Nº 1
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - Nº 1 (artigo teórico em chinês sem tradução)
+ - Nº 2 (artigo teórico em chinês sem tradução)
+ - Nº 3 Error Correcting Codes (Part II)
+ - Nº 4 Inverse Sequences and Complementary Sequences
 
 __Volume 4__
 

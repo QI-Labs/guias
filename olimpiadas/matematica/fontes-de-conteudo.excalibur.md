@@ -9,7 +9,8 @@ Organizada em volumes, e em cada um há há quatro ou cinco revistas, cada uma c
 
 ### Tópicos principais abordados na Mathematical Excalibur
 
-Volume 1
+
+*Volume 1*
 
  - Nº 1 Pigeonhole Principle
  - Nº 2 Pythagorean Triples

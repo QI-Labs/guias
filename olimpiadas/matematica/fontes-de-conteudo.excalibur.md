@@ -83,51 +83,56 @@ __Volume 9__
 
 __Volume 10__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() Generalization of Problem 203
+ - [Nº 2]() (tradução não disponível)
+ - [Nº 3]() Famous Geometry Theorems
+ - [Nº 4]() The Method of Infinite Descent
+ - [Nº 5]() Using Tangent Lines to Prove Inequalities (Schur’s Inequality)
 
 __Volume 11__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() Muirhead’s Inequality; Proofs of Muirhead’s Inequality
+ - [Nº 2]() Angle Bisectors Bisect Arcs
+ - [Nº 3]() Summation by Parts
+ - [Nº 4]() Pole and Polar
+ - [Nº 5]() Difference Operator
 
 __Volume 12__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() From How to Solve It to Problem Solving in Geometry
+ - [Nº 2]() From How to Solve It to Problem Solving in Geometry (II)
+ - [Nº 3]() Convex Hull
+ - [Nº 4]() Inequalities with Product Condition
+ - [Nº 5]() Square It! (inequalities)
 
 __Volume 13__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() Point Set Combinatorics
+ - [Nº 2]() Geometric Transformations I
+ - [Nº 3]() Geometric Transformations II
+ - [Nº 4]() Double Counting
+ - [Nº 5]() Generating Functions
 
 __Volume 14__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() A Nice Identity
+ - [Nº 2]() Remarks on IMO 2009
+ - [Nº 3]() Probabilistic Method
+ - [Nº 4]() A Refinement of Bertrand’s Postulate; Max-Min Inequalities
+ - [Nº 5]() Ramsey Numbers and Generalizations
 
 __Volume 15__
 
- - [Nº 1]()
- - [Nº 2]()
- - [Nº 3]()
- - [Nº 4]()
- - [Nº 5]()
+ - [Nº 1]() 
+ - [Nº 2]() 
+ - [Nº 3]() 
+ - [Nº 4]() 
+ - [Nº 5]() 
+
+Primitive Roots Modulo Primes
+Lagrange Interpolation Formula
+IMO Shortlisted Problems
+Klamkin’s Inequality
 
 __Volume 16__
 

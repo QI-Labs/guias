@@ -157,7 +157,14 @@ module.exports =  {
 						name: "Art of Problem Solving",
 						file: "olimpiadas/matematica/fontes-de-conteudo.aops.md",
 					},
-				}
+					"poti": {
+						name: "POTI"
+						file: "olimpiadas/matematica/fontes-de-conteudo.poti.md"
+					},
+					"eureka": {
+						name: "Eureka!"
+						file: "olimpiadas/matematica/fontes-de-conteudo.eureka.md"
+					},
 			},
 			acervo: {
 				name: "Acervo de Competições",

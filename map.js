@@ -159,11 +159,15 @@ module.exports =  {
 					},
 					"poti": {
 						name: "POTI",
-						file: "olimpiadas/matematica/fontes-de-conteudo.poti.md"
+						file: "olimpiadas/matematica/fontes-de-conteudo.poti.md",
 					},
 					"eureka": {
 						name: "Eureka!",
-						file: "olimpiadas/matematica/fontes-de-conteudo.eureka.md"
+						file: "olimpiadas/matematica/fontes-de-conteudo.eureka.md",
+					},
+					"excalibur":{
+						name: "Mathematical Excalibur",
+						file: "olimpiadas/matematica/fontes-de-conteudo.excalibur.md"
 					},
 				},
 			},

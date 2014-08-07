@@ -41,11 +41,19 @@ Na OBMEP são premiados 500 (quinhentos) alunos com medalhas de ouro, 1500 (mil 
 
 [Portal da Matemática](http://matematica.obmep.org.br/)
 
+[Site do PIC](http://pic.obmep.org.br/)
+
 [Apostilas do Pic](http://www.obmep.org.br/prog_ic_2010/apostila2010.html)
 
 [POTI](http://www.poti.impa.br/)
 
 [Clubes de Matemática da OBMEP](http://clubes.obmep.org.br/blog/)
+
+[Blog do PECI](http://peci.obmep.org.br/blog/)
+
+[PICME](http://picme.obmep.org.br/)
+
+[PROF](http://prof.obmep.org.br/portal)
 
 <!--
 Fontes

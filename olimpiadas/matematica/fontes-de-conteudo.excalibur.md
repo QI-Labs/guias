@@ -10,7 +10,7 @@ Organizada em volumes, e em cada um há há quatro ou cinco revistas, cada uma c
 ### Tópicos principais abordados na Mathematical Excalibur
 
 
-**Volume 1**
+__Volume 1__
 
  - Nº 1 Pigeonhole Principle
  - Nº 2 Pythagorean Triples
@@ -18,7 +18,7 @@ Organizada em volumes, e em cada um há há quatro ou cinco revistas, cada uma c
  - Nº 4 Descartes' Rule of Signs
  - Nº 5 Systems of Distinct Representatives
 
-Volume 2
+__Volume 2__
 
  - Nº 1
  - Nº 2
@@ -26,7 +26,7 @@ Volume 2
  - Nº 4
  - Nº 5
 
-Volume 3
+__Volume 3__
 
  - Nº 1
  - Nº 2
@@ -34,7 +34,7 @@ Volume 3
  - Nº 4
  - Nº 5
 
-Volume 4
+__Volume 4__
 
  - Nº 1
  - Nº 2
@@ -42,7 +42,7 @@ Volume 4
  - Nº 4
  - Nº 5
 
-Volume 5
+__Volume 5__
 
  - Nº 1
  - Nº 2
@@ -50,7 +50,7 @@ Volume 5
  - Nº 4
  - Nº 5
 
-Volume 6
+__Volume 6__
 
  - Nº 1
  - Nº 2
@@ -58,7 +58,7 @@ Volume 6
  - Nº 4
  - Nº 5
 
-Volume 7
+__Volume 7__
 
  - Nº 1
  - Nº 2
@@ -66,7 +66,7 @@ Volume 7
  - Nº 4
  - Nº 5
 
-Volume 8
+__Volume 8__
 
  - Nº 1
  - Nº 2
@@ -74,7 +74,7 @@ Volume 8
  - Nº 4
  - Nº 5
 
-Volume 9
+__Volume 9__
 
  - Nº 1
  - Nº 2
@@ -82,7 +82,7 @@ Volume 9
  - Nº 4
  - Nº 5
 
-Volume 10
+__Volume 10__
 
  - Nº 1
  - Nº 2
@@ -90,7 +90,7 @@ Volume 10
  - Nº 4
  - Nº 5
 
-Volume 11
+__Volume 11__
 
  - Nº 1
  - Nº 2
@@ -98,7 +98,7 @@ Volume 11
  - Nº 4
  - Nº 5
 
-Volume 12
+__Volume 12__
 
  - Nº 1
  - Nº 2
@@ -106,7 +106,7 @@ Volume 12
  - Nº 4
  - Nº 5
 
-Volume 13
+__Volume 13__
 
  - Nº 1
  - Nº 2
@@ -114,7 +114,7 @@ Volume 13
  - Nº 4
  - Nº 5
 
-Volume 14
+__Volume 14__
 
  - Nº 1
  - Nº 2
@@ -122,7 +122,7 @@ Volume 14
  - Nº 4
  - Nº 5
 
-Volume 15
+__Volume 15__
 
  - Nº 1
  - Nº 2
@@ -130,7 +130,7 @@ Volume 15
  - Nº 4
  - Nº 5
 
-Volume 16
+__Volume 16__
 
  - Nº 1
  - Nº 2
@@ -138,7 +138,7 @@ Volume 16
  - Nº 4
  - Nº 5
 
-Volume 17
+__Volume 17__
 
  - Nº 1
  - Nº 2
@@ -146,7 +146,7 @@ Volume 17
  - Nº 4
  - Nº 5
 
-Volume 18
+__Volume 18__
 
  - Nº 1
  - Nº 2

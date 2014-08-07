@@ -20,11 +20,11 @@ __Volume 1__
 
 __Volume 2__
 
- - Nº 1
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - Nº 1 Solution by Linear Combination
+ - Nº 2 Stirling's Inequality
+ - Nº 3 Fermat's Little Theorem and Other Stories
+ - Nº 4 Ptolemy's Theorem
+ - Nº 5 Error Correcting Codes (Part I)
 
 __Volume 3__
 

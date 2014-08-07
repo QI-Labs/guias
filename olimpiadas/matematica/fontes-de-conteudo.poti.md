@@ -10,4 +10,4 @@ Os polos do programa para as aulas presenciais estão espalhados pelo país, sen
 
 Há um número limitado de vagas para as aulas presenciais em cada Polo. Se o número de estudantes se inscrevendo for maior que as vagas disponíveis em um polo, o Coordenador do POTI estabelecerá uma lista de prioridades, analisando o histórico escolar e a inscrição dos candidatos às vagas, e os que não forem selecionados de primeira podem esperar na fila de espera para o caso de eventuais desistências.
 
-Se você não mora em uma dessas cidades ou por algum motivo não pode participar das aulas presenciais, o site do POTI disponibiliza os [**vídeos**](http://poti.impa.br/index.php/videos) das aulas e seus respectivos [materiais teóricos](http://poti.impa.br/index.php/material) **gratuitamente** no sitedo programa!
+Se você não mora em uma dessas cidades ou por algum motivo não pode participar das aulas presenciais, o site do POTI disponibiliza os [**vídeos**](http://poti.impa.br/index.php/videos) das aulas e seus respectivos [materiais teóricos](http://poti.impa.br/index.php/material) **gratuitamente** no site do programa!

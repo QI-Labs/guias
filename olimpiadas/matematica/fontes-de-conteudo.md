@@ -9,7 +9,7 @@ Clique [aqui](http://www.qilabs.org/guias/olimpiadas-matematica/fontes/aops) par
 
 ### [__POTI__](http://www.qilabs.org/guias/olimpiadas-matematica/fontes/poti)
 
-O programa ***Polos Olímpicos de Treinamento Intensivo**, [POTI](http://poti.impa.br/), oferece cursos presenciais gratuitos de matemática para os estudantes de todo o Brasil. O curso presencial é realizado nos polos em certas cidades do Brasil, mas todo o material e vídeos do programa – feitos pelos melhores professores do Brasil – estão disponíveis no site do POTI. O curso para cada um dos níveis (I e II) cobrirá os conteúdos de **Álgebra**, **Combinatória**, **Geometria Plana** e **Teoria dos Números**.
+O programa **Polos Olímpicos de Treinamento Intensivo**, [POTI](http://poti.impa.br/), oferece cursos presenciais gratuitos de matemática para os estudantes de todo o Brasil. O curso presencial é realizado nos polos em certas cidades do Brasil, mas todo o material e vídeos do programa – feitos pelos melhores professores do Brasil – estão disponíveis no site do POTI. O curso para cada um dos níveis (I e II) cobrirá os conteúdos de **Álgebra**, **Combinatória**, **Geometria Plana** e **Teoria dos Números**.
 
 Clique [aqui](http://www.qilabs.org/guias/olimpiadas-matematica/fontes/poti) para conferir o nosso conteúdo exclusivo sobre o **POTI**.
 

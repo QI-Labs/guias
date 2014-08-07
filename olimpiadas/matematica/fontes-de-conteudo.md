@@ -17,4 +17,4 @@ A [revista Eureka!](http://www.obm.org.br/opencms/revista_eureka/) tem como obje
 
 ### [__Mathematical Excalibur__](http://www.qilabs.org/guias/olimpiadas-matematica/fontes/excalibur)
 
-Uma das revistas matemáticas mais conhecidas do mundo, a **[Mathematical Excalibur](http://www.math.ust.hk/excalibur/)** contém diversos pequenos artigos sobre um assunto matemático específico, com diversos exemplos e problemas famosos. Perfeito pra quem busca teoria pequena e problemas selecionados! Essa revista pode ser baixada gratuitamente em seu site oficial: [math.ust.hk/excalibur](http://www.math.ust.hk/excalibur/).
+Uma das revistas matemáticas mais conhecidas do mundo, a **[Mathematical Excalibur](http://www.math.ust.hk/excalibur/)** contém diversos pequenos artigos sobre um assunto matemático específico, com diversos exemplos e problemas famosos. Perfeito pra quem busca teoria pequena e problemas selecionados! Essa revista pode ser baixada gratuitamente em seu [site oficial](http://www.math.ust.hk/excalibur/).

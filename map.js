@@ -175,15 +175,15 @@ module.exports =  {
 				name: "Acervo de Competições",
 				file: "olimpiadas/matematica/acervo.md",
 				children: {
-					obm: {
+					"obm": {
 						name: "Olimpíada Brasileira de Matemática (OBM)",
 						file: "olimpiadas/matematica/acervo.obm.md",
 					},
-					obmep: {
+					"obmep": {
 						name: "Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)",
 						file: "olimpiadas/matematica/acervo.obmep.md",
 					},
-					imo: {
+					"imo": {
 						name: "Olimpíada Internacional de Matemática (IMO)",
 						file: "olimpiadas/matematica/acervo.imo.md",
 					},

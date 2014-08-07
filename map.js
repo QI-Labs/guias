@@ -167,7 +167,7 @@ module.exports =  {
 					},
 					"excalibur":{
 						name: "Mathematical Excalibur",
-						file: "olimpiadas/matematica/fontes-de-conteudo.excalibur.md"
+						file: "olimpiadas/matematica/fontes-de-conteudo.excalibur.md",
 					},
 				},
 			},

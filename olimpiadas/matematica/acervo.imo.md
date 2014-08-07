@@ -1,13 +1,13 @@
 # IMO - Olimpíada Internacional de Matemática
 
-A Olimpíada Internacional de Matemática (International Mathematical  Olympiad - IMO) é uma competição para alunos do Ensino Médio, sediada a cada ano em países diferentes, no mês de Junho.
+A **Olimpíada Internacional de Matemática** (International Mathematical  Olympiad - IMO) é uma competição para alunos do Ensino Médio, sediada a cada ano em países diferentes, durante o mês de Junho.
 
 A primeira edição da olimpíada ocorreu em 1959, na Romênia, com apenas sete países participando. Atualmente, mais de cem países mandam times para participar da IMO, sendo esta a mais antiga e maior Olimpíadas Internacionais de Ciências.
 
 Os objetivos da IMO são:
 - descobrir, encorajar e desafiar jovens com talento em matemática de vários países;
 - promover relações amigáveis entre matemáticos de todos os países; 
-- criar uma oportunidade para a troca de informações sobre os programas de ensino e práticas escolares em todo o mundo; 
+- criar uma oportunidade para a troca de informações sobre os programas de ensino e práticas escolares em todo o mundo;
 - promover a matemática em geral. 
 
 
@@ -55,7 +55,7 @@ http://olympiads.win.tue.nl/imo/index.html
 
 Segundo o Regulamento Geral da IMO, cada país convidado a participar da competição deve enviar um time que consiste de seis competidores, um líder e um vice-líder. Os seis competidores devem ser selecionados pela Olimpíada de Matemática do país de origem, ou programa equivalente.
 
-No Brasil, o processo de seleção para a IMO ocorre através da [Olimpíada Brasileira de Matemática](). Portanto, participam do processo alunos premiados com medalhas de ouro, prata, bronze e menções honrosas na OBM do ano imediatamente anterior ao processo de seleção. Além disso, para ser selecionado para a IMO, os participantes têm que ter menos de 20 anos e não podem estar cursando qualquer universidade. 
+No Brasil, o processo de seleção para a IMO ocorre através da [**Olimpíada Brasileira de Matemática**](). Portanto, participam do processo alunos premiados com medalhas de ouro, prata, bronze e menções honrosas na OBM do ano imediatamente anterior ao processo de seleção. Além disso, para ser selecionado para a IMO, os participantes têm que ter menos de 20 anos e não podem estar cursando qualquer universidade. 
 
 <!--
 <div class = "red">
@@ -82,10 +82,10 @@ Retirado de: site oficial OBM <http://www.obm.org.br/> 4/8/2014
 
 ## Como se preparar
 
-Como a seleção dos participantes brasileiros na IMO é feita através da OBM, recomendamos ler a parte de [OBM]() no nosso site. No próprio site da OBM você pode encontrar [provas e gabaritos](http://www.obm.org.br/opencms/provas_gabaritos/) de edições anteriores da olimpíada, uma página para [leituras recomendadas](http://www.obm.org.br/opencms/como_se_preparar/links/) e um [banco de provas internacionais](http://www.obm.org.br/opencms/como_se_preparar/provas/).
-O site da IMO também oferece problemas de [edições anteriores](http://www.imo-official.org/problems.aspx), embora nem todos sejam disponíveis em português.
+Como a seleção dos participantes brasileiros na IMO é feita através da **OBM**, recomendamos ler a parte de [OBM]() no nosso site, e visitar o site da OBM, onde você pode encontrar [provas e gabaritos](http://www.obm.org.br/opencms/provas_gabaritos/) de edições anteriores da olimpíada, uma página para [leituras recomendadas](http://www.obm.org.br/opencms/como_se_preparar/links/) e um [banco de provas internacionais](http://www.obm.org.br/opencms/como_se_preparar/provas/).
+O site da **IMO** também oferece problemas de [edições anteriores](http://www.imo-official.org/problems.aspx), embora nem todos sejam disponíveis em português.
 
-É importante procurar outras formas de estudo além das provas anteriores, e para isso sugerimos a página [Fontes e Conteúdo]() para formas diferentes de trabalhar a matemática, e [Plano de Estudo](), com diversos livros sugeridos!
+É importante procurar outras formas de estudo além das provas anteriores, e para isso sugerimos a página [**Fontes e Conteúdo**]() para formas diferentes de trabalhar a matemática, e [**Plano de Estudo**](), com diversos livros sugeridos!
 
 
 ## Premiação

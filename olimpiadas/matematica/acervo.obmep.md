@@ -30,7 +30,7 @@ Todos os alunos inscritos em escolas públicas municipais, estaduais e federais 
 
 ## Como se preparar
 
-Há diversas formas de começar a se preparar para a OBMEP. O próprio site oficial da olimpíada disponibiliza ótimas ferramentas de estudo para os alunos, como [provas e soluções](http://www.obmep.org.br/provas.htm) de edições anteriores da OBMEP, e um [banco de questões](http://www.obmep.org.br/banco.html) com problemas elaborados pela equipe da Olimpíada. Na sessão [Matemática Mundo Afora](http://www.obmep.org.br/para_saber_mais/matematica_mundo_a_fora.ht) há uma lista com diversas outras páginas com problemas de Olimpíadas de Matemática que também ajudam o aluno a se preparar para as provas. Para mais fontes de estudo e informações a respeito, visite a nossa página de **[Plano de Estudo]**()!
+Há diversas formas de começar a se preparar para a OBMEP. O próprio site oficial da olimpíada disponibiliza ótimas ferramentas de estudo para os alunos, como [provas e soluções](http://www.obmep.org.br/provas.htm) de edições anteriores da OBMEP, e um [banco de questões](http://www.obmep.org.br/banco.html) com problemas elaborados pela equipe da Olimpíada. Na sessão [Matemática Mundo Afora](http://www.obmep.org.br/para_saber_mais/matematica_mundo_a_fora.ht) há uma lista com diversas outras páginas com problemas de Olimpíadas de Matemática que também ajudam o aluno a se preparar para as provas. Para mais fontes de estudo e informações a respeito, visite a nossa página de [**Plano de Estudo**]()!
 
 ## Premiação
 

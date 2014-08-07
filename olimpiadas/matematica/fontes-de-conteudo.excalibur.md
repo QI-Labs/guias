@@ -1,6 +1,8 @@
 ## Mathematical Excalibur
 
-Sendo uma das revistas de matemática mais conhecidas do mundo, a [Mathematical Excalibur](https://www.math.ust.hk/excalibur/) oferece diversos volumes com pequenos artigos sobre um assunto matemático específico, em um formato ótimo para quem busca teoria pequena e questões selecionadas. As edições também contém coluna de problemas de olimpíadas e de problemas diversos.
+Sendo uma das revistas de matemática mais conhecidas do mundo, a [**Mathematical Excalibur**](https://www.math.ust.hk/excalibur/) oferece diversos volumes com pequenos artigos sobre um assunto matemático específico, em um formato ótimo para quem busca teoria pequena e questões selecionadas. As edições também contém coluna de problemas de olimpíadas e de problemas diversos.
+
+A revista pode ser baixada **gratuitamente** em seu [site oficial](https://www.math.ust.hk/excalibur/)!
 
 Disponibilizaremos a seguir as principais teorias abordadas nas edições da revista, que é escrita em sua grande maioria em inglês. Embora alguns poucos artigos estejam em chinês, o site disponibiliza tradução da maioria deles.
 

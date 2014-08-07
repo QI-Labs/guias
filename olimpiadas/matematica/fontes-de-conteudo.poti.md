@@ -4,7 +4,7 @@ O Polos Olímpicos de Treinamento Intensivo ([POTI](http://poti.impa.br/)) é pr
 
 O público alvo da iniciativa são estudantes interessados em participar da OBM ou OBMEP, que irão competir em modalidade nível II (ou seja, precisam estar matriculados no oitavo ou nono anos do Ensino Fundamental) ou no nível III (matriculados no Ensino Médio).
 
-O curso é dividido um níveis I e II (seguindo a linha de divisão de níveis de olimpíadas de matemática), e cobre conteúdos como Álgebra, Combinatória, Geometria Plana e Teoria dos Números.
+O curso é dividido um níveis I e II (seguindo a linha de divisão de níveis de olimpíadas de matemática), e cobre conteúdos como Álgebra, Combinatória, Geometria Plana e Teoria dos Números. Clique [aqui](http://poti.impa.br/upload/extra/ementas.pdf) para acessar o programa didático dos cursos!
 
 Os polos do programa para as aulas presenciais estão espalhados pelo país, sendo estes em Fortaleza, Rio de Janeiro, Parnaíba, Salvador, São Bernardo do Campo, São José dos Campos e São Paulo. Se você se interessou e mora perto de algum desses polos, não perca tempo e participe do programa! Faça a inscrição [aqui](http://poti.impa.br/index.php/inscricao).
 

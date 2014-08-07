@@ -4,7 +4,7 @@ Sendo uma das revistas de matemática mais conhecidas do mundo, a [Mathematical 
 
 Disponibilizaremos a seguir as principais teorias abordadas nas edições da revista, que é escrita em sua grande maioria em inglês. Embora alguns poucos artigos estejam em chinês, o site disponibiliza tradução da maioria deles.
 
-### Tópicos principais abordados na Mathematical Excalibur
+### Tópicos principais de cada edição
 
 
 __Volume 1__

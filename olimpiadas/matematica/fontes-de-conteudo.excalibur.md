@@ -75,11 +75,11 @@ __Volume 8__
 
 __Volume 9__
 
- - Nº 1
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - [Nº 1]() Geometry via Complex Numbers
+ - [Nº 2]() Inversion
+ - [Nº 3]() IMO 2004; Extending an IMO Problem
+ - [Nº 4]() Homothety
+ - [Nº 5]() (artigo teórico em chinês sem tradução)
 
 __Volume 10__
 

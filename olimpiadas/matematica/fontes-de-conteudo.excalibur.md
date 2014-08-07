@@ -1,11 +1,8 @@
 ## Mathematical Excalibur
 
-Uma das revistas matemáticas mais conhecidas do mundo. Ela contém diversos pequenos artigos sobre um assunto matemático específico, com diversos exemplos e problemas famosos. Perfeito pra quem busca teoria pequena e problemas selecionados!
-Essa revista pode ser baixada gratuitamente em seu site oficial.
+Sendo uma das revistas de matemática mais conhecidas do mundo, a Mathematical Excalibur oferece diversos volumes com pequenos artigos sobre um assunto matemático específico, em um formato ótimo para quem busca teoria pequena e questões selecionadas. As edições também contém coluna de problemas de olimpíadas e de problemas diversos.
 
-A revista é escrita em sua grande maioria em inglês. Embora alguns poucos artigos estejam em chinês, o site disponibiliza tradução da maioria deles para o inglês.
-
-Organizada em volumes, e em cada um há há quatro ou cinco revistas, cada uma contendo coluna de olimpíada, coluna de problemas e artigos de teorias matemáticas.
+Listaremos a seguir as principais teorias abordadas nas edições da revista, que é escrita em sua grande maioria em inglês. Embora alguns poucos artigos estejam em chinês, o site disponibiliza tradução da maioria deles.
 
 ### Tópicos principais abordados na Mathematical Excalibur
 

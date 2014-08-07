@@ -20,58 +20,58 @@ __Volume 1__
 
 __Volume 2__
 
- - Nº 1 Solution by Linear Combination
- - Nº 2 Stirling's Inequality
- - Nº 3 Fermat's Little Theorem and Other Stories
- - Nº 4 Ptolemy's Theorem
- - Nº 5 Error Correcting Codes (Part I)
+ - [Nº 1]() Solution by Linear Combination
+ - [Nº 2]() Stirling's Inequality
+ - [Nº 3]() Fermat's Little Theorem and Other Stories
+ - [Nº 4]() Ptolemy's Theorem
+ - [Nº 5]() Error Correcting Codes (Part I)
 
 __Volume 3__
 
- - Nº 1 (artigo teórico em chinês sem tradução)
- - Nº 2 (artigo teórico em chinês sem tradução)
- - Nº 3 Error Correcting Codes (Part II)
- - Nº 4 Inverse Sequences and Complementary Sequences
+ - [Nº 1]() (artigo teórico em chinês sem tradução)
+ - [Nº 2]() (artigo teórico em chinês sem tradução)
+ - [Nº 3]() Error Correcting Codes (Part II)
+ - [Nº 4]() Inverse Sequences and Complementary Sequences
 
 __Volume 4__
 
- - Nº 1 A Proof for The Lambek and Moser Theorem
- - Nº 2 A Taste of Topology
- - Nº 3 Rearrangement Inequality; Power of Points Respect to Circle
- - Nº 4 Equation x^4+y^4=z^4
- - Nº 5 (artigo teórico em chinês sem tradução)
+ - [Nº 1]() A Proof for The Lambek and Moser Theorem
+ - [Nº 2]() A Taste of Topology
+ - [Nº 3]() Rearrangement Inequality; Power of Points Respect to Circle
+ - [Nº 4]() Equation x^4+y^4=z^4
+ - [Nº 5]() (artigo teórico em chinês sem tradução)
 
 __Volume 5__
 
- - Nº 1 Cavalieri's Principle
- - Nº 2 Interesting Theorems About Primes
- - Nº 3 Coordinate Geometry
- - Nº 4 Jensen's Inequality
- - Nº 5 Majorization Inequality
+ - [Nº 1]() Cavalieri's Principle
+ - [Nº 2]() Interesting Theorems About Primes
+ - [Nº 3]() Coordinate Geometry
+ - [Nº 4]() Jensen's Inequality
+ - [Nº 5]() Majorization Inequality
 
 __Volume 6__
 
- - Nº 1 Concyclic Problems; A Proof of the Majorization Inequality
- - Nº 2 Base n Representations
- - Nº 3 Pell's Equation(I)
- - Nº 4 (artigo teórico em chinês sem tradução)
- - Nº 5 Vector Geometry
+ - [Nº 1]() Concyclic Problems; A Proof of the Majorization Inequality
+ - [Nº 2]() Base n Representations
+ - [Nº 3]() Pell's Equation(I)
+ - [Nº 4]() (artigo teórico em chinês sem tradução)
+ - [Nº 5]() Vector Geometry
 
 __Volume 7__
 
- - Nº 1
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - [Nº 1]() Pell’s Equation (II); Construction of Logarithm Table
+ - [Nº 2]() Problem Solving I
+ - [Nº 3]() Mathematical Games (I) 
+ - [Nº 4]() A Brief Introduction to Fermat Numbers
+ - [Nº 5]() Mathematical Games(II)
 
 __Volume 8__
 
- - Nº 1
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - [Nº 1]() Functional Equations
+ - [Nº 2]() Countability
+ - [Nº 3]() Inclusion-Exclusion Principle and Turan's Theorem
+ - [Nº 4]() Using GW-BASIC for Drawing Mandelbrot Sets
+ - [Nº 5]() Sets and Subsets
 
 __Volume 9__
 

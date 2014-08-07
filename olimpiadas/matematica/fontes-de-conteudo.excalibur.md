@@ -12,11 +12,11 @@ Organizada em volumes, e em cada um há há quatro ou cinco revistas, cada uma c
 
 __Volume 1__
 
- - Nº 1 Pigeonhole Principle
- - Nº 2 Pythagorean Triples
- - Nº 3 Similar Triangles via Complex Numbers
- - Nº 4 Descartes' Rule of Signs
- - Nº 5 Systems of Distinct Representatives
+ - [Nº 1]() Pigeonhole Principle
+ - [Nº 2]() Pythagorean Triples
+ - [Nº 3]() Similar Triangles via Complex Numbers
+ - [Nº 4]() Descartes' Rule of Signs
+ - [Nº 5]() Systems of Distinct Representatives
 
 __Volume 2__
 
@@ -43,19 +43,19 @@ __Volume 4__
 
 __Volume 5__
 
- - Nº 1
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - Nº 1 Cavalieri's Principle
+ - Nº 2 Interesting Theorems About Primes
+ - Nº 3 Coordinate Geometry
+ - Nº 4 Jensen's Inequality
+ - Nº 5 Majorization Inequality
 
 __Volume 6__
 
- - Nº 1
- - Nº 2
- - Nº 3
- - Nº 4
- - Nº 5
+ - Nº 1 Concyclic Problems; A Proof of the Majorization Inequality
+ - Nº 2 Base n Representations
+ - Nº 3 Pell's Equation(I)
+ - Nº 4 (artigo teórico em chinês sem tradução)
+ - Nº 5 Vector Geometry
 
 __Volume 7__
 

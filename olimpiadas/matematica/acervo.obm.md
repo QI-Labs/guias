@@ -39,7 +39,7 @@ Para o Nível Universitário, a OBM será realizada em duas fases ambas aplicada
 
 ## Como participar
 
-O estudante participa da Olimpíada Brasileira de Matemática através de sua escola (Níveis 1, 2 e 3) ou Universidade (Nível Universitário). A instituição deverá se cadastrar via internet, pelo [site da OBM](), no prazo estabelecido pela coordenação nacional (que normalmente ocorre entre os meses de março e abril) e nomear um professor para ser o representante da Olimpíada na escola ou universidade. 
+O estudante participa da Olimpíada Brasileira de Matemática através de sua escola (Níveis 1, 2 e 3) ou Universidade (Nível Universitário). A instituição deverá se cadastrar via internet, pelo [**site da OBM**](), no prazo estabelecido pela coordenação nacional (que normalmente ocorre entre os meses de março e abril) e nomear um professor para ser o representante da Olimpíada na escola ou universidade. 
 
   Se você é um estudante que deseja participar da Olimpíada, mas sua escola ou universidade não se inscreveu na OBM, entre em contato com o seu [coordenador regional](http://wang.impa.br/contato.do).
 
@@ -64,6 +64,7 @@ Os resultados obtidos na OBM são fundamentais na escolha das equipes que repres
 ## Projetos relacionados
 
 [POTI](http://www.poti.impa.br/)
+
 [Revista Eureka](http://www.obm.org.br/opencms/revista_eureka/)
 
 <!--

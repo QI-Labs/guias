@@ -41,6 +41,7 @@ module.exports =  {
 					"eureka": {
 						name: "Eureka!",
 						file: "olimpiadas/matematica/fontes-de-conteudo.eureka.md",
+						notes: "olimpiadas/matematica/fontes-de-conteudo.eureka.notes.md",
 					},
 					"excalibur":{
 						name: "Mathematical Excalibur",

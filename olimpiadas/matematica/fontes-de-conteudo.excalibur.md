@@ -27,8 +27,8 @@ __Volume 2__
 
 __Volume 3__
 
- - [Nº 1]() (artigo teórico em chinês sem tradução)
- - [Nº 2]() (artigo teórico em chinês sem tradução)
+ - [Nº 1]() (tradução não disponível)
+ - [Nº 2]() (tradução não disponível)
  - [Nº 3]() Error Correcting Codes (Part II)
  - [Nº 4]() Inverse Sequences and Complementary Sequences
 
@@ -38,7 +38,7 @@ __Volume 4__
  - [Nº 2]() A Taste of Topology
  - [Nº 3]() Rearrangement Inequality; Power of Points Respect to Circle
  - [Nº 4]() Equation x^4+y^4=z^4
- - [Nº 5]() (artigo teórico em chinês sem tradução)
+ - [Nº 5]() (tradução não disponível)
 
 __Volume 5__
 
@@ -53,7 +53,7 @@ __Volume 6__
  - [Nº 1]() Concyclic Problems; A Proof of the Majorization Inequality
  - [Nº 2]() Base n Representations
  - [Nº 3]() Pell's Equation(I)
- - [Nº 4]() (artigo teórico em chinês sem tradução)
+ - [Nº 4]() (tradução não disponível)
  - [Nº 5]() Vector Geometry
 
 __Volume 7__
@@ -78,7 +78,7 @@ __Volume 9__
  - [Nº 2]() Inversion
  - [Nº 3]() IMO 2004; Extending an IMO Problem
  - [Nº 4]() Homothety
- - [Nº 5]() (artigo teórico em chinês sem tradução)
+ - [Nº 5]() (tradução não disponível)
 
 __Volume 10__
 

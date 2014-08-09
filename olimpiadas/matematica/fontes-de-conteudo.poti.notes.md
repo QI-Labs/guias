@@ -1,3 +1,3 @@
 ### Fontes
 
-- [Site oficial do POTI](http://poti.impa.br/)
+- [Site do POTI](http://poti.impa.br/)

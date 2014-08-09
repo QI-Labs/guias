@@ -63,6 +63,8 @@ Problemas da ShortList
 Todo ano países mandam questões para serem postas na prova da IMO, essas questões formam a LongList. Após isso, a banca seleciona os melhores problemas e esses formam a ShortList da qual são escolhidos os problemas da IMO.
 A ShortList é uma ótima fonte de problemas para todas as matérias, você pode encontrar suas soluções no MathLinks e no Livro “The IMO Compendium”
 
+###Livros recomendados:
+
 **Geometria**
 
 Challenging problems in geometry

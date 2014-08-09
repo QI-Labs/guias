@@ -20,6 +20,7 @@ Este livro vai te iniciar na matemática olímpica e irá lhe oferecer muitas id
 Após esse livro você começará a se divertir aprendendo os teoremas mais diversos. Não tenho medo de dizer que essa é a melhor parte da matemática olímpica!
 
 Após a realização do MathCircles você pode passar para um livro mais avançado, tal como:
+
 - Problem Solving
 
 Agora uma relação de livros que vão te auxiliar em matérias mais especificas da matemática
@@ -28,7 +29,7 @@ Agora uma relação de livros que vão te auxiliar em matérias mais especificas
 
 **Geometria**
 
-- Matemática elementar 9
+Matemática elementar 9
 O conteúdo é abrangente e a teoria é apresentada de forma clara com boas explicações. Mas um dos pontos contra são os exercícios fracos e repetitivos (são ótimos pra iniciantes, mas são dezenas de questões parecidas que só se precisa aplicar uma fórmula).
 
 Challenging problems in geometry
@@ -43,10 +44,10 @@ Essa coleção escrita pelo professor Caminha é recente e é dotada de problema
 
 **Combinatória**
 
--Análise Combinatória e Probabilidade – Augusto Morgado
+Análise Combinatória e Probabilidade - Augusto Morgado
 Sem dúvida o melhor livro em português para começa seus estudos. Teoria muito bem explicada com apenas exercícios selecionados (faça todos! São aproximadamente 20 por capítulo). Livro bom para alunos do Nível 2 e 3 (do oitavo ano até o final do ensino médio). Como já foi dito, é um ótimo livro que merece ser lido.
 
-- Principles and Techniques in Combinatorics - Chen Chuan-Chong
+Principles and Techniques in Combinatorics - Chen Chuan-Chong
 Talvez um pouco mais avançado para esse nível entretanto para aqueles que tem tempo sobrando é uma ótima opção. Os materiais são apresentados de forma muito explícita, de modo que os alunos acham muito fácil de ler. Uma ampla variedade de exemplos, a cerca de 500 problemas combinatórios tomadas a partir de várias competições matemáticas.
 
 **Álgebra**
@@ -58,7 +59,7 @@ Matemática elementar 1
 
 ##Nível 3
 
-- Problemas da ShortList
+Problemas da ShortList
 Todo ano países mandam questões para serem postas na prova da IMO, essas questões formam a LongList. Após isso, a banca seleciona os melhores problemas e esses formam a ShortList da qual são escolhidos os problemas da IMO.
 A ShortList é uma ótima fonte de problemas para todas as matérias, você pode encontrar suas soluções no MathLinks e no Livro “The IMO Compendium”
 
@@ -72,7 +73,7 @@ Challenging problems in geometry
 
 **Combinatória**
 
-- Principles and Techniques in Combinatorics - Chen Chuan-Chong
+Principles and Techniques in Combinatorics - Chen Chuan-Chong
 Os materiais são apresentados de forma muito explícita, de modo que os alunos acham muito fácil de ler. Uma ampla variedade de exemplos, a cerca de 500 problemas combinatórios tomadas a partir de várias competições matemáticas. Livro de leitura obrigatória para aqueles com objetivo de ir para níveis mais avançados como o Nível 3 da OBM.
 
 102 Combinatorial Problems – Titu Andreescu
@@ -94,6 +95,7 @@ Problems in Elementary Number Theory - Peter Vandendriessche e Hojoo Lee        
 Solucionário. Bela coleção de problemas reconhecida no mundo todo, após lida a teoria é recomendado resolver o segundo capítulo completamente que contém 118 problemas (o primeiro capítulo é apenas a introdução). O solucionário são tópicos do site AoPS que são discutidos por vários matemáticos do mundo todo, que mostra a relevância deste PDF.
 
 **Álgebra**
+
 Inequalities: A Mathematical Olympiad Approach - Radmila Manfrino
 Este livro apresenta desigualdades clássicas e específicas que são muito úteis em resolver problemas de otimização. A maior parte dos exemplos, exercícios e problemas são retirados de olimpíadas matemáticas do mundo inteiro.
 

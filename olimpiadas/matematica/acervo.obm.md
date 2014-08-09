@@ -66,11 +66,3 @@ Os resultados obtidos na OBM são fundamentais na escolha das equipes que repres
 [POTI](http://www.poti.impa.br/)
 
 [Revista Eureka](http://www.obm.org.br/opencms/revista_eureka/)
-
-<!--
-
-Fontes
-
-[Site Oficial da OBM](http://www.obm.org.br/opencms/)
-
--->

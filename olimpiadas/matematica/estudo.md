@@ -1,3 +1,5 @@
+# Plano de Estudo
+
 
 # Tópicos para Olimpíadas
 
@@ -6,3 +8,11 @@ Começaremos com um artigo escrito pelos professores Carlos Shine, Edmilson Mott
 Você pode consultar todo o artigo [clicando aqui](http://cyshine.webs.com/email-imo.pdf)!
 
 .... ?
+
+A maioria das olimpíadas de matemática é dividida em:
+
+- Nível 1: 6ª e 7ª ano.
+- Nível 2: 8ª e 9ª ano.
+- Nível 3: Ensino Médio.
+
+Poderemos então, dividir nosso plano de estudo nesses três níveis.

@@ -8,21 +8,29 @@ module.exports =  {
 		children: {
 			"introducao": {
 				name: "Introdução a Olimpíadas de Matemática",
-				file: "olimpiadas/matematica/plano-de-estudo.md",
+				file: "olimpiadas/matematica/dummies.md",
 				children: {
-					"niveis": {
-						name: "Níveis de Competição",
-						file: "olimpiadas/matematica/main.niveis.md",
-					},
 				}
 			},
-			"topicos": {
-				name: "Tópicos de Estudo",
-				file: "olimpiadas/matematica/materias.md",
+			"estudo": {
+				name: "Planos de Estudo",
+				file: "olimpiadas/matematica/estudo.md",
 				children: {
-					"imo": {
-						name: "Olimpíada Internacional (IMO)",
-						file: "olimpiadas/matematica/materias.imo.md",
+					"nivel1": {
+						name: "Nível 1",
+						file: "olimpiadas/matematica/estudo.nivel1.md",
+					},
+					"nivel2": {
+						name: "Nível 2",
+						file: "olimpiadas/matematica/estudo.nivel2.md",
+					},
+					"nivel3": {
+						name: "Nível 3",
+						file: "olimpiadas/matematica/estudo.nivel3.md",
+					},
+					"internacionais": {
+						name: "Olimpíadas Internacionais",
+						file: "olimpiadas/matematica/estudo.internacionais.md",
 					},
 				}
 			},

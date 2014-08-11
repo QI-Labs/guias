@@ -27,7 +27,7 @@ module.exports =  {
 				}
 			},
 			"fontes": {
-				name: "Fontes de conteúdo",
+				name: "Fontes de Conteúdo",
 				file: "olimpiadas/matematica/fontes-de-conteudo.md",
 				children: {
 					"aops": {
@@ -104,7 +104,9 @@ module.exports =  {
 	},
 	vestibular: {
 		name: "Vestibular",
+		icon: 'icon-university',
 		file: "vestibular/main.md",
+		contributors: ['5320fd8ab6172102003081b9'],
 		children: {
 			"exames-unificados": {
 				name: "Exames Unificados",

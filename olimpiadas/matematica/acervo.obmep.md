@@ -36,7 +36,6 @@ Há diversas formas de começar a se preparar para a OBMEP. O próprio site ofic
 
 Na OBMEP são premiados 500 (quinhentos) alunos com medalhas de ouro, 1500 (mil e quinhentos) com medalhas de prata, 4.500 (quatro mil e quinhentos) com medalhas de bronze e até 46.200 (quarenta e seis mil e duzentos) com Certificados de Menção Honrosa.
 
-
 ## Projetos relacionados
 
 [Portal da Matemática](http://matematica.obmep.org.br/)

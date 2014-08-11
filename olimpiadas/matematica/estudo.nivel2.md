@@ -5,20 +5,20 @@ Este livro vai te iniciar na matemática olímpica e irá lhe oferecer muitas id
 Após esse livro você começará a se divertir aprendendo os teoremas mais diversos. Não tenho medo de dizer que essa é a melhor parte da matemática olímpica!
 
 Após a realização do MathCircles você pode passar para um livro mais avançado, tal como:
-
 - Problem Solving
 
 Agora uma relação de livros que vão te auxiliar em matérias mais especificas da matemática
-
-###Livros recomendados:
+Livros recomendados:
 
 **Geometria**
 
-Matemática elementar 9
+- Matemática elementar 9
 O conteúdo é abrangente e a teoria é apresentada de forma clara com boas explicações. Mas um dos pontos contra são os exercícios fracos e repetitivos (são ótimos pra iniciantes, mas são dezenas de questões parecidas que só se precisa aplicar uma fórmula).
-
+O conteúdo abordado na olimpíada é o abordado pelo livro.
+ 
 Challenging problems in geometry
 
+Problemas bons para o nível 2, e talvez para o 3. O importante é fazer somente os capítulos que tem o mesmo conteúdo que foi estudado no Matemática Elementar 9.
 
 **Teoria dos Números**
 
@@ -29,14 +29,16 @@ Essa coleção escrita pelo professor Caminha é recente e é dotada de problema
 
 **Combinatória**
 
-Análise Combinatória e Probabilidade - Augusto Morgado
+-Análise Combinatória e Probabilidade – Augusto Morgado
 Sem dúvida o melhor livro em português para começa seus estudos. Teoria muito bem explicada com apenas exercícios selecionados (faça todos! São aproximadamente 20 por capítulo). Livro bom para alunos do Nível 2 e 3 (do oitavo ano até o final do ensino médio). Como já foi dito, é um ótimo livro que merece ser lido.
+Não é necessário resolver a parte de probabilidade do livro! O capítulo de Números Binomiais também pode ser deixado para depois, é um pouco avançado para este nível.
 
-Principles and Techniques in Combinatorics - Chen Chuan-Chong
+- Principles and Techniques in Combinatorics - Chen Chuan-Chong
 Talvez um pouco mais avançado para esse nível entretanto para aqueles que tem tempo sobrando é uma ótima opção. Os materiais são apresentados de forma muito explícita, de modo que os alunos acham muito fácil de ler. Uma ampla variedade de exemplos, a cerca de 500 problemas combinatórios tomadas a partir de várias competições matemáticas.
+Os conteúdos que caem no nível 2 são aqueles especificados na descrição do livro do prof. Morgado, leia o livro do Morgado antes!
+
 
 **Álgebra**
 
 Nesse nível o conteúdo de álgebra exigido é bem pequeno. Necessário o conhecimento de apenas as desigualdades: MA>= MG e Cauchy. Ambas as desigualdades se encontram no MathCircles e no Problem Solving.
-Outro livro recomendado é o :
-Matemática elementar 1
+Outro livro recomendado é o Matemática elementar 1, que ajudará principalmente nas noções preliminares de álgebra.

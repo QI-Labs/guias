@@ -24,4 +24,4 @@ Cada questão da 2ª fase vale quatro pontos, cada uma contendo dois itens valen
 
 ### Matrícula
 
-Para a realização da matrícula a documentação necessária deve ser providenciada com antescedência para que imprevistos sejam evitados. Veja aqui a lista de [documentos](https://www.comvest.unicamp.br/vest2014/manual/instrucoes.html) necessária! O candidato também deve estar atento à confirmação de matrícula, pois se a mesma não for realizada o canditado será desconsiderado e sua matrícula no vestibular cancelada.
+Para a realização da matrícula a documentação necessária deve ser providenciada com antescedência para que imprevistos sejam evitados. Veja aqui a lista de [documentos](https://www.comvest.unicamp.br/vest2014/manual/instrucoes.html) necessários! O candidato também deve estar atento à confirmação de matrícula, pois se a mesma não for realizada o canditado será desconsiderado e sua matrícula no vestibular cancelada.

@@ -53,11 +53,3 @@ Na OBMEP são premiados 500 (quinhentos) alunos com medalhas de ouro, 1500 (mil 
 [PICME](http://picme.obmep.org.br/)
 
 [PROF](http://prof.obmep.org.br/portal)
-
-<!--
-Fontes
-
-[Site Oficial da OBMEP](http://www.obmep.org.br/)
-
-[Página OBMEP](https://www.facebook.com/obmep/info)
--->

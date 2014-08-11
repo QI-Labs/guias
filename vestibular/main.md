@@ -16,7 +16,7 @@ Por aqui será possível:
 
 - esclarecer dúvidas básicas a respeito do tema; 
 - conhecer mais a respeito das universidades e seus respectivos exames de admissão;
-- contar com as dicas para melhorar seu desempenho!
+- contar com as dicas para melhorar seu desempenho.
 
 Comece a explorar nosso conteúdo!  
-Que tal começar por [exames de admissão](link) ou conferir dicas de [preparação para as provas](link)?
+Que tal começar por [Exames de Admissão](link) ou conferir dicas de [Preparação Para as Provas](link)?

@@ -1,23 +1,24 @@
 ## Nível 3
 
-Problemas da ShortList
-Todo ano países mandam questões para serem postas na prova da IMO, essas questões formam a LongList. Após isso, a banca seleciona os melhores problemas e esses formam a ShortList da qual são escolhidos os problemas da IMO.
-A ShortList é uma ótima fonte de problemas para todas as matérias, você pode encontrar suas soluções no MathLinks e no Livro “The IMO Compendium”
+No nível 3 você deverá aprender um bocado de teoremas (pode ser até rápido) e resolver todos os problemas que estiverem na sua frente. Esse é um passo importante, depois de alguns meses lendo teoria você deverá ter como objetivo resolver diversos problemas, aprender idéias e por em prática os teoremas vistos.
 
-###Livros recomendados:
+- Problemas da ShortList
+Todo ano países mandam questões para serem postas na prova da IMO, essas questões formam a LongList. Após isso, a banca seleciona os melhores problemas e esses formam a ShortList da qual são escolhidos os problemas da IMO.
+A ShortList é uma ótima fonte de problemas para todas as matérias, você pode encontrar suas soluções no MathLinks e no Livro “The IMO Compendium”.
 
 **Geometria**
 
 Challenging problems in geometry
 
+É necessário conhecimento de Geometria Plana, Analítica, Vetores, Trigonometria, Complexos, Projetiva, Transformações Geométricas, entre outros assuntos e técnicas diversas. Uma boa fonte de conteúdo é o MathLinks, pois o conteúdo de geometria no nível 3 é extenso e não contém em somente um livro.
+
 **Combinatória**
 
-Principles and Techniques in Combinatorics - Chen Chuan-Chong
+- Principles and Techniques in Combinatorics - Chen Chuan-Chong
 Os materiais são apresentados de forma muito explícita, de modo que os alunos acham muito fácil de ler. Uma ampla variedade de exemplos, a cerca de 500 problemas combinatórios tomadas a partir de várias competições matemáticas. Livro de leitura obrigatória para aqueles com objetivo de ir para níveis mais avançados como o Nível 3 da OBM.
 
 102 Combinatorial Problems – Titu Andreescu
 O livro consiste de problemas cuidadosamente selecionados que têm sido utilizados no treinamento e testes da equipe dos EUA na IMO. Oferece profundo enriquecimento nas áreas importantes da análise combinatória, reorganizando e melhorando táticas e estratégias de resolução de problemas. O livro é sistematicamente organizado, construindo gradualmente habilidades e técnicas combinatórias e ampliando a visão do estudante de matemática.
-
 
 **Teoria dos Números**
 

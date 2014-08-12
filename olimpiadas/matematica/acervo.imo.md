@@ -94,14 +94,6 @@ Todos os participantes recebem um Certificado de Participação na IMO, e a entr
 
 Em geral, o número total de prêmios (primeiro, segundo e terceiro lugares) segue a proporção de 1:2:3, respectivamente. O número de premiados não deve ultrapassar metade da quantidade dos competidores, por isso os participantes que não receberam primeiro, segundo ou terceiro lugar, mas conseguiram sete pontos pela solução de pelo menos um problema, recebe um Certificado de Mensão Honrosa. Além disso, prêmios especiais podem ser concedidos a soluções consideradas notáveis por sua boa elaboração ou elegância.
 
-
-## Projetos relacionados
-
-[Revista Eureka]()
-
-[Art of Problem Solving]()
-
-
 <!--
 Para o logo: http://www.imo-official.org/general.aspx
 -->

@@ -17,15 +17,15 @@ module.exports =  {
 				file: "olimpiadas/matematica/estudo.md",
 				children: {
 					"nivel1": {
-						name: "Nível 1",
+						name: "Nível 1 (6º e 7º ano)",
 						file: "olimpiadas/matematica/estudo.nivel1.md",
 					},
 					"nivel2": {
-						name: "Nível 2",
+						name: "Nível 2 (8º e 9º ano)",
 						file: "olimpiadas/matematica/estudo.nivel2.md",
 					},
 					"nivel3": {
-						name: "Nível 3",
+						name: "Nível 3 (Ensino Médio)",
 						file: "olimpiadas/matematica/estudo.nivel3.md",
 					},
 					"internacionais": {
@@ -72,6 +72,7 @@ module.exports =  {
 					"imo": {
 						name: "Olimpíada Internacional de Matemática (IMO)",
 						file: "olimpiadas/matematica/acervo.imo.md",
+						notes: "olimpiadas/matematica/acervo.imo.notes.md",
 					},
 				}
 			}

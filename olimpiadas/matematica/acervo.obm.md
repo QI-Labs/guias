@@ -4,14 +4,30 @@ A **Olimpíada Brasileira de Matemática** (OBM) é uma competição aberta a to
 
 A primeira edição da olimpíada foi organizada em 1979, e acada ano mais e mais estudantes se juntam a competição. A Sociedade Brasileria de Matemática em estreita parceria com o IMPA, elaborou o projeto tendo como objetivos principais estimular o estudo da Matemática pelos alunos, desenvolver e aperfeiçoar a capacitação dos professores, influenciar na melhoria do ensino, e detectar jovens talentos.
 
-## Níveis de Participação
+
+<section class="wow">
+
+<h2>Níveis de Participação</h2>
 
 A OBM é organizada em quatro níveis:
 
-- Nível 1 – estudantes de 6º e 7º anos do Ensino Fundamental quando da realização da primeira fase daOBM
-- Nível 2 – estudantes de 8º e 9º anos do Ensino Fundamental quando da realização da primeira fase daOBM
-- Nível 3 – estudantes do Ensino Médio quando da realização da primeira fase da OBM (ou que, tendo concluído o ensino médio menos de um anos antes, não tenham ingressado em nível superior até a data de realização da primeira fase da OBM)
-- Nivel Universitário - para alunos que ainda não tenham concluído o curso superior, independente do curso ou período
+<ul>
+	<li>
+		**Nível 1** para alunos cursando o 6º e 7º anos do Ensino Fundamental na data da realização da primeira fase
+	</li>
+	<li>
+		**Nível 2** para alunos cursando de 8º e 9º anos do Ensino Fundamental na data da realização da primeira fase
+	</li>
+	<li>
+		**Nível 3** para alunos cursando o Ensino Médio na data da realização da primeira fase (ou que, tendo concluído o ensino médio menos de um anos antes, não tenham ingressado em nível superior até a data de realização da primeira fase da OBM)
+	</li>
+	<li>
+		**Nivel Universitário** para alunos que ainda não tenham concluído o curso superior, independente do curso ou período
+	</li>
+</ul>
+
+</section>
+
 
 ## Fases
 
@@ -22,19 +38,17 @@ As fases para os níveis 1, 2 e 3 são diferentes das fases para nível universi
 Para os Níveis 1, 2 e 3, a OBM será realizada em três fases. A primeira fase será realizada no primeiro semestre, a segunda e a terceira no segundo semestre.
 
 - **1ª Fase**: Uma prova de múltipla escolha com 20 a 25 questões com duração de 3 horas.
-
 - **2ª Fase**: Uma prova mista (parte A e parte B) realizada apenas nas escolas que enviaram o relatório da primeira fase, com duração de 4 horas e 30 minutos.
+- **3ª Fase**:
+ - Nível 1: uma prova discursiva com 5 problemas com duração de 4 horas e 30 minutos.
+ - Níveis 2 e 3: duas provas discursivas realizadas em dois dias consecutivos com 3 problemas em cada dia com uma duração de 4 horas e 30 minutos por dia.
 
-- **3 Fase**:
- - Nível 1 - uma prova discursiva com 5 problemas com duração de 4 horas e 30 minutos.
- - Níveis 2 e 3 - duas provas discursivas realizadas em dois dias consecutivos com 3 problemas em cada dia com uma duração de 4 horas e 30 minutos por dia.
 
 ### Nível Universitário
 
 Para o Nível Universitário, a OBM será realizada em duas fases ambas aplicadas no segundo semestre coincidindo em dia e horário com a segunda e terceira fases dos níveis 2 e 3.
 
 - **1ª Fase**: Uma prova discursiva com 6 problemas com duração de 4 horas e 30 minutos, aplicada no mesmo dia e horário da Segunda Fase dos níveis 1, 2 e 3.
-
 - **2ª Fase**: Uma prova discursiva com 6 problemas com duração de 4 horas e 30 minutos, aplicada no mesmo dia e horário da Segunda Fase dos níveis 1, 2 e 3.
 
 ## Como participar
@@ -61,8 +75,19 @@ Os resultados obtidos na OBM são fundamentais na escolha das equipes que repres
 
 <!-- </div> -->
 
-## Projetos relacionados
+<section class="notes">
 
-[POTI](http://www.poti.impa.br/)
+<h3>Projetos relacionados</h3>
 
-[Revista Eureka](http://www.obm.org.br/opencms/revista_eureka/)
+<ul>
+	<li>[POTI](http://www.poti.impa.br/)</li>
+	<li>[Revista Eureka](http://www.obm.org.br/opencms/revista_eureka/)</li>
+</ul>
+
+<h3>Fontes</h3>
+
+<ul>
+	<li>[Site da OBM](http://www.obm.org.br/opencms/)</li>
+</ul>
+
+</section>

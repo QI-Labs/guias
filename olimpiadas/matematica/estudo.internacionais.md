@@ -79,3 +79,14 @@ conceitos: diâmetro de um conjunto, conjunto convexo, fecho convexo; técnicas:
 determinação e construção de invariantes (paridade, restos, pinturas, funções); semi-invariantes (determinação e construção). “invariante automático” em recursões lineares homogêneas cujo polinõmio característico é divisível por x – 1.
 
 #### __Indução__ como fazer a partir de casos pequenos; obtenção de algoritmos a partir da indução.
+
+
+<section class="notes">
+
+<h3>Referências</h3>
+
+<ul>
+	<li>[Orientações para alunos que pretendem ir para a IMO](http://cyshine.webs.com/email-imo.pdf)</li>
+</ul>
+
+</section>

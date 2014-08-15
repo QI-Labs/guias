@@ -10,7 +10,7 @@ O Exame Nacional de Ensino Médio ([ENEM](http://www.qilabs.org/guias/vestibular
 
 O número de  instituições que adotam o ENEM como exame vestibular cresce a cada ano. Já outras instituições, como UERJ e [UNICAMP](http://www.qilabs.org/guias/vestibular/exames-unificados/unicamp), tem seus próprios exames de admissão.
 
-Na página [exames de admissão](link) você pode conhecer mais sobre os diferentes exames aplicados e suas respectivas estruturas. Na [página de universidades](link) é possível conhecer mais sobre as universidades e saber os exames de admissão adotados pelas mesmas. 
+Na página [Exames Unificados](http://www.qilabs.org/guias/vestibular/exames-unificados) você pode conhecer mais sobre os diferentes exames aplicados e suas respectivas estruturas. Na [página de universidades](link) é possível conhecer mais sobre as universidades e saber os exames de admissão adotados pelas mesmas. 
 
 Por aqui será possível:
 
@@ -19,4 +19,4 @@ Por aqui será possível:
 - contar com as dicas para melhorar seu desempenho.
 
 Comece a explorar nosso conteúdo!  
-Que tal começar por [Exames de Admissão](link) ou conferir dicas de [Preparação Para as Provas](link)?
+Que tal começar dando uma olhada no conteúdo do [Cronograma](http://www.qilabs.org/guias/vestibular/cronograma) ou conferir dicas de [Preparação Para as Provas](http://www.qilabs.org/guias/vestibular/preparacao-para-provas)?

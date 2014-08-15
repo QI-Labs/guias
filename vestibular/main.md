@@ -6,7 +6,7 @@ Vestibular é o exame de admissão para entrada em cursos superiores de universi
 
 De acordo com o desempenho nos exames, os candidato são selecionado por meio da [nota de corte](link para nota de corte no glossário); que varia todos os anos. Quanto maior o número de candidatos por vaga, mais concorrido se torna o processo seletivo.
 
-O Exame Nacional de Ensino Médio (ENEM) é uma prova utilizada como exame de seleção para centenas de faculdades em todo o Brasil. Esse exame vem se tornando mais importante, dando oportunidade de participação em programas do governo como o [Prouni]() e o [Fies]().  
+O Exame Nacional de Ensino Médio ([ENEM](http://www.qilabs.org/guias/vestibular/exames-unificados/enem)) é uma prova utilizada como exame de seleção para centenas de faculdades em todo o Brasil. Esse exame vem se tornando mais importante, dando oportunidade de participação em programas do governo como o [Prouni]() e o [Fies]().  
 
 O número de  instituições que adotam o ENEM como exame vestibular cresce a cada ano. Já outras instituições, como UERJ e UNICAMP, tem seus próprios exames de admissão.
 

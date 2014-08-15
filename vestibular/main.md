@@ -8,7 +8,7 @@ De acordo com o desempenho nos exames, os candidato são selecionado por meio da
 
 O Exame Nacional de Ensino Médio ([ENEM](http://www.qilabs.org/guias/vestibular/exames-unificados/enem)) é uma prova utilizada como exame de seleção para centenas de faculdades em todo o Brasil. Esse exame vem se tornando mais importante, dando oportunidade de participação em programas do governo como o [Prouni]() e o [Fies]().  
 
-O número de  instituições que adotam o ENEM como exame vestibular cresce a cada ano. Já outras instituições, como UERJ e UNICAMP, tem seus próprios exames de admissão.
+O número de  instituições que adotam o ENEM como exame vestibular cresce a cada ano. Já outras instituições, como UERJ e [UNICAMP](http://www.qilabs.org/guias/vestibular/exames-unificados/unicamp), tem seus próprios exames de admissão.
 
 Na página [exames de admissão](link) você pode conhecer mais sobre os diferentes exames aplicados e suas respectivas estruturas. Na [página de universidades](link) é possível conhecer mais sobre as universidades e saber os exames de admissão adotados pelas mesmas. 
 

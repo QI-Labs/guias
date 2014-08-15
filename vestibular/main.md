@@ -2,7 +2,7 @@
 O que é Vestibular?
 ===================
 
-Vestibular é o exame de admissão para entrada em cursos superiores de universidades brasileiras. O exame consiste na aplicação de provas classificatórias que testam o conhecimento dos candidatos sobre temas tratados no Ensino Médio e Fundamental.
+**Vestibular** é o exame de admissão para entrada em cursos superiores de universidades brasileiras. O exame consiste na aplicação de provas classificatórias que testam o conhecimento dos candidatos sobre temas tratados no Ensino Médio e Fundamental.
 
 De acordo com o desempenho nos exames, os candidato são selecionado por meio da [nota de corte](link para nota de corte no glossário); que varia todos os anos. Quanto maior o número de candidatos por vaga, mais concorrido se torna o processo seletivo.
 

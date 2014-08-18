@@ -1,29 +1,28 @@
 
 # Tópicos para Olimpíadas
 
-Começaremos com um artigo escrito pelos professores Carlos Shine, Edmilson Motta e Eduardo Tengan para o blog [Seleção para a IMO e Iberoamericana](http://imoibero.blogspot.com.br/). Ele é um resumo das matérias necessárias para a prova da IMO, além de outras dicas de estudo.
+Começaremos com um artigo escrito pelos professores Carlos Shine, Edmilson Motta e Eduardo Tengan para o blog [**Seleção para a IMO e Iberoamericana**](http://imoibero.blogspot.com.br/). Ele é um resumo das matérias necessárias para a prova da IMO, além de outras dicas de estudo.
 
 Você pode consultar todo o artigo [clicando aqui](http://cyshine.webs.com/email-imo.pdf)!
 
 ## __Teoria dos Números__
 
-- Teorema de Euler-Fermat (incluindo menor expoente e Lema de Hensel);
+- Teorema de Euler-Fermat (incluindo menor expoente e Lema de Hensel)
 - Teorema Chinês dos Restos
 - Raízes Primitivas
 - Equação de Peil (generalizada ou não)
 - Resíduos Quadráticos e Reciprocidade Quadrática
 - Noções de Aproximações Diofantinas
-- Obtenção de novos fatores primos a partir de mdcs pequenos;
-- “Se você fatorar, tire o mdc dos fatores”.
+- Obtenção de novos fatores primos a partir de mdcs pequenos
+- “Se você fatorar, tire o mdc dos fatores”
 
 -------
 
 ## __Geometria__
 
-- Arrastão de ângulos;
+- Arrastão de ângulos
 - Lei dos senos (e uma boa intimidade com Trigonometria)
-- rs
-Teorema de Ptolomeu, Ceva e Menelaus, reta de Euler
+- Teorema de Ptolomeu, Ceva e Menelaus, reta de Euler
 - circunferência dos nove pontos
 - eixo radical
 - circunferência de Apolônio. Inversão. Geometria Projetiva Instrumental. Noções de Transformações Geométricas: rotações, roto-homotetias e suas “semelhanças automáticas”

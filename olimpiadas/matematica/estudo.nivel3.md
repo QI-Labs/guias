@@ -1,4 +1,4 @@
-## Nível 3
+# Nível 3
 
 No nível 3 você deverá aprender um bocado de teoremas (pode ser até rápido) e resolver todos os problemas que estiverem na sua frente. Esse é um passo importante, depois de alguns meses lendo teoria você deverá ter como objetivo resolver diversos problemas, aprender idéias e por em prática os teoremas vistos.
 
@@ -7,13 +7,13 @@ No nível 3 você deverá aprender um bocado de teoremas (pode ser até rápido)
 Todo ano países mandam questões para serem postas na prova da IMO, essas questões formam a LongList. Após isso, a banca seleciona os melhores problemas e esses formam a ShortList da qual são escolhidos os problemas da IMO.
 A ShortList é uma ótima fonte de problemas para todas as matérias, você pode encontrar suas soluções no MathLinks e no Livro “The IMO Compendium”.
 
-###Geometria
+##Geometria
 
 **Challenging problems in geometry**
 
 É necessário conhecimento de Geometria Plana, Analítica, Vetores, Trigonometria, Complexos, Projetiva, Transformações Geométricas, entre outros assuntos e técnicas diversas. Uma boa fonte de conteúdo é o MathLinks, pois o conteúdo de geometria no nível 3 é extenso e não contém em somente um livro.
 
-###Combinatória
+##Combinatória
 
 **Principles and Techniques in Combinatorics - Chen Chuan-Chong**
 
@@ -23,7 +23,7 @@ Os materiais são apresentados de forma muito explícita, de modo que os alunos 
 
 O livro consiste de problemas cuidadosamente selecionados que têm sido utilizados no treinamento e testes da equipe dos EUA na IMO. Oferece profundo enriquecimento nas áreas importantes da análise combinatória, reorganizando e melhorando táticas e estratégias de resolução de problemas. O livro é sistematicamente organizado, construindo gradualmente habilidades e técnicas combinatórias e ampliando a visão do estudante de matemática.
 
-###Teoria dos Números
+##Teoria dos Números
 
 **Teoria dos Números: Um passeio com Primos e outros Números Familiares pelo Mundo Inteiro - Fábio Brochero, Carlos Gustavo Moreira, Nicolau Saldanha, Eduardo Tengan**
 
@@ -40,7 +40,7 @@ Este livro contém problemas desafiadores feito por renomados treinadores do tim
 **Problems in Elementary Number Theory - Peter Vandendriessche e Hojoo Lee**                                ***Importante!
 Solucionário. Bela coleção de problemas reconhecida no mundo todo, após lida a teoria é recomendado resolver o segundo capítulo completamente que contém 118 problemas (o primeiro capítulo é apenas a introdução). O solucionário são tópicos do site AoPS que são discutidos por vários matemáticos do mundo todo, que mostra a relevância deste PDF.
 
-###Álgebra
+##Álgebra
 
 **Inequalities: A Mathematical Olympiad Approach - Radmila Manfrino**
 

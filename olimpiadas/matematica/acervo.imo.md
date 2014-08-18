@@ -59,7 +59,7 @@ No Brasil, o processo de seleção para a IMO ocorre através da [**Olimpíada B
 
 <section class="wow">
 
-<h2>Processo de Seleção:</h2>
+<h3>Processo de Seleção:</h3>
 
 <ol>
 

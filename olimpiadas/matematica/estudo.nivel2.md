@@ -12,8 +12,7 @@ Agora uma relação de livros que vão te auxiliar em matérias mais especificas
 
 ###Geometria
 
-**Matemática elementar 9**
-
+**Matemática elementar 9** 
 O conteúdo é abrangente e a teoria é apresentada de forma clara com boas explicações. Mas um dos pontos contra são os exercícios fracos e repetitivos (são ótimos pra iniciantes, mas são dezenas de questões parecidas que só se precisa aplicar uma fórmula).
 O conteúdo abordado na olimpíada é o abordado pelo livro.
  

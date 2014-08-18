@@ -63,7 +63,7 @@ No Brasil, o processo de seleção para a IMO ocorre através da [**Olimpíada B
 
 <ol>
 
- <li>  1. A comissão encarregada da seleção das equipes que representarão o Brasil nas competições internacionais (CES) deve elaborar rankings com a classificação e pontuação de todos os alunos participantes do processo em cada um dos seguintes eventos:
+ <li> A comissão encarregada da seleção das equipes que representarão o Brasil nas competições internacionais (CES) deve elaborar rankings com a classificação e pontuação de todos os alunos participantes do processo em cada um dos seguintes eventos:
 
   <ul>
 
@@ -73,11 +73,11 @@ No Brasil, o processo de seleção para a IMO ocorre através da [**Olimpíada B
  
   </ul>
 
- <li> 2. Finalmente a CES envia esses dados com uma sugestão de equipe para apreciação pela Comissão de Olimpíadas, que pode aprová-la ou sugerir as modificações que considerar adequadas. Caso CES e Comissão de Olimpíadas não entrem em acordo, a Comissão de Olimpíadas tem a última palavra.
+ <li> Finalmente a CES envia esses dados com uma sugestão de equipe para apreciação pela Comissão de Olimpíadas, que pode aprová-la ou sugerir as modificações que considerar adequadas. Caso CES e Comissão de Olimpíadas não entrem em acordo, a Comissão de Olimpíadas tem a última palavra.
 
- <li> 3. A CES e a Comissão de Olimpíadas podem, se julgarem conveniente, levar em consideração os resultados dos estudantes em olimpíadas anteriores ou em provas de seleção e listas de preparação para outras olimpíadas.
+ <li> A CES e a Comissão de Olimpíadas podem, se julgarem conveniente, levar em consideração os resultados dos estudantes em olimpíadas anteriores ou em provas de seleção e listas de preparação para outras olimpíadas.
 
- <li> 4. Assim, como na OBM, não haverá revisão de notas em ii e iii.
+ <li> Assim, como na OBM, não haverá revisão de notas em ii e iii.
 
 </ol>
 

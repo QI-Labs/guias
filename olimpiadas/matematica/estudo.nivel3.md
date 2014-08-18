@@ -51,4 +51,5 @@ Este livro apresenta desigualdades clássicas e específicas que são muito úte
 Este livro é escrito no estilo de problemas e soluções para explicar os métodos normais que auxiliam o leitor a resolver equações funcionais. O material usado neste livro é coletado dos últimos anos, sendo de várias olimpíadas matemáticas, incluindo a IMO. Há uma considerável coletânea de problemas e exercícios. Alguns deles são fáceis e outros são muito difíceis. Todos os exercícios no livro possuem as dicas adequadas no final do livro.
 
 **Tópicos de Matemática Elementar – Volume 6 Polinômios - Antonio Caminha Muniz Neto**
+
 Essa coleção escrita pelo professor Caminha é recente e é dotada de problemas bem selecionados. Além dos bons exercícios o livro tem teoria bem didática. Todos os elogios direcionados a esse livro podem ser aferidos a todos os livros dessa coleção! Veja um trecho da descrição do livro “O grande diferencial aqui, do nosso ponto de vista, é o calibre dos exemplos discutidos e dos problemas propostos ao longo do texto, boa parte dos quais oriundos de variadas competições de Matemática ao redor do mundo”.

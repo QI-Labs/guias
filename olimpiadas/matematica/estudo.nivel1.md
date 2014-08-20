@@ -28,14 +28,16 @@ E essa criatividade que as provas desse nível requerem é adiquirida através d
 
 
 
-</--
+<!--
 
-É preciso ter uma familiaridade muito boa com a teoria básica do colégio mesmo: contas em geral (com casas decimais, frações etc), fatoração, noção de divisibilidade, áreas, ângulos, porcentagem, regra de 3. 
+Comentário do Franco:
+
+"É preciso ter uma familiaridade muito boa com a teoria básica do colégio mesmo: contas em geral (com casas decimais, frações etc), fatoração, noção de divisibilidade, áreas, ângulos, porcentagem, regra de 3. 
 
 É aconselhável ver um pouco de alguns tópicos básicos de olimpíada como principio da casa dos pombos (PCP), paridade e invariância, mas não é estritamente necessário. 
 
 Agora, tendo já esse background, pra treinar pra prova em si, só fazendo muitos problemas, de provas anteriores, bancos de questões da OBMEP ou qualquer fonte de problemas neste nível. Nesse nível é extremamente importante fazer muitos problemas, mais do que aprender matérias do nivel 2, por exemplo.
 
-O nível 1 é de longe o que exige menos conhecimento extraclasse e por isso o peso da criatividade é maior. E essa criatividade pra resolver problemas de matemática se adquire resolvendo (e estudando soluções, quando não conseguir resolver) vários problemas.
+O nível 1 é de longe o que exige menos conhecimento extraclasse e por isso o peso da criatividade é maior. E essa criatividade pra resolver problemas de matemática se adquire resolvendo (e estudando soluções, quando não conseguir resolver) vários problemas."
 
 -->

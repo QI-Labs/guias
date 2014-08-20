@@ -31,6 +31,8 @@ Essa seção está relacionada às diversas olimpíadas de matemática em todo o
 
 #### **Suponhamos que você queira visitar o fórum da IMO de 2014 na África do Sul.**
 
-Acesse a parte de [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245) através da página de [Olympiad Section]. 
-A partir dessa página será possível escolher entre olimpíadas nacionais ou internacionais, IMO Shorltil e Dowloads. Como a IMO é uma competição internacional, selecione [International Mathematical Olympiad](http://www.artofproblemsolving.com/Forum/viewforum.php?f=87) e procure por [IMO 2014 South Africa](http://www.artofproblemsolving.com/Forum/viewforum.php?f=1097).
-Pronto! A partir daí se tem acesso à questões e resultados.
+Através da página de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217), acesse a parte de [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245).
+
+- A partir dessa página será possível escolher entre olimpíadas nacionais ou internacionais, IMO Shorltil e Dowloads.
+- Como a IMO é uma competição internacional, selecione [International Mathematical Olympiad](http://www.artofproblemsolving.com/Forum/viewforum.php?f=87) e procure por [IMO 2014 South Africa](http://www.artofproblemsolving.com/Forum/viewforum.php?f=1097).
+- Pronto! A partir daí se tem acesso à questões e resultados.

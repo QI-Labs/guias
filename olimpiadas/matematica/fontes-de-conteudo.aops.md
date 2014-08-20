@@ -38,3 +38,5 @@ Em [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php
 - Como a IMO é uma competição internacional, selecione [International Mathematical Olympiad](http://www.artofproblemsolving.com/Forum/viewforum.php?f=87)
 - Procure por [IMO 2014 South Africa](http://www.artofproblemsolving.com/Forum/viewforum.php?f=1097).
 - Pronto! A partir daí se tem acesso à questões e resultados dessa edição da IMO
+
+  Quer conhecer mais sobre a IMO? Visite a nossa página à respeito dessa famosa competição internacional de matemática, clicando [aqui](http://www.qilabs.org/guias/olimpiadas-matematica/acervo/imo).

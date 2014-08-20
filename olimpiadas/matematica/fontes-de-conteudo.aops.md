@@ -7,7 +7,7 @@ Embora o site venda livros indicados e possua recursos pagos, daremos aqui o dir
 
 Algumas pessoas encontram certa dificuldade para achar bons problemas, mas considerando o nosso foco em olimpíadas, recomendamos dois segmentos do fórum:
 
-### Para matérias de olimpíada
+### Para Matérias de Olimpíada
 
 Para encontrar essa área do fórum você deve acessar a parte de [Community](http://www.artofproblemsolving.com/Forum/index.php) do site. A partir dessa página, que contém diversas seções, você deve selecionar a parte de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217).
 
@@ -25,7 +25,7 @@ Estando na [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum
 
 Você pode também explorar um pouco de outros tópicos, mas vale lembrar que existem alguns que são mais informais e às vezes incompletos que o que nós utilizamos para exemplificar.
 
-### Questões de Olimpíadas
+### Para Questões de Olimpíadas
 
 Essa seção está relacionada às diversas olimpíadas de matemática em todo o mundo, sejam elas nacionais ou internacionais. A partir dessa página será possível acessar conteúdo de olimpíadas nacionais ou internacionais, IMO Shorltlist e Dowloads. O AOPS dispõe os problemas de cada uma das olimpíadas e deixa todos eles abertos para discussão!
 

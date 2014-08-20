@@ -1,10 +1,6 @@
 ## Nível 1
 
-- Provas antigas.
-
-O conteúdo das provas desse nível é mais voltado para a lógica que o conhecimento de teoriemas, e por esse motivo requer muito da sua criatividade!
-
-Por ter um conteúdo voltado mais para a lógica do que para o conhecimento de teoremas, é importante estar bem familiarizado com a teoria básica de matemática que se aprende no colégio, como por exemplo:
+O conteúdo abordado nas provas desse nível é mais voltado para a lógica que o conhecimento de teoriemas, e por esse motivo é importante estar bem familiarizado com a teoria básica da matemática que se aprende no colégio, por exemplo:
 
 - contas com casas decimais
 - fração
@@ -15,18 +11,20 @@ Por ter um conteúdo voltado mais para a lógica do que para o conhecimento de t
 - porcentagem
 - regra de três
 
-Tendo o conhecimento dessas teorias vai ajudar a reforçar sua base para a resolução dos problemas propostos.
+Ter o conhecimento dessas teorias vai ajudar a reforçar sua base para a resolução dos problemas propostos. Vale enfatizar que os tópicos acima são apenas alguns exemplos de conteúdos da teoria básica, e é sempre bom estar a par do conteúdo de matemática da sua escola, isso vai ajudar muito a reforçar todo seu estudo para olimpíadas.
 
-Mas é claro que não se trata somente do básico!
+E é claro que não se trata somente do básico!
 
 Se você está interessado, também é aconselhável conhecer um pouco dos tópicos básicos de olimpíada, como por exemplo:
 
 - principio da casa dos pombos (PCP)
 - paridade e invariância
 
+Já possuindo essa "background" formado por conhecimento da teoira matemática básica e mais uma leve introdução aos tópicos básicos de olimpíada, está na hora de treinar a prova em si. Este é o momento certo para tentar refazer provas de nivel 1 sde antigas de olimpíadas. É interessante treinar resolvendo muitos problemas! Podem ser de provas anteriores, de bancos de dados de questões de olimpíadas ou outras fontes de problemas desse nível.
 
+Para o nível 1 é mais importante treinar com os problemas do que se adiantar e aprender matérias do nível 2, pois a prova requer muito mais da sua lógica! Por exigir menos conhecimentos extraclasse, o que vai fazer a diferença será a criatividade para a resolução dos problemas. 
 
-
+E essa criatividade que as provas desse nível requerem é adiquirida através da resolução de vários problemas, ou do estudo da solução de um problema qe você nã conseguiu resolver! A questão é treinar para unir uma boa base com um pensamento lógico e criativo.
 
 
 

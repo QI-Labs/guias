@@ -5,8 +5,8 @@ A OBMEP é exclusiva para alunos de escola pública, ela tem o título de maior 
 
 Por aqui será possível:
 
--a
--b
--c
+- a
+- b
+- c
 
 Comece a explorar o nosso conteúdo!

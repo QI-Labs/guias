@@ -27,12 +27,14 @@ Você pode também explorar um pouco de outros tópicos, mas vale lembrar que ex
 
 ### Matemática Olímpica
 
-Essa seção está relacionada às diversas olimpíadas de matemática em todo o mundo. O AOPS dispõe os problemas de cada uma delas (na maioria das vezes, várias edições da dada olimpíada) e deixa todos eles abertos para discussão.
+Essa seção está relacionada às diversas olimpíadas de matemática em todo o mundo, sejam elas nacionais ou internacionais. A partir dessa página será possível acessar conteúdo de olimpíadas nacionais ou internacionais, IMO Shorltlist e Dowloads. O AOPS dispõe os problemas de cada uma das olimpíadas e deixa todos eles abertos para discussão!
+
+Chegue nessa página através de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217), e acesse a parte de [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245).
 
 #### **Suponhamos que você queira visitar o fórum da IMO de 2014 na África do Sul.**
 
-Através da página de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217), acesse a parte de [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245).
+Em [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245), siga os pássos a seguir:
 
-- A partir dessa página será possível escolher entre olimpíadas nacionais ou internacionais, IMO Shorltil e Dowloads.
-- Como a IMO é uma competição internacional, selecione [International Mathematical Olympiad](http://www.artofproblemsolving.com/Forum/viewforum.php?f=87) e procure por [IMO 2014 South Africa](http://www.artofproblemsolving.com/Forum/viewforum.php?f=1097).
-- Pronto! A partir daí se tem acesso à questões e resultados.
+- Como a IMO é uma competição internacional, selecione [International Mathematical Olympiad](http://www.artofproblemsolving.com/Forum/viewforum.php?f=87)
+- Procure por [IMO 2014 South Africa](http://www.artofproblemsolving.com/Forum/viewforum.php?f=1097).
+- Pronto! A partir daí se tem acesso à questões e resultados dessa edição da IMO

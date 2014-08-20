@@ -1,7 +1,7 @@
 
 ## Art of Problem Solving
 
-O **[Art of Problem Solving](http://www.artofproblemsolving.com)**, também conhecido como **MathLinks**, é uma plataforma que incentiva estudo da matemáticade diversas maneiras, sendo a principal delas um **Fórum de Discussão**. Se você tem interesse em descobrir novos problemas e suas soluções, vale a pena consultar o fórum do **Art of Problem Solving**, não só por estar entre as comunidades de discussão matemática mais conhecidas no mundo, mas também por estar cheio de mentes brilhantes que compartilham o gosto por matemática!
+O **[Art of Problem Solving](http://www.artofproblemsolving.com)**, também conhecido como **MathLinks**, é uma plataforma que incentiva estudo da matemática de diversas maneiras, sendo a principal delas um **Fórum de Discussão**. Se você tem interesse em descobrir novos problemas e suas soluções, vale a pena consultar o fórum do **Art of Problem Solving**, não só por estar entre as comunidades de discussão matemática mais conhecidas no mundo, mas também por estar cheio de mentes brilhantes que compartilham o gosto por matemática!
 
 Embora o site venda livros indicados e possua recursos pagos, daremos aqui o direcionamento para que você utilize a parte que é **gratuita**, e que oferece diversas questões de matemática!
 

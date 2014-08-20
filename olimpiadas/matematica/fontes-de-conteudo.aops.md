@@ -1,7 +1,13 @@
 
 ## Art of Problem Solving
 
-O **[Art of Problem Solving](http://www.artofproblemsolving.com)**, também conhecido como **MathLinks**, é um dos mais famosos fóruns de discussão de problemas matemáticos do mundo. Algumas pessoas, porém, podem ter problemas em achar problemas legais, e sendo aqui o foco em olimpíadas, há dois bons cantos que recomendamos a você visitar nesse fórum:
+um dos mais famosos fóruns de discussão de problemas matemáticos do mundo. 
+
+O **[Art of Problem Solving](http://www.artofproblemsolving.com)**, também conhecido como **MathLinks**, é uma plataforma que incentiva estudo da matemáticade diversas maneiras, sendo a principal delas o [fórum de discussões]().
+
+Embora o site venda livros indicados e possua recursos pagos (como o "classroom"), daremos aqui o direcionamento para que você utilize a parte que é **gratuita**, e que oferece diversas questões de matemática!
+
+Algumas pessoas encontram certa dificuldade para achar bons problemas, mas considerando o nosso foco em olimpíadas, recomendamos dois segmentos do fórum:
 
 ### Para matérias gerais
 
@@ -14,7 +20,7 @@ Aqui temos uma divisão de “matérias” de acordo com sua preferência (lembr
 - Na parte de *Inequalities Solved Problems* é onde ficam guardados os tópicos dos tipos acima que já foram discutidos.
 - Por fim, na parte de *Inequalities Theorems and Formulas*, talvez o lugar mais interessante para se começar a estudar, estão os tópicos sobre materiais e teorias relacionados à matéria (no caso, desigualdade). Os tópicos com estrelinhas ao lado e os superiores da tela costumam ser mais interessantes e cheios de diferentes e bons materiais.
 
-Você pode também wxplorar um pouco de outros tópicos que, em geral, são mais informais e às vezes incompletos.
+Você pode também explorar um pouco de outros tópicos que, em geral, são mais informais e às vezes incompletos.
 
 ### Matemática Olímpica
 

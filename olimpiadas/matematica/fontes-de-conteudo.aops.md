@@ -7,21 +7,30 @@ Embora o site venda livros indicados e possua recursos pagos (como o "classroom"
 
 Algumas pessoas encontram certa dificuldade para achar bons problemas, mas considerando o nosso foco em olimpíadas, recomendamos dois segmentos do fórum:
 
-### Para matérias gerais
+### Para matérias de olimpíada
 
-Aqui temos uma divisão de “matérias” de acordo com sua preferência (lembrando que na matemática olímpica muitos tópicos se misturam na resolução de um único problema!). Todos os tópicos de cada matéria seguem mais ou menos o mesmo padrão:
+Para encontrar essa área do fórum você deve acessar a parte de [Community](http://www.artofproblemsolving.com/Forum/index.php) do site. A partir dessa página, que contém diversas seções, você deve selecionar a parte de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217).
+
+Na seção de olimpíadas é dividida em “matérias”, e você pode escolher a parte que quer visitar de acordo com sua preferência (lembrando que na matemática olímpica muitos tópicos se misturam na resolução de um único problema!). Todos os tópicos de cada matéria seguem mais ou menos o mesmo padrão:
 
 #### **Suponhamos que você queira visitar o fórum de Desigualdades.**
 
-Para isso você deve acessar a parte de [Community](http://www.artofproblemsolving.com/Forum/index.php) do site. A partir dessa página que contém diversas seções, você deve selecionar a parte de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217) e procurar por [Inequalities](http://www.artofproblemsolving.com/Forum/viewforum.php?f=32).
+Estando na [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217) procure por [Inequalities](http://www.artofproblemsolving.com/Forum/viewforum.php?f=32).
 
 - Na parte de [*Inequalities Unsolved Problems*](http://www.artofproblemsolving.com/Forum/viewforum.php?f=51) você pode postar problemas que não está conseguindo fazer, mas sabe que há solução!
 - Na parte de [*Inequalities Proposed & Own Problems*](http://www.artofproblemsolving.com/Forum/viewforum.php?f=52) há liberdade para propor problemas que voce criou, fez e achou interessante compartilhar e está atrás de novos olhares, opiniões, soluções…
 - Na parte de [*Inequalities Solved Problems*](http://www.artofproblemsolving.com/Forum/viewforum.php?) é onde ficam guardados os tópicos dos tipos acima que já foram discutidos.
 - Por fim, na parte de [*Inequalities Theorems and Formulas*](http://www.artofproblemsolving.com/Forum/viewforum.php), talvez o lugar mais interessante para se começar a estudar, estão os tópicos sobre materiais e teorias relacionados à matéria (no caso, desigualdade). Os tópicos com estrelinhas ao lado e os superiores da tela costumam ser mais interessantes e cheios de diferentes e bons materiais.
 
-Você pode também explorar um pouco de outros tópicos, mas vale lembrar que existem alguns que são mais informais e às vezes incompletos.
+
+Você pode também explorar um pouco de outros tópicos, mas vale lembrar que existem alguns que são mais informais e às vezes incompletos que nós utilizamos para exemplificar.
 
 ### Matemática Olímpica
 
 Essa seção está relacionada às diversas olimpíadas de matemática em todo o mundo. O AOPS dispõe os problemas de cada uma delas (na maioria das vezes, várias edições da dada olimpíada) e deixa todos eles abertos para discussão.
+
+#### **Suponhamos que você queira visitar o fórum da IMO de 2014 na África do Sul.**
+
+Acesse a parte de [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245) através da página de [Olympiad Section]. 
+A partir dessa página será possível escolher entre olimpíadas nacionais ou internacionais, IMO Shorltil e Dowloads. Como a IMO é uma competição internacional, selecione [International Mathematical Olympiad](http://www.artofproblemsolving.com/Forum/viewforum.php?f=87) e procure por [IMO 2014 South Africa](http://www.artofproblemsolving.com/Forum/viewforum.php?f=1097).
+Pronto! A partir daí se tem acesso à questões e resultados.

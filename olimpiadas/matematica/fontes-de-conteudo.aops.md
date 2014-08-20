@@ -23,7 +23,7 @@ Estando na [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum
 - Por fim, na parte de [*Inequalities Theorems and Formulas*](http://www.artofproblemsolving.com/Forum/viewforum.php), talvez o lugar mais interessante para se começar a estudar, estão os tópicos sobre materiais e teorias relacionados à matéria (no caso, desigualdade). Os tópicos com estrelinhas ao lado e os superiores da tela costumam ser mais interessantes e cheios de diferentes e bons materiais.
 
 
-Você pode também explorar um pouco de outros tópicos, mas vale lembrar que existem alguns que são mais informais e às vezes incompletos que nós utilizamos para exemplificar.
+Você pode também explorar um pouco de outros tópicos, mas vale lembrar que existem alguns que são mais informais e às vezes incompletos que o que nós utilizamos para exemplificar.
 
 ### Matemática Olímpica
 

@@ -25,7 +25,7 @@ Estando na [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum
 
 Você pode também explorar um pouco de outros tópicos, mas vale lembrar que existem alguns que são mais informais e às vezes incompletos que o que nós utilizamos para exemplificar.
 
-### Matemática Olímpica
+### Questões de Olimpíadas
 
 Essa seção está relacionada às diversas olimpíadas de matemática em todo o mundo, sejam elas nacionais ou internacionais. A partir dessa página será possível acessar conteúdo de olimpíadas nacionais ou internacionais, IMO Shorltlist e Dowloads. O AOPS dispõe os problemas de cada uma das olimpíadas e deixa todos eles abertos para discussão!
 

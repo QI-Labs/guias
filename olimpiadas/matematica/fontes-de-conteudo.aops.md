@@ -1,8 +1,6 @@
 
 ## Art of Problem Solving
 
-um dos mais famosos fóruns de discussão de problemas matemáticos do mundo. 
-
 O **[Art of Problem Solving](http://www.artofproblemsolving.com)**, também conhecido como **MathLinks**, é uma plataforma que incentiva estudo da matemáticade diversas maneiras, sendo a principal delas um dos mais famosos **fóruns de discussão** de problemas do mundo.
 
 Embora o site venda livros indicados e possua recursos pagos (como o "classroom"), daremos aqui o direcionamento para que você utilize a parte que é **gratuita**, e que oferece diversas questões de matemática!
@@ -28,4 +26,5 @@ Você pode também explorar um pouco de outros tópicos, mas vale lembrar que ex
 
 Essa seção está relacionada às diversas olimpíadas de matemática em todo o mundo. O AOPS dispõe os problemas de cada uma delas (na maioria das vezes, várias edições da dada olimpíada) e deixa todos eles abertos para discussão.
 
-**O MathLinks está cheio de mentes brilhantes que compartilham o gosto por matemática!**
+
+Se você tem interesse em descobrir novos problemas e suas soluções, vale a pena consultar o fórum do **Art of Problem Solving** não só por ser muito famoso, mas também por estar cheio de mentes brilhantes que compartilham o gosto por matemática!

@@ -11,7 +11,7 @@ O conteúdo abordado nas provas desse nível é mais voltado para a lógica que 
 - porcentagem
 - regra de três
 
-    Ter o conhecimento dessas teorias vai ajudar a reforçar sua base para a resolução dos problemas propostos. Vale enfatizar que os tópicos acima são apenas alguns exemplos de conteúdos da teoria básica, e é sempre bom estar a par do conteúdo de matemática da sua escola, isso vai ajudar muito a reforçar todo seu estudo para olimpíadas.
+        Ter o conhecimento dessas teorias vai ajudar a reforçar sua base para a resolução dos problemas propostos. Vale enfatizar que os tópicos acima são apenas alguns exemplos de conteúdos da teoria básica, e é sempre bom estar a par do conteúdo de matemática da sua escola, isso vai ajudar muito a reforçar todo seu estudo para olimpíadas.
 
 E é claro que não se trata somente do básico!
 

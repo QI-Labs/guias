@@ -21,8 +21,8 @@ Estando na [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum
 
 - Na parte de [*Inequalities Unsolved Problems*](http://www.artofproblemsolving.com/Forum/viewforum.php?f=51) você pode postar problemas que não está conseguindo fazer, mas sabe que há solução!
 - Na parte de [*Inequalities Proposed & Own Problems*](http://www.artofproblemsolving.com/Forum/viewforum.php?f=52) há liberdade para propor problemas que voce criou, fez e achou interessante compartilhar e está atrás de novos olhares, opiniões, soluções…
-- Na parte de [*Inequalities Solved Problems*](http://www.artofproblemsolving.com/Forum/viewforum.php?) é onde ficam guardados os tópicos dos tipos acima que já foram discutidos.
-- Por fim, na parte de [*Inequalities Theorems and Formulas*](http://www.artofproblemsolving.com/Forum/viewforum.php), talvez o lugar mais interessante para se começar a estudar, estão os tópicos sobre materiais e teorias relacionados à matéria (no caso, desigualdade). Os tópicos com estrelinhas ao lado e os superiores da tela costumam ser mais interessantes e cheios de diferentes e bons materiais.
+- Na parte de [*Inequalities Solved Problems*](http://www.artofproblemsolving.com/Forum/viewforum.php?f=54) é onde ficam guardados os tópicos dos tipos acima que já foram discutidos.
+- Por fim, na parte de [*Inequalities Theorems and Formulas*](http://www.artofproblemsolving.com/Forum/viewforum.php?f=55), talvez o lugar mais interessante para se começar a estudar, estão os tópicos sobre materiais e teorias relacionados à matéria (no caso, desigualdade). Os tópicos com estrelinhas ao lado e os superiores da tela costumam ser mais interessantes e cheios de diferentes e bons materiais.
 
 
 Você pode também explorar um pouco de outros tópicos, mas vale lembrar que existem alguns que são mais informais e às vezes incompletos que o que nós utilizamos para exemplificar.

@@ -11,7 +11,9 @@ Algumas pessoas encontram certa dificuldade em achar bons problemas, mas conside
 
 Para encontrar essa área do fórum você deve acessar a parte de [Community](http://www.artofproblemsolving.com/Forum/index.php) do site. A partir dessa página, que contém diversas seções, você deve selecionar a parte de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217).
 
-A seção de olimpíadas é dividida em “matérias”, e você pode escolher a parte que quer visitar de acordo com sua preferência (lembrando que na matemática olímpica muitos tópicos se misturam na resolução de um único problema!). Todos os tópicos de cada matéria seguem mais ou menos o mesmo padrão:
+A seção de olimpíadas é dividida em “matérias”, e você pode escolher a parte que quer visitar de acordo com sua preferência (lembrando que na matemática olímpica muitos tópicos se misturam na resolução de um único problema!). 
+
+Todos os tópicos de cada matéria seguem mais ou menos o mesmo padrão:
 
 #### **Suponhamos que você queira visitar o fórum de Desigualdades.**
 

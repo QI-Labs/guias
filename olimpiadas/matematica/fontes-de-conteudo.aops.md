@@ -15,7 +15,7 @@ A seção de olimpíadas é dividida em “matérias”, e você pode escolher a
 
 Todos os tópicos de cada matéria seguem mais ou menos o mesmo padrão:
 
-#### **Suponhamos que você queira visitar o fórum de Desigualdades.**
+#### **Suponhamos que você queira visitar o fórum de Desigualdades**
 
 Estando na [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217) procure por [Inequalities](http://www.artofproblemsolving.com/Forum/viewforum.php?f=32).
 
@@ -29,13 +29,13 @@ Você pode também explorar um pouco de outros tópicos, mas vale lembrar que ex
 
 ### Para Questões de Olimpíadas
 
-Essa seção está relacionada às diversas olimpíadas de matemática em todo o mundo, sejam elas nacionais ou internacionais. A partir dessa página será possível acessar conteúdo de olimpíadas nacionais ou internacionais, IMO Shorltlist e Dowloads. O AOPS dispõe os problemas de cada uma das olimpíadas e deixa todos eles abertos para discussão!
+Essa seção está relacionada às diversas olimpíadas de matemática em todo o mundo, sejam elas nacionais ou internacionais. A partir dessa página será possível acessar questões de olimpíadas, IMO Shorltlist e Downloads. O AOPS dispõe os problemas de cada uma das olimpíadas e deixa todos eles abertos para discussão!
 
 Chegue nessa página através de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217), e acesse a parte de [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245).
 
-#### **Suponhamos que você queira visitar o fórum da IMO de 2014 na África do Sul.**
+#### **Suponhamos que você queira visitar o fórum da IMO de 2014 na África do Sul**
 
-Em [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245), siga os pássos a seguir:
+Em [High-School Contests](http://www.artofproblemsolving.com/Forum/viewforum.php?f=245), siga os passos a seguir:
 
 - Como a IMO é uma competição internacional, selecione [International Mathematical Olympiad](http://www.artofproblemsolving.com/Forum/viewforum.php?f=87)
 - Procure por [IMO 2014 South Africa](http://www.artofproblemsolving.com/Forum/viewforum.php?f=1097)

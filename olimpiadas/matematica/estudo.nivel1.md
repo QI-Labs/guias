@@ -24,7 +24,7 @@ Possuindo esse "background" formado por conhecimento da teoria matemática bási
 
 Para o nível 1 é mais importante treinar com os problemas do que se adiantar e aprender matérias do nível 2, pois a prova requer muito mais da sua lógica! 
 
-Por exigir menos conhecimentos extraclasse, o que vai fazer a diferença será a **criatividade** para a resolução dos problemas. Essa criatividade que as provas desse nível requerem é adiquirida através da resolução de vários problemas, ou do estudo da solução de um problema qe você nã conseguiu resolver! A questão é treinar para unir uma boa base com um pensamento lógico e criativo.
+Por exigir menos conhecimentos extraclasse, o que vai fazer a diferença será a **criatividade** para a resolução dos problemas. Essa criatividade que as provas desse nível requerem é adiquirida através da resolução de vários problemas, ou do estudo da solução de um problema que você nã conseguiu resolver! A questão é treinar para unir uma boa base com um pensamento lógico e criativo.
 
 
 

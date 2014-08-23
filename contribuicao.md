@@ -42,4 +42,4 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
 Pronto! Seu pedido foi enviado, agora resta esperar que os admnistradores do QI Labs aceitem ou não ou seu pedido de Pull Request. 
 
-Vale lembrar que quanto mais modificações contrutuvas os usuários fazem, melhor o conteúdo se torna, beneficiando a todos. Por esse motivo, **não deixe de contribuir!**
+Vale lembrar que quanto mais modificações contrutivas, melhor o conteúdo se torna. Esse processo beneficia a todos, e por esse motivo, **não deixe de contribuir!**

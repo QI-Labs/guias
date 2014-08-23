@@ -12,7 +12,7 @@ Por exemplo, da mesma forma que uma pessoa interessada em nível 3 de Olimpíada
 
 A vantagem de permitir que os usuários editem o conteúdo, é que desta forma estamos recebendo opiniões diversas a respeito dos vários assuntos abordados pelas Guias. Se o editor principal do texto de Application não explicou muito bem a respeito de um processo que um usuário conhece bastante, por quê não ajudar? A **Guia colaborativa** foi a melhor forma que achamos de construir juntos um conteúdo mais completo e melhorado para uso dos usuários.
 
-Por isso, se você possui interesse e deseja participar, criamos um passo a passo de como é o processo colaborativo das Guias. Não deixe de contribuir!
+Por isso, se você possui interesse e deseja participar, criamos um **passo a passo** de como é o processo colaborativo das Guias.
 
 ## Como Contribuir?
 
@@ -40,4 +40,6 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
 ### 4. Esperar pela aceitação/ reprovação do seu pedido
 
-Pronto! Seu pedido foi enviado, agora resta esperar que os admnistradores do QI Labs aceitem ou não ou seu pedido de Pull Request.
+Pronto! Seu pedido foi enviado, agora resta esperar que os admnistradores do QI Labs aceitem ou não ou seu pedido de Pull Request. 
+
+Vale lembrar que quanto mais modificações contrutuvas os usuários fazem, melhor o conteúdo se torna, beneficiando a todos. Por esse motivo, **não deixe de contribuir!**

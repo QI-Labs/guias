@@ -1,5 +1,5 @@
 
-# Olimpíadas de Matemática for Dummies
+# Olimpíadas de Matemática
 
 - Nível 1: 6ª e 7ª ano.
 - Nível 2: 8ª e 9ª ano.

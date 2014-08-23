@@ -1,18 +1,5 @@
 # Página de Contribuição
 
-<!--
-
-O que é o Github? 
-Pra que ele serve, e como usar pro QI.
-Explicar que as guias são colaborativas!
-
-(passo a passo com descrição e imagem)
-
-Explicar o Markdown
-
--->
-
-
 Bem Vindos à **Página de Contribuição** do QI Labs!
 
 O [**QI Labs Guias**](http://www.qilabs.org/guias) foi criado com o intuito de abarcar conteúdo colaborativo dos usuários do site. Isso significa que qualquer um pode participar da edição de conteúdo, basta seguir as instruções nesta página!

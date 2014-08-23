@@ -29,7 +29,7 @@ Por isso, se você possui interesse e deseja participar, criamos um passo a pass
 
 ## Como Contribuir?
 
-O conteúdo das Guias fica armazenado em um site de Web Hosting para projetos colaborativos, chamdo [Git Hub](github.com). É comumente utilizada por programadores para projetos colaborativos, já que o sote tem sporte para criar repositórios que podem ser alterados por pedidos. É essa plataforma online que o conteúdo fica armazenado, organizado com uma pasta paracada Guia. Explicamos abaixo como proceder para poder editar o conteúdo:
+O conteúdo das Guias fica armazenado em um site de Web Hosting para projetos colaborativos, chamdo [**Git Hub**](github.com). É comumente utilizada por programadores para projetos colaborativos, já que o sote tem sporte para criar repositórios que podem ser alterados por pedidos. É essa plataforma online que o conteúdo fica armazenado, organizado com uma pasta paracada Guia. Explicamos abaixo como proceder para poder editar o conteúdo:
 
 ### 1. Criar uma conta no Git Hub
 

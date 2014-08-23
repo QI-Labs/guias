@@ -22,24 +22,25 @@ O conteúdo das Guias fica armazenado em um site de Web Hosting para projetos co
 
 Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
-- Vá para a página principal do [Github](https://github.com/)
+- Vá para a página principal do [Github](https://github.com/) . [Imgur](http://i.imgur.com/5jCZXh9.png?1)
 - Insira um nome de usuário, e-mail e senha, e clique em "Sign Up for Git Hub"
-- Selecione a opção "Free Account" e clique em "Finish Signing Up"
+- Selecione a opção "Free Account" e clique em "Finish Signing Up" . [Imgur](http://i.imgur.com/iU8wChI.png)
 - Você será levado para a página da sua conta no Git Hub
 
 ### 2. Acessar a página do QILabs/Guias no Github
 
-- Agora que você possui uma conta, acesse a página [QI Labs Guias](https://github.com/QI-Labs/guias)
-- Clique na pasta da Guia que você deseja editar
+- Agora que você possui uma conta, acesse a página [QI Labs Guias](https://github.com/QI-Labs/guias) .  [Imgur](http://i.imgur.com/h1Vu1zr.png)
+- Clique na pasta da Guia que você deseja editar . [Imgur](http://i.imgur.com/FqZhEZs.png)
 
 ### 3. Editar o conteúdo e fazer as modificações que você achar necessárias
 
-- Clique no arquivo que você deseja modificar e selecione em "Edit"
-- Faça as modificações que deseja, tendo em mente o melhor para os usuários
-- Clicar no botão de Fork and Commit
+- Clique no arquivo que você deseja modificar e selecione em "Edit" . [Imgur](http://i.imgur.com/VlAKq8V.png)
+- Faça as modificações que deseja, tendo em mente o melhor para os usuários . [Imgur](http://i.imgur.com/YdLFV7d.png)
+- Clicar no botão de Fork and Commit . [Imgur](http://i.imgur.com/1NdBe5B.png)
+- Faça um comentário breve explicando sua modificação e clique em "Create Pull Request". [Imgur](http://i.imgur.com/jTRkkk5.png)
 
 ### 4. Esperar pela aceitação/ reprovação do seu pedido
 
-- Pronto! Seu pedido foi enviado, agora resta esperar que os admnistradores do QI Labs aceitem ou não ou seu pedido de Pull Request. 
+- Pronto! Seu pedido foi enviado, agora resta esperar que os admnistradores do QI Labs aceitem ou não ou seu pedido de Pull Request. [Imgur](http://i.imgur.com/w1T1Io7.png)
 
 Vale lembrar que quanto mais modificações contrutivas, melhor o conteúdo se torna. Esse processo beneficia a todos, e por esse motivo, **não deixe de contribuir!**

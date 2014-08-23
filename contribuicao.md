@@ -21,7 +21,7 @@ Explicar que as guias são colaborativas!
 -->
 
 
-Bem Vindos à Página de Contribuição d QI Labs!
+Bem Vindos à Página de Contribuição do QI Labs!
 
 O QI Labs Guias foi criado com o intuito de abarcar conteúdo colaborativo dos usuários do site. Isso significa que qualquer um pode participar da edição de conteúdo, basta seguir as instruções nesta página!
 

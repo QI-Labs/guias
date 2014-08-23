@@ -39,7 +39,7 @@ Por isso, se você possui interesse e deseja participar, criamos um passo a pass
 
 O conteúdo das Guias fica armazenado em um site com plataforma online de Web Hosting para projetos colaborativos, chamdo [Git Hub](github.com). É comumente utilizada por programadores para projetos colaborativos, já que o sote tem sporte para criar repositórios que podem ser alterados por pedidos. 
 
-1. Criar uma conta no Git Hub
+#1. Criar uma conta no Git Hub
 
 Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
@@ -48,12 +48,12 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 - Selecione a opção "Free Account" e clique em "Finish Signing Up"
 - Você será levado para a página da sua conta no Git Hub
 
-2. Acessar a página do QILabs/Guias no Github
+#2. Acessar a página do QILabs/Guias no Github
 
 - Agora que você possui uma conta, acesse a página [QI Labs Guias](https://github.com/QI-Labs/guias)
 - Clique na Guia que você deseja editar
 
-3. Editar o conteúdo e fazer as modificações que você achar necessárias
+#3. Editar o conteúdo e fazer as modificações que você achar necessárias
 
 - Clique no arquivo que você deseja modificar e clique em "Edit"
 - Faça as modificações que achar necessárias
@@ -61,4 +61,4 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
 Pronto! Seu pedido foi enviado, agora resta esperar que os admnistradores do QI Labs aceitem ou não ou seu pedido de Pull Request.
 
-5. Esperar pela aceitação/ reprovação do seu pedido
+#4. Esperar pela aceitação/ reprovação do seu pedido

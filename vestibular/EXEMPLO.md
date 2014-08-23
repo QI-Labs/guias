@@ -1,4 +1,4 @@
-# Olá!
+# Bem vindos!
 
 Este arquivo foi criado para te ajudar a aprender como editar o conteúdo colaborativo do QI Labs pelo Git Hub
 

@@ -8,6 +8,9 @@ Quais faculdades aderem (lista de universidades que aderem ao ENEM)
 Restrições e Regras
 Como funciona (FASES, DURAÇÃO, NUMERO DE QUESTÕES)
 
+>É importante lembrar que atualmente nem todas as universidades aceitam o ENEM!
+Confira [aqui](link de lista das faculdades) as faculdades que o aderiram. 
+
 Para a inscrição, basta se cadastrar no site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) correspondente ao ENEM e completar os seus dados pessoais como endereço, CPF,RG,estado civil, ano em que cursa o ensino médio (estudantes do terceiro ano são insentos do pagamento),entre outros. Acompanhando a inscrição é possível ver os locais de prova tanto no cartão de inscrição que, em geral, é entregue via correio no endereço cadastrado no site quanto no próprio site em si. A taxa da mesma, no ano de 2013, foi de 35 reais, com excessão dos que solicitaram insenção ou alunos do terceiro ano do ensino médio.
 
 Dividido em duas fases, o ENEM acontece em um final de semana perto dos meses de setembro,outubro e novembro, totalizando 180 questões realizadas em 9 horas e meia de exame.

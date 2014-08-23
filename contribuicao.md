@@ -2,6 +2,7 @@
 
 O que é o Github? 
 Pra que ele serve, e como usar pro QI.
+Explicar que as guias são colaborativas!
 
 (passo a passo com descrição e imagem)
 

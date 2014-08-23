@@ -40,7 +40,7 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
 **Aviso Importante!** 
 
-O conteúdo é editado em um formato chamado **Markdown**. É uma liguagem muito simples que utiliza símbolos para facilitar a formatação do texto. Elementos simples como títulos e subtítulos, negrito e itálico devem ser escritos de certa forma. Confira [aqui]() as isntruções básicas para o Markdown!
+O conteúdo é editado em um formato chamado **Markdown**. É uma liguagem muito simples que utiliza símbolos para facilitar a formatação do texto. Elementos simples como títulos e subtítulos, negrito e itálico devem ser escritos de certa forma. Confira [aqui]() as instruções básicas para o Markdown!
 
 ### 4. Esperar pela aceitação/ reprovação do seu pedido
 

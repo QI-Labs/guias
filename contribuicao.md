@@ -54,7 +54,7 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
 ![Imgur](http://i.imgur.com/YdLFV7d.png)
 
-- Clicar no botão de Fork and Commit
+- Clicar no botão de "Propose File Change"
 
 ![Imgur](http://i.imgur.com/1NdBe5B.png)
 

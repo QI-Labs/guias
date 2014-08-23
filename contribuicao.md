@@ -1,5 +1,7 @@
 # Página de Contribuição
 
+<!--
+
 O que é o Github? 
 Pra que ele serve, e como usar pro QI.
 Explicar que as guias são colaborativas!
@@ -15,6 +17,8 @@ Explicar que as guias são colaborativas!
 4. Clicar no botão de Fork and Commit
 
 5. Esperar pela aceitação/ reprovação do seu pedido
+
+-->
 
 
 Bem Vindos à Página de Contribuição d QI Labs!

@@ -37,9 +37,21 @@ Por isso, se você possui interesse e deseja participar, criamos um passo a pass
 
 ## Como Contribuir?
 
-1. Criar uma conta no Github
+O conteúdo das Guias fica armazenado em um site com plataforma online de Web Hosting para projetos colaborativos, chamdo [Git Hub](github.com). É comumente utilizada por programadores para projetos colaborativos, já que o sote tem sporte para criar repositórios que podem ser alterados por pedidos. 
+
+1. Criar uma conta no Git Hub
+
+Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
+
+- Vá para a página principal do [Github](https://github.com/)
+- Insira um nome de usuário, e-mail e senha, e clique em Sign Up for Git Hub
+- Selecione a opção "Free Account" e clique em "Finish Signing Up"
+- Você será levado para a página da sua conta no Git Hub
 
 2. Acessar a página do QILabs/Guias no Github
+
+- Agora que você possui uma conta, acesse a página [QI Labs Guias](https://github.com/QI-Labs/guias)
+- Clique na Guia que você deseja editar
 
 3. Editar o conteúdo e fazer as modificações que você achar necessárias
 

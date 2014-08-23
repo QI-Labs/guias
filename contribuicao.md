@@ -22,9 +22,16 @@ O conteúdo das Guias fica armazenado em um site de Web Hosting para projetos co
 
 Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
-- Vá para a página principal do [Github](https://github.com/) . ![Imgur](http://i.imgur.com/5jCZXh9.png?1)
+- Vá para a página principal do [Github](https://github.com/) . 
+
+![Imgur](http://i.imgur.com/5jCZXh9.png?1)
+
 - Insira um nome de usuário, e-mail e senha, e clique em "Sign Up for Git Hub"
-- Selecione a opção "Free Account" e clique em "Finish Signing Up" . ![Imgur](http://i.imgur.com/iU8wChI.png)
+
+- Selecione a opção "Free Account" e clique em "Finish Signing Up" . 
+
+![Imgur](http://i.imgur.com/iU8wChI.png)
+
 - Você será levado para a página da sua conta no Git Hub
 
 ### 2. Acessar a página do QILabs/Guias no Github

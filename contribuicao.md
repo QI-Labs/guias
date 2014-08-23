@@ -35,8 +35,10 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 ### 3. Editar o conteúdo e fazer as modificações que você achar necessárias
 
 - Clique no arquivo que você deseja modificar e selecione em "Edit"
-- Faça as modificações que deseja, sempre pensando no melhor para os usuários
+- Faça as modificações que deseja, tendo em mente o melhor para os usuários
 - Clicar no botão de Fork and Commit
+
+**Importante**! O conteúdo é editado em um formato chamado **Markdown**. É uma liguagem muito simples que utiliza símbolos para facilitar a formatação do texto. Elementos simples como títulos e subtítulos, **negrito** e *itálico* podem ser escritos de certa forma. Confira [aqui]() as isntruções básicas para o Markdown!
 
 ### 4. Esperar pela aceitação/ reprovação do seu pedido
 

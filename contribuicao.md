@@ -40,6 +40,6 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
 ### 4. Esperar pela aceitação/ reprovação do seu pedido
 
-Pronto! Seu pedido foi enviado, agora resta esperar que os admnistradores do QI Labs aceitem ou não ou seu pedido de Pull Request. 
+- Pronto! Seu pedido foi enviado, agora resta esperar que os admnistradores do QI Labs aceitem ou não ou seu pedido de Pull Request. 
 
 Vale lembrar que quanto mais modificações contrutivas, melhor o conteúdo se torna. Esse processo beneficia a todos, e por esse motivo, **não deixe de contribuir!**

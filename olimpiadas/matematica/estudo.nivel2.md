@@ -6,7 +6,7 @@ Após esse livro você começará a se divertir aprendendo os teoremas mais dive
 
 Após a realização do MathCircles você pode passar para um livro mais avançado, tal como o **Problem Solving**.
 
-Agora uma relação de livros que vão te auxiliar em matérias mais especificas da matemática
+Preparamos uma relação de livros comentados que vão te auxiliar em matérias mais especificas da matemática olímpica.
 
 **Livros recomendados**:
 

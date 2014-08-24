@@ -1,10 +1,11 @@
-# Página de Contribuição
+Página de Contribuição
+======================
 
 Bem Vindos à **Página de Contribuição** do QI Labs!
 
 O [**QI Labs Guias**](http://www.qilabs.org/guias) foi criado com o intuito de abarcar conteúdo colaborativo dos usuários do site. Isso significa que qualquer um pode participar da edição de conteúdo, basta seguir as instruções nesta página!
 
-**E por que o conteúdo das Guias é colaborativo?**
+**Por que o conteúdo das Guias é colaborativo?**
 
 Nosso principal objetivo com com as Guias é criar uma rede de conteúdo mais completa possível, capaz de ajudar pessoas de todos os níveis em suas respectivas áreas de interesse. 
 

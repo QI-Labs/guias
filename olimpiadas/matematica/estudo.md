@@ -8,13 +8,11 @@ A maioria das olimpíadas de matemática divide os candidatos em três níveis. 
 - [Nível 3](http://www.qilabs.org/guias/olimpiadas-matematica/estudo/nivel3): Ensino Médio.
 
 
-Em cada nível selecionamos uma relação de livros sugerídos para cada matéria, bem como comentamos a respeito de cada livro. A lista de livros tem como objetivo auxiliar o estudo em matérias mais específicas da matemática olímpica. Confira cada Plano de Estudo!
+Em cada nível selecionamos uma relação de livros sugerídos para cada matéria, bem como comentamos a respeito de cada livro. A seleção de livros e seus comentários tem como objetivo auxiliar o estudo em matérias mais específicas da matemática olímpica.
 
 
 # Tópicos para Olimpíadas
 
-Começaremos com um artigo escrito pelos professores Carlos Shine, Edmilson Motta e Eduardo Tengan para o blog [Seleção para a IMO e Iberoamericana](http://imoibero.blogspot.com.br/). Ele é um resumo das matérias necessárias para a prova da IMO, além de outras dicas de estudo.
+Confira um resumo das matérias necessárias para a [IMO](http://www.qilabs.org/guias/olimpiadas-matematica/acervo/imo), retirado de um artigo escrito pelos professores Carlos Shine, Edmilson Motta e Eduardo Tengan para o blog [Seleção para a IMO e Iberoamericana](http://imoibero.blogspot.com.br/)
 
-Você pode consultar todo o artigo [clicando aqui](http://cyshine.webs.com/email-imo.pdf)!
-
-.... ?
+Você pode consultar o artigo no site do QI Labs [clicando aqui](http://www.qilabs.org/guias/olimpiadas-matematica/estudo/internacionais)!

@@ -1,9 +1,9 @@
 
 ## Art of Problem Solving
 
-O **[Art of Problem Solving](http://www.artofproblemsolving.com)**, também conhecido como **MathLinks**, é uma plataforma que incentiva estudo da matemática de diversas maneiras, sendo a principal delas um **Fórum de Discussão**. Se você tem interesse em descobrir novos problemas e suas soluções, vale a pena consultar o fórum, não só por estar entre as comunidades de discussão matemática mais conhecidas no mundo, mas também por estar cheio de mentes brilhantes que compartilham o gosto por matemática!
+O **[Art of Problem Solving](http://www.artofproblemsolving.com)**, também conhecido como **MathLinks**, é uma plataforma que incentiva o estudo da matemática de diversas maneiras, sendo a principal delas um **Fórum de Discussão**. Se você tem interesse em descobrir novos problemas e suas soluções, vale a pena consultar o fórum, não só por estar entre as comunidades de discussão matemática mais conhecidas no mundo, mas também por estar cheio de mentes brilhantes que compartilham o gosto por matemática!
 
-Embora o site venda livros indicados e possua outros recursos pagos, daremos aqui o direcionamento para que você utilize a parte que é **gratuita**: o fórum de discussão sobre matemática!
+Embora o site venda livros indicados e possua outros recursos pagos, daremos aqui o direcionamento para que você utilize a parte que é **gratuita**: o fórum de discussão sobre matemática.
 
 Algumas pessoas encontram certa dificuldade em achar bons problemas, mas considerando o foco em olimpíadas científicas, recomendamos dois segmentos:
 
@@ -11,7 +11,7 @@ Algumas pessoas encontram certa dificuldade em achar bons problemas, mas conside
 
 Para encontrar essa área do fórum você deve acessar a parte de [Community](http://www.artofproblemsolving.com/Forum/index.php) do site. A partir dessa página, que contém diversas seções, você deve selecionar a parte de [Olympiad Section](http://www.artofproblemsolving.com/Forum/viewforum.php?f=217).
 
-A seção de olimpíadas é dividida em “matérias”, e você pode escolher a parte que quer visitar de acordo com sua preferência (lembrando que na matemática olímpica muitos tópicos se misturam na resolução de um único problema!). 
+A seção de olimpíadas é dividida em “matérias”, e você pode escolher a parte que quer visitar de acordo com sua preferência (lembrando que na matemática olímpica muitos tópicos se misturam na resolução de um único problema). 
 
 Todos os tópicos de cada matéria seguem mais ou menos o mesmo padrão:
 

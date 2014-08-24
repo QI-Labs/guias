@@ -7,8 +7,8 @@ A OBMEP é exclusiva para alunos de escola pública, ela tem o título de maior 
 
 Por aqui será possível:
 
-- a
-- b
-- c
+- Conhecer Fontes de Conteúdo e aprender como elas podem ajudar nos seus estudos 
+- Consultar Planos de Estudo para cada nível, com livros sugeridos e comentários
+- Checar o Acervo de Competições e saber mais sobre as características das principais olimpíadas
 
 Comece a explorar o nosso conteúdo!

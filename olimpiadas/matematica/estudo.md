@@ -1,14 +1,14 @@
 # Plano de Estudo
 
 
-A maioria das olimpíadas de matemática utiliza uma certa divisão de níveis para os candidatos. Poderemos então, dividir nosso plano de estudo nesses três níveis.
+A maioria das olimpíadas de matemática divide os candidatos em três níveis. Poderemos então, dividir nosso plano de estudo de forma similar:
 
 - [Nível 1](http://www.qilabs.org/guias/olimpiadas-matematica/estudo/nivel1): 6ª e 7ª ano.
 - [Nível 2](http://www.qilabs.org/guias/olimpiadas-matematica/estudo/nivel2): 8ª e 9ª ano.
 - [Nível 3](http://www.qilabs.org/guias/olimpiadas-matematica/estudo/nivel3): Ensino Médio.
 
 
-Preparamos uma relação de livros comentados para cada nível, que vão te auxiliar em matérias mais especificas da matemática olímpica. Confira deixe de conferir!
+Em cada nível selecionamos uma relação de livros sugerídos para cada matéria, bem como comentamos a respeito de cada livro. A lista de livros tem como objetivo auxiliar o estudo em matérias mais específicas da matemática olímpica. Confira cada Plano de Estudo!
 
 
 # Tópicos para Olimpíadas

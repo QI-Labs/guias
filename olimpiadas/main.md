@@ -1,6 +1,8 @@
 Informações Gerais sobre Olimpíadas
 ------
 
+Atualmente, existem olimpíadas de matemática nacionais e internacionais muito conhecidas. A participação nessas competições pode aumentar seu interesse na área, tanto quanto oferecer novas oportunidades acadêmicas...
+
 Nessa parte fica a explicacao do que sao olimpiadas e como surgiram, bem introdutório.
 
 

@@ -77,7 +77,8 @@ conceitos: diâmetro de um conjunto, conjunto convexo, fecho convexo; técnicas:
 #### __Invariantes__
 determinação e construção de invariantes (paridade, restos, pinturas, funções); semi-invariantes (determinação e construção). “invariante automático” em recursões lineares homogêneas cujo polinõmio característico é divisível por x – 1.
 
-#### __Indução__ como fazer a partir de casos pequenos; obtenção de algoritmos a partir da indução.
+#### __Indução__ 
+como fazer a partir de casos pequenos; obtenção de algoritmos a partir da indução.
 
 
 <section class="notes">

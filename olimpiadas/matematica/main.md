@@ -10,8 +10,4 @@ A participação nessas competições pode aumentar seu interesse na área, tant
 
 Fique sabendo sobre projetos que ajudam na hora dos estudos para competir na nossa parte de [Fontes de Conteúdo](http://www.qilabs.org/guias/olimpiadas-matematica/fontes). Preparamos também instruções de estudo para cada nível de competição em [Plano de Estudo](http://www.qilabs.org/guias/olimpiadas-matematica/estudo), com livros sugeridos para cada matéria.
 
-Se interessou? Comece a explorar o nosso conteúdo!
-
-- Conheça Fontes de Conteúdo e aprender como elas podem ajudar nos seus estudos 
-- Consulte Planos de Estudo para cada nível, com livros sugeridos e comentários
-- Cheque o Acervo de Competições e saber mais sobre as características das principais olimpíadas
+Se interessou? Navegue pela Guia de Olimpíadas de Matemática e comece a explorar o conteúdo!

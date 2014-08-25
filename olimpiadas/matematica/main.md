@@ -2,9 +2,9 @@
 
 Olimpíadas de Matemática são competições para estudantes que tem como principais objetivos estimular o estudo da matemática e descobrir jovens com talento na área.
 
-Desde a 1ª Olimpíada de Matemática, que ocorreu na Hungria em 1896, o número de olimpíadas cresceu imensamente. Com o passar dos anos a relevância dessas competições foi aumentando, e atualmente existem olimpíadas de matemática nacionais e internacionais muito conhecidas. 
+Desde a 1ª Olimpíada de Matemática, que ocorreu na Hungria em 1896, o número de competições cresceu imensamente. Com o passar do tempo sua relevência cresceu, de modo que atualmente existem diversas olimpíadas de matemática nacionais e internacionais muito conhecidas. 
 
-No Brasil, temos duas principais olimpíadas, a OBM e a OBMEP. No âmbito internacional, exitem várias muito conhecidas, sendo a mais prestigiada a IMO. Para saber mais sobre cada olimpíada de matemática acesse o nosso Acervo de Competições.
+No Brasil, temos duas principais olimpíadas: a [OBM] e a [OBMEP]. No âmbito internacional, exitem várias muito conhecidas, sendo a mais prestigiada a IMO. Para saber mais sobre cada olimpíada de matemática acesse o nosso [Acervo de Competições].
 
 A participação nessas competições pode aumentar seu interesse na área, tanto quanto oferecer novas oportunidades acadêmicas! Projetos vem sendo organizados com o objetivo de ajudar alunos a aumentar o desempenho nas competições, e alcançar o desejo de ser premiado em olimpíadas. 
 

@@ -8,7 +8,7 @@ No Brasil, temos duas principais olimpíadas: a [OBM](http://www.qilabs.org/guia
 
 A participação nessas competições pode aumentar seu interesse na área, tanto quanto oferecer novas oportunidades acadêmicas! Projetos vem sendo organizados com o objetivo de ajudar alunos a aumentar o desempenho nas competições, e alcançar o desejo de ser premiado em olimpíadas. 
 
-Fique sabendo sobre projetos que ajudam na hora dos estudos para competir na nossa parte de Fontes de Conteúdo. Preparamos também instruções de estudo para cada nível de competição em Plano de Estudo, com livros sugeridos para cada matéria.
+Fique sabendo sobre projetos que ajudam na hora dos estudos para competir na nossa parte de [Fontes de Conteúdo](http://www.qilabs.org/guias/olimpiadas-matematica/fontes). Preparamos também instruções de estudo para cada nível de competição em [Plano de Estudo](http://www.qilabs.org/guias/olimpiadas-matematica/estudo), com livros sugeridos para cada matéria.
 
 Se interessou? Comece a explorar o nosso conteúdo!
 

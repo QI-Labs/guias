@@ -69,4 +69,4 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
 ![Imgur](http://i.imgur.com/w1T1Io7.png)
 
-Vale lembrar que quanto mais modificações construtivas, melhor o conteúdo se torna. Esse processo beneficia a todos, por esse motivo **não deixe de contribuir!**
+Vale lembrar que quanto mais modificações construtivas, melhor o conteúdo se torna. Esse processo beneficia a todos, e por esse motivo, **não deixe de contribuir!**

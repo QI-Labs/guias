@@ -1,6 +1,6 @@
 # O que são as Olimpíadas de Matemática?
 
-As Olimpíadas de Matemática são competições para estudantes que tem como principais objetivos estimular o estudo da matemática e descobrir jovens com talento na área.
+Olimpíadas de Matemática são competições para estudantes que tem como principais objetivos estimular o estudo da matemática e descobrir jovens com talento na área.
 
 Desde a 1ª Olimpíada de Matemática, que ocorreu na Hungria em 1896, o número de olimpíadas cresceu imensamente. Com o passar dos anos a relevância dessas competições foi aumentando, e atualmente existem olimpíadas de matemática nacionais e internacionais muito conhecidas. 
 

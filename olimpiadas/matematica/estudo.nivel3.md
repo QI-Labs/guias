@@ -19,11 +19,11 @@ Confira abaixo a relação que preparamos de livros e no que cada um pode te aju
 
 ##Combinatória
 
-**Principles and Techniques in Combinatorics - Chen Chuan-Chong**
+**Principles and Techniques in Combinatorics** - Chen Chuan-Chong
 
 Os materiais são apresentados de forma muito explícita, de modo que os alunos acham muito fácil de ler. Uma ampla variedade de exemplos, a cerca de 500 problemas combinatórios tomadas a partir de várias competições matemáticas. Livro de leitura obrigatória para aqueles com objetivo de ir para níveis mais avançados como o Nível 3 da OBM.
 
-**102 Combinatorial Problems – Titu Andreescu**
+**102 Combinatorial Problems** – Titu Andreescu
 
 O livro consiste de problemas cuidadosamente selecionados que têm sido utilizados no treinamento e testes da equipe dos EUA na IMO. Oferece profundo enriquecimento nas áreas importantes da análise combinatória, reorganizando e melhorando táticas e estratégias de resolução de problemas. O livro é sistematicamente organizado, construindo gradualmente habilidades e técnicas combinatórias e ampliando a visão do estudante de matemática.
 

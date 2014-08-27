@@ -9,6 +9,8 @@ A ShortList é uma ótima fonte de problemas para todas as matérias, você pode
 
 Clique [aqui](http://www.artofproblemsolving.com/Forum/viewforum.php?f=177&) para acessar a página com os problemas da IMO Shortlist, pelo site [Mathlinks](http://www.qilabs.org/guias/olimpiadas-matematica/fontes/aops)!
 
+Confira abaixo a relação que preparamos de livros e no que cada um pode te ajudar em matérias da matemática olímpica!
+
 ##Geometria
 
 **Challenging problems in geometry**

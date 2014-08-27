@@ -8,7 +8,7 @@ Após a realização do MathCircles você pode passar para um livro mais avança
 
 **Livros recomendados**
 
-Preparamos uma relação de livros comentados que vão te auxiliar em matérias mais especificas da matemática olímpica. Confira a seguir!
+Confira abaixo a relação de livros que vão te auxiliar em matérias mais especificas da matemática olímpica!
 
 ##Geometria
 

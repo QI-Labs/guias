@@ -29,31 +29,31 @@ O livro consiste de problemas cuidadosamente selecionados que têm sido utilizad
 
 ##Teoria dos Números
 
-**Teoria dos Números: Um passeio com Primos e outros Números Familiares pelo Mundo Inteiro - Fábio Brochero, Carlos Gustavo Moreira, Nicolau Saldanha, Eduardo Tengan**
+**Teoria dos Números: Um passeio com Primos e outros Números Familiares pelo Mundo Inteiro** - Fábio Brochero, Carlos Gustavo Moreira, Nicolau Saldanha, Eduardo Tengan
 
 Esse é um dos livros mais conhecidos entre os olímpicos brasileiros, seus capítulos iniciais são essenciais para quem quer ser medalha na OBM. Nos capítulos mais à frente o livro já se torna bem avançado, você teria de ver se vale a pena ou não continuar dependendo de seus objetivos.
 
-**Number Theory: Structures, Examples, and Problems - Titu Andreescu, Dorin Andrica**
+**Number Theory: Structures, Examples, and Problems** - Titu Andreescu, Dorin Andrica
 
 Titu Andreescu é um dos autores de livros de olimpíada mais famosos e prestigiados do mundo todo, esse livro mostra seu dom como professor e autor. É um bom livro que atravessa os diversos tópicos da teoria dos números desde o mais simples até alguns mais complicados.
 
-**104 Number Theory Problems - Titu Andresscu**
+**104 Number Theory Problems** - Titu Andresscu
 
 Este livro contém problemas desafiadores feito por renomados treinadores do time olímpico do EUA, o livro desenvolve uma infinidade de habilidades de resolução de problemas necessários para se destacar em olimpíadas. Aplicando técnicas e estratégias específicas, os leitores vão adquirir uma sólida compreensão dos conceitos fundamentais e idéias de teoria dos números.
 
-**Problems in Elementary Number Theory - Peter Vandendriessche e Hojoo Lee**                                ***Importante!
+**Problems in Elementary Number Theory** - Peter Vandendriessche e Hojoo Lee                                ***Importante!
 Solucionário. Bela coleção de problemas reconhecida no mundo todo, após lida a teoria é recomendado resolver o segundo capítulo completamente que contém 118 problemas (o primeiro capítulo é apenas a introdução). O solucionário são tópicos do site AoPS que são discutidos por vários matemáticos do mundo todo, que mostra a relevância deste PDF.
 
 ##Álgebra
 
-**Inequalities: A Mathematical Olympiad Approach - Radmila Manfrino**
+**Inequalities: A Mathematical Olympiad Approach** - Radmila Manfrino
 
 Este livro apresenta desigualdades clássicas e específicas que são muito úteis em resolver problemas de otimização. A maior parte dos exemplos, exercícios e problemas são retirados de olimpíadas matemáticas do mundo inteiro.
 
-**Functional Equations, A Problem Solving Approach – B. J. Venkatachala**
+**Functional Equations, A Problem Solving Approach** – B. J. Venkatachala
 
 Este livro é escrito no estilo de problemas e soluções para explicar os métodos normais que auxiliam o leitor a resolver equações funcionais. O material usado neste livro é coletado dos últimos anos, sendo de várias olimpíadas matemáticas, incluindo a IMO. Há uma considerável coletânea de problemas e exercícios. Alguns deles são fáceis e outros são muito difíceis. Todos os exercícios no livro possuem as dicas adequadas no final do livro.
 
-**Tópicos de Matemática Elementar – Volume 6 Polinômios - Antonio Caminha Muniz Neto**
+**Tópicos de Matemática Elementar** – Volume 6 Polinômios - Antonio Caminha Muniz Neto
 
 Essa coleção escrita pelo professor Caminha é recente e é dotada de problemas bem selecionados. Além dos bons exercícios o livro tem teoria bem didática. Todos os elogios direcionados a esse livro podem ser aferidos a todos os livros dessa coleção! Veja um trecho da descrição do livro “O grande diferencial aqui, do nosso ponto de vista, é o calibre dos exemplos discutidos e dos problemas propostos ao longo do texto, boa parte dos quais oriundos de variadas competições de Matemática ao redor do mundo”.

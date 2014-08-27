@@ -41,8 +41,9 @@ Titu Andreescu é um dos autores de livros de olimpíada mais famosos e prestigi
 
 Este livro contém problemas desafiadores feito por renomados treinadores do time olímpico do EUA, o livro desenvolve uma infinidade de habilidades de resolução de problemas necessários para se destacar em olimpíadas. Aplicando técnicas e estratégias específicas, os leitores vão adquirir uma sólida compreensão dos conceitos fundamentais e idéias de teoria dos números.
 
-**Problems in Elementary Number Theory** - Peter Vandendriessche e Hojoo Lee                                ***Importante!
-Solucionário. Bela coleção de problemas reconhecida no mundo todo, após lida a teoria é recomendado resolver o segundo capítulo completamente que contém 118 problemas (o primeiro capítulo é apenas a introdução). O solucionário são tópicos do site AoPS que são discutidos por vários matemáticos do mundo todo, que mostra a relevância deste PDF.
+**Problems in Elementary Number Theory** - Peter Vandendriessche e Hojoo Lee                                
+
+***Importante! Solucionário. Bela coleção de problemas reconhecida no mundo todo, após lida a teoria é recomendado resolver o segundo capítulo completamente que contém 118 problemas (o primeiro capítulo é apenas a introdução). O solucionário são tópicos do site AoPS que são discutidos por vários matemáticos do mundo todo, que mostra a relevância deste PDF.
 
 ##Álgebra
 

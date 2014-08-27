@@ -13,7 +13,7 @@ Confira abaixo a relação que preparamos de livros e no que cada um pode te aju
 
 ##Geometria
 
-**Challenging problems in geometry**
+**Challenging problems in geometry** - Alfred S. Posamentier, Charles T. Salkind
 
 É necessário conhecimento de Geometria Plana, Analítica, Vetores, Trigonometria, Complexos, Projetiva, Transformações Geométricas, entre outros assuntos e técnicas diversas. Uma boa fonte de conteúdo é o MathLinks, pois o conteúdo de geometria no nível 3 é extenso e não contém em somente um livro.
 

@@ -1,6 +1,6 @@
 # Nível 2
 
-O livro mais recomendado para esse nível é o **Mathematical Circles: Russian Experience**. Este livro vai te iniciar na matemática olímpica e irá lhe oferecer muitas ideias novas. Após esse livro você começará a se divertir aprendendo os teoremas mais diversos. Não tenho medo de dizer que essa é a melhor parte da matemática olímpica!
+O livro mais recomendado para esse nível é o **Mathematical Circles: Russian Experience**. Este livro vai te iniciar na matemática olímpica e irá lhe oferecer muitas ideias novas. Após esse livro você deve começar a se divertir aprendendo os teoremas mais diversos. Essa é uma parte muito divertida da matemática olímpica!
 
 Após a realização do MathCircles você pode passar para um livro mais avançado, tal como o **Problem Solving**.
 

@@ -4,8 +4,6 @@ O livro mais recomendado para esse nível é o **Mathematical Circles: Russian E
 
 Após a realização do MathCircles você pode passar para um livro mais avançado, tal como o **Problem Solving**.
 
-**Livros recomendados**
-
 Confira abaixo a relação de livros que vão te auxiliar em matérias mais especificas da matemática olímpica!
 
 ##Geometria

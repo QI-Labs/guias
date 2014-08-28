@@ -4,7 +4,7 @@ Atualmente, o Exame Nacional do Ensino Médio é uma da principais formas de ing
 
 Quando foi implementado Quais faculdades aderem (lista de universidades que aderem ao ENEM) Restrições e Regras Como funciona (FASES, DURAÇÃO, NUMERO DE QUESTÕES)
 
-É importante lembrar que atualmente nem todas as universidades aceitam o ENEM! Confira aqui as faculdades que o aderiram.
+É importante lembrar que atualmente nem todas as universidades aceitam o ENEM! Confira [aqui]() as faculdades que o aderiram.
 
 ## Inscrição
 
@@ -30,4 +30,4 @@ A nota é calculada pelo TRI (Teoria da Resposta ao Item), no qual, além do nú
 
 ## Matrícula
 
-Após o resultado, que pode ser acessado no INEP, os candidatos são selecionados pelo SISU!
+Após o resultado, que pode ser acessado no INEP, os candidatos são selecionados pelo [SISU](http://www.qilabs.org/guias/vestibular/resultados-e-matricula/sisu)!

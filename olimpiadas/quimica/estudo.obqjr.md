@@ -1,4 +1,4 @@
-# Plano de Estudos para a OBG Jr
+# Plano de Estudos para a OBQ Jr
 
 # OBQ Jr. Fase I
 

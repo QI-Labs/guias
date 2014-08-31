@@ -13,7 +13,7 @@ A OBQ Jr. Fase II consiste numa prova de 13 (treze) questões, onde 10 (dez) del
 
 O conteúdo é o mesmo da Fase I acrescido de Estequiometria, e a as referências de estudo também.
 
-Por onde estudar?
+**Por onde estudar?**
 
 São indicados os livros (Para as duas fases):
 

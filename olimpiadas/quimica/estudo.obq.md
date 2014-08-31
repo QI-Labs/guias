@@ -1,4 +1,4 @@
-# OBQ
+# Plano de Estudos para a OBQ
 
 Os participantes são divididos em dois grupos:
 

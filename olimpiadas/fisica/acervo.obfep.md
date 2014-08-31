@@ -6,7 +6,7 @@ A OBFEP é uma Olimpíada Brasileira de Física destinada a alunos do Ensino Fun
 
 A Primeira Fase será uma prova de múltipla escolha, já a Segunda da Fase será composta de questões teóricas e experimentais.
 
-Links
+## Links
 
-[Site da OBFEP](http://www.sbfisica.org.br/~obfep/)
-[Guia de Estudos](http://noic.com.br/olimpiadas/fisica/fisica-para-olimpiada/)
+- [Site da OBFEP](http://www.sbfisica.org.br/~obfep/)
+- [Guia de Estudos](http://noic.com.br/olimpiadas/fisica/fisica-para-olimpiada/)

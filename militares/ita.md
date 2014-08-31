@@ -4,7 +4,7 @@ O Instituto de tecnologia Aeronáutica é uma instituição de educação e ensi
 
 O ITA possui curso de graduação de pós-graduação em áreas ligadas a engenharia, principalmente no setor Aeroespacial, sendo considerado o mais renomado centro de referência de engenharia do país.
 
-Cursos:
+## Cursos:
 
 - Engenharia Aeronáutica
 - Engenharia Mecânica
@@ -21,7 +21,7 @@ O ITA foi idealizado seguindo os moldes do MIT (Massachussets Institute of Techn
 
 Além disso, no alojamento dos alunos, o H8, pode-se participar de iniciativas estudantis das mais variadas, desde técnicas como Aerodesign (projeto de aeromodelos para competições nacionais e internacionais) e ITAndroids (projeto e programação de pequenos robôs também para competições nacionais e internacionais) até de liderança como AIESEC e ITA Júnior (empresa de consultoria toda administrada por iteanos) ou educacionais como CasdVest (cursinho com sede própria onde alunos do ITA dão aulas de pré-vestibular para jovens carentes e os ajudam a conquistar seus sonhos, todos os anos com aprovações em universidades como Unesp, Unicamp e USP, por exemplo). Iniciativas que ajudam os estudantes a desenvolverem novas habilidades, aprender algo novo e mesmo por em prática todo o conhecimento adquirido no ITA, sendo elas mais um dos variados diferenciais dessa Instituição em relação às demais do país.
 
-Veja:
+## Veja:
 
 https://www.youtube.com/watch?v=wlvtdNW0UBs
 

@@ -1,3 +1,5 @@
+# Plano de Estudos para a OBG Jr
+
 # OBQ Jr. Fase I
 
 Essa fase consiste numa etapa eliminatória (lembrando que os exames da OBQ Jr. serão de igual teor tanto para o 8º ano quanto para o 9º ano), ou seja, a nota dessa fase não conta para o resultado final; onde constará  20 (vinte) questões de múltipla escolha, cada uma com 4 (quatro) opções e cada questão possui o mesmo peso (1) na nota para se classificar para a  Fase II.

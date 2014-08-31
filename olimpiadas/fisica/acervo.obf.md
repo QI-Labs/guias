@@ -16,6 +16,6 @@ Sendo que os medalhistas do 2º ano devem passar por um processo chamado de repe
 
 ## Links
 
-[Programa da OBF](http://www.sbfisica.org.br/v1/olimpiada/index.php?option=com_content&view=article&id=79&Itemid=203)
-[Guia de Estudo](http://noic.com.br/olimpiadas/fisica/fisica-para-olimpiada/)
-[Site da OBF](http://www.sbfisica.org.br/v1/olimpiada/)
+- [Programa da OBF](http://www.sbfisica.org.br/v1/olimpiada/index.php?option=com_content&view=article&id=79&Itemid=203)
+- [Guia de Estudo](http://noic.com.br/olimpiadas/fisica/fisica-para-olimpiada/)
+- [Site da OBF](http://www.sbfisica.org.br/v1/olimpiada/)

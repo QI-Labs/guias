@@ -1,64 +1,65 @@
-Seletiva da IPhO 2ª Prova
+# Seletiva da IPhO 2ª Prova
 
-Programa:
+## Programa:
 
 Mecânica de Corpos Rígidos
 Eletromagnetismo
 Ondas Eletromagnéticas (Óptica Física)
 
-Mecânica de Corpos Rígidos:
+## Mecânica de Corpos Rígidos:
 
-Intermediário
+### Intermediário
 
-Física para Cientistas e Engenheiros, Paul A. Tipler 
+**Física para Cientistas e Engenheiros, Paul A. Tipler**
 
-(Volume 1) Parte I – Rotação, Quantidade de Movimento Angular.
+- (Volume 1) Parte I – Rotação, Quantidade de Movimento Angular.
 
-Avançado
+### Avançado
 
-Introduction to Classical Mechanics With Problems and Solutions, David Morin 
+**Introduction to Classical Mechanics With Problems and Solutions, David Morin**
 
-Capítulo 8 – Angular momentum, Part I.
-Capítulo 9 –  Angular momentum, Part II, seções 9.1 a 9.5.
-Capítulo 10 – Accelerating frames of reference, seções 10.1 e 10.2.
+- Capítulo 8 – Angular momentum, Part I.
+- Capítulo 9 –  Angular momentum, Part II, seções 9.1 a 9.5.
+- Capítulo 10 – Accelerating frames of reference, seções 10.1 e 10.2.
 
-Eletromagnetismo:
+## Eletromagnetismo:
 
-Intermediário
+### Intermediário
 
-Física para Cientistas e Engenheiros, Paul A. Tipler 
+**Física para Cientistas e Engenheiros, Paul A. Tipler**
 
-(Volume 2) Parte IV – Eletricidade e Magnetismo.
+- (Volume 2) Parte IV – Eletricidade e Magnetismo.
 
-Avançado
+### Avançado
 
-Introduction to Electrodynamics, David J. Griffiths - Livro bem avançado porém ótimo para aprofundamento em eletromagnetismo.
+**Introduction to Electrodynamics, David J. Griffiths** - Livro bem avançado porém ótimo para aprofundamento em eletromagnetismo.
 
-Capítulo 1 seções 1.1 a 1.4.
-Capítulo 2 inteiro.
-Capítulo 3, seção 3.2.
-Capítulo 5 inteiro.
-Capítulo 7 inteiro.
-Curso de Física Básica, Volume 2, Moysés Nussenzveig 
+- Capítulo 1 seções 1.1 a 1.4.
+- Capítulo 2 inteiro.
+- Capítulo 3, seção 3.2.
+- Capítulo 5 inteiro.
+- Capítulo 7 inteiro.
 
-Capítulo 10.
+**Curso de Física Básica, Volume 2, Moysés Nussenzveig**
 
-Ondas Eletromagnéticas (Óptica Física):
+- Capítulo 10.
 
-Básico
+## Ondas Eletromagnéticas (Óptica Física):
 
-Física para Cientistas e Engenheiros, Paul A. Tipler 
+### Básico
 
-(Volume 2) Parte V – Interferência e Difração.
+**Física para Cientistas e Engenheiros, Paul A. Tipler**
 
-Intermediário
+- (Volume 2) Parte V – Interferência e Difração.
 
-Introduction to Electrodynamics, David J. Griffiths 
+### Intermediário
 
-Capítulo 9, seções 9.1, 9.2 e 9.3.
+**Introduction to Electrodynamics, David J. Griffiths** 
 
-Avançado
+- Capítulo 9, seções 9.1, 9.2 e 9.3.
 
-Introduction to Electrodynamics, David J. Griffiths 
+### Avançado
 
-Capítulo 9, seção 9.4.
+**Introduction to Electrodynamics, David J. Griffiths** 
+
+- Capítulo 9, seção 9.4.

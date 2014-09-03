@@ -111,6 +111,63 @@ module.exports =  {
 			}
 		}
 	},
+	application: {
+		name: "Application",
+		file: "application/main.md",
+		contribuitors: ['5368f4b91e35a902003ca1f7'],
+		children: {
+			"estrutura": {
+				name: "Estrutura Acadêmica nos EUA",
+				file: "application/estrutura.md",
+				children: {
+				}
+			},
+			"graduacao": {
+				name: "Graduação",
+				file: "application/graduacao.md",
+				children: {
+				}
+			},
+			"pos-medicina": {
+				name: "Pós-graduação - Medicina",
+				file: "application/pos.medicina.md",
+				children: {
+				}
+			},
+			"admissions": {
+				name: "Admissions",
+				file: "application/admissions.md",
+				children: {
+					"provas": {
+						name: "Provas Internacionais de Admissão",
+						file: "application/admissions.provas.md",
+					},
+					"english": {
+						name: "Provas de Capacidade de Inglês",
+						file: "application/admissions.english.md",
+					}
+				}
+			},
+			"custos": {
+				name: "Gastos e Ajuda Financeira",
+				file: "application/custos.md",
+				children:{
+					"assistencia": {
+						name: "Assistencia Financiera",
+						file: "application/custos.assistencia.md",
+					},
+					"apply": {
+						name: "Custos de Application",
+						file: "application/custos.apply.md",
+					},
+					"faculdade": {
+						name: "Custos da Faculdade",
+						file: "application/custos.faculdade.md",
+					}
+				}
+			}
+		}
+	},
 	vestibular: {
 		name: "Vestibular",
 		icon: 'icon-university',

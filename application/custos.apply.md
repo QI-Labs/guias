@@ -2,7 +2,7 @@
 
 O custo da aplication depende no numero de faculdade onde você vai aplicar e o numero de vezes que você faz cada provas.
 
-TABELA
+![tabela1](http://i.imgur.com/5BY56R7.png)
 
 ## Fee waivers (Isencao da Taxa)
 

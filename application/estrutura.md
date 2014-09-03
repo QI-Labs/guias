@@ -21,4 +21,4 @@ High School e composto dos últimos 4 anos de ensino antes da faculdade. Normalm
  
 Todos esses últimos quatro anos são considerados pelos faculdades norte Americanos no processo de admissões. Por tanto, e necessário mandar notas de todos os anos, algo que requer que muitos alunos Brasileiros mandam o histórico escolar do ensino fundamental junto com o do ensino médio.
 
-!(tabela high school years)[http://i.imgur.com/TCXoGCH.png]
+![tabela high school years](http://i.imgur.com/TCXoGCH.png)

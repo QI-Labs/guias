@@ -7,7 +7,7 @@ Middle School ou Junior High e o que vem ANTES do high school (que é o equivale
  
 ## IA – Ano Letivo
 
-E importante notar que o ano letivo começa em Agosto ou Setembro e vai ate Maio ou Junho cada ano. Não segue o modelo brasileiro que vai de Janeiro a Dezembro.
+É importante notar que o ano letivo começa em Agosto ou Setembro e vai ate Maio ou Junho cada ano. Não segue o modelo brasileiro que vai de Janeiro a Dezembro.
  
 ## IB. – Class Year
 
@@ -36,9 +36,24 @@ A. **Curso "normal"**
 - Também é equivalente ao “Studies” level do IB
 
 B. **College Prep**
-- Curso que promote o rigor necessario para preparer o aluno para seguir os estudos alem do colegio.  E o nivel de estudo da maioria da populacao.  Seria equivelente ao estudo num colegio mais forte no Brasil.
-- Tambem e equivelente do “Standar Level” do IB.
+- Curso que promove o rigor necessário para preparar o aluno para seguir os estudos alem do colégio.  E o nível de estudo da maioria da população.  Seria equivalente ao estudo num colégio mais forte no Brasil.
+- Também é equivalente ao “Standard Level” do IB
 
 C. **Honors/AP**
-- Cursos mais rigoros e seletivos, que normalmente so aceitam a turma mais avancada do colegio.  Em alguns colegios, esses aulas sao reservadas pela melhor 10% da turma.  Eles tem um ritimo mais rapido, cobram mais material com maior profundidade e tambem tem uma sistema de avaliacao mais rigorosos.
-- Cursos “AP” sao cursos oferecidos no ensino medio com a mesma grau de dificuldade que um curso numa faculdade publica.  Eles seguem um curriculo padronizado para preparer os alunos a fazer uma prova nacional de equivalencia no fim do ano leitivo (Maio). Um resultado bom no AP (5 ou 6 de um total de 6 pontos) deixe o aluno ganhar creditos ou pular materias em muitas faculdades (principalmente faculdades publicas nos EUA)
+- Cursos mais rigorosos e seletivos, que normalmente só aceitam a turma mais avançada do colégio.  Em alguns colégios, esses aulas são reservadas pela melhor 10% da turma.  Eles tem um ritmo mais rápido, cobram mais material com maior profundidade e também tem uma sistema de avaliação mais rigorosos.
+- Cursos “AP” são cursos oferecidos no ensino médio com a mesma grau de dificuldade que um curso numa faculdade publica.  Eles seguem um currículo padronizado para preparar os alunos a fazer uma prova nacional de equivalência no fim do ano letivo (Maio). Um resultado bom no AP (5 ou 6 de um total de 6 pontos) deixe o aluno ganhar créditos ou pular matérias em muitas faculdades (principalmente faculdades publicas nos EUA)
+
+D.     IB Diploma
+
+E.      Rankings
+
+a. A distribuição de alunos entre níveis diferentes depende no seu ranking na turma.  O ranking e calculado baseado na media de todas as notas no histórico escolar.
+ 
+A Ranking pode ser numérico ou por porcentagem (melhor 15%, melhor 20%, melhor metade, etc.)
+
+CONTINUAR
+ 
+b. *Weighted Ranking*
+- Já que o conteúdo dos 3 níveis de um colégio varia, e a avaliação dos níveis mais alto e mais rigoroso, não seria justo comparar os alunos de níveis diferentes de igual para igual.  Por isso, tem o “weighting” do ranking.  Nesse processo, as notas de cursos de College Prep tem mais peso que as notas do Normal, e as de Honors mais que College Prep, e AP tem mais peso que todos os outros
+ 
+- Já que a maioria de colégios Brasileiros não tem um variação de nível, weighted ranking geralmente não existe no Brasil

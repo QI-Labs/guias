@@ -30,7 +30,7 @@ ii. **Privadas**
 
 Alunos internacionais podem pedir um empréstimo de bancos Norte-Americanos, baseado na renda, assetts e investimentos dos seus pais.  Se os pais nao tem uma fonte de renda fixa ou bens nos EUA para assegurar o empréstimo, podem procurar um co-signer (fiador)
 
- 1. *Co-signer*
+*Co-signer*
 
 Um co-signer garante o pagamento do empréstimo, sendo legalmente responsável pelo pagamento no caso de inadimplência do beneficiado.
  

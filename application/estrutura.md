@@ -45,15 +45,15 @@ C. **Honors/AP**
 
 D. **IB Diploma**
 
-E. **Rankings**
+### **Rankings**
 
-a. A distribuição de alunos entre níveis diferentes depende no seu ranking na turma.  O ranking e calculado baseado na media de todas as notas no histórico escolar.
+A distribuição de alunos entre níveis diferentes depende no seu ranking na turma.  O ranking e calculado baseado na media de todas as notas no histórico escolar.
  
 A Ranking pode ser numérico ou por porcentagem (melhor 15%, melhor 20%, melhor metade, etc.)
 
 CONTINUAR
  
-b. *Weighted Ranking*
+**Weighted Ranking**
 - Já que o conteúdo dos 3 níveis de um colégio varia, e a avaliação dos níveis mais alto e mais rigoroso, não seria justo comparar os alunos de níveis diferentes de igual para igual.  Por isso, tem o “weighting” do ranking.  Nesse processo, as notas de cursos de College Prep tem mais peso que as notas do Normal, e as de Honors mais que College Prep, e AP tem mais peso que todos os outros
  
 - Já que a maioria de colégios Brasileiros não tem um variação de nível, weighted ranking geralmente não existe no Brasil

@@ -1,4 +1,4 @@
-# Custos de Applicar
+# Custos da Application
 
 O custo da aplication depende no numero de faculdade onde você vai aplicar e o numero de vezes que você faz cada provas.
 

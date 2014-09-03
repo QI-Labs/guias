@@ -63,7 +63,7 @@ As faculdades que querem mais candidatos ou mais candidatos intercacionais norma
  
 Por exemplo, qualquer aluno internacional que aplica para a Washington and Lee University, ja vai ver no Common Application que o pagamento e ok, assim que adiciona a faculdade a sua lista.
  
-Tem varias faculdades como Widener, que nao cobrar nenhuma taxa de ninguém. Se você esta preocupada com o custo de aplicar, vale procurar nas links abaixo para uma faculdade livre de taxas.
+Existem várias faculdades como Widener, que não cobram nenhuma taxa de ninguém. Se você esta preocupado com o custo de aplicar, vale procurar nos links abaixo para uma faculdade livre de taxas!
 
-http://www.forbes.com/sites/susanadams/2014/08/28/americas-25-top-colleges-with-no-application-fees/
-http://diycollegerankings.com/290-colleges-with-free-application-fees/952/
+- [317 Colleges with Free College Application Fees](http://diycollegerankings.com/290-colleges-with-free-application-fees/952/)
+- [America's 25 Top Colleges With No Application Fees](http://www.forbes.com/sites/susanadams/2014/08/28/americas-25-top-colleges-with-no-application-fees/)

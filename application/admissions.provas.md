@@ -16,6 +16,7 @@ Para entrar em colégios particulares (Boarding Schools, Day Schools e Colegio C
 b.     **Para Graduação**
 
 I. **SAT**
+
 O SAT (Scholastic Acheivement Test) foi criado mais que 80 anos atrás para unificar as provas das varias faculdades.  Ele e uma prova de raconio logico, nao de conteúdo que server para julgar a capacidade do aluno trabalhar num nível universitário.  O conteúdo nao e difícil, mas a prova e cheia de pegadinhas. 
  
 Essa prova compara você com todos os outros candidatos do mundo no ultimo 5 anos, deixando a faculdade facilmente te comparar com a sua competição e também a maioria dos alunos atualmente estudando la. (Alunos “maturos” –formado do segundo grau por mais que cinco anos – muitas vezes sao isento da prova)
@@ -61,3 +62,20 @@ Lea bastante.
 Usa diariamente um aplicativo de vocabulario
 Baixa livros ou compra do amazon.com de acordo com as suas necessidades
 Faca um curso ao vivo ou online (como o curso do Dux Institute
+
+
+II. SAT II
+
+O SAT II (SAT Subjects test) e um complemento pedido pelos faculdades mais competitivos em conjunto com a SAT I.  Na verdade, sao varias provas de uma hora cada que focam no conteúdo.  Podem ser feitos ate 3 provas num dia.
+ 
+Para a maioria dos cursos, a matéria nao importa. Para alguns cursos como engenharia e business e recomendado ou ate obrigatório fazer Math II e physics.
+ 
+Recomendo que você faz um simulado de cada prova e escola aqueles nos quais você tire as melhores notas.   Essa decisão nao tem que ser feito ate a dia da prova. Voce pode se inscrever para qualquer 3 provas e mudar de mente na hora e fazer 3 completamente diferentes (menos línguas com um parte de listening)
+ 
+III. ACT
+
+O ACT e um alternativo ao SAT popular em alguns regiões dos EUA como o centro-oeste.  A nota do ACT nao e comparativo e vai de 1-36. A nota resulta do calculo dos acretos/total em cada um dos 4 areas – English (gramatica), Reading (interpretação de Texto), Math e Science
+ 
+Nesta prova você nao perde ponto para erros e a nota composta (a media das 4 categorias) e mais importante do que as notas separadas.
+ 
+O ACT e uma prova de conteúdo, nao de racocinio. Ele favorece o aluno que sempre estudo bem, fazendo muitas anotações, mas e mais difícil melhorar a nota rápido ja que nao tem truques para aprender. A matemática e mais avançado, cobrindo ate triganometria. Nao cai vocabulário, e e recomendado com alunos com dificuldade em memorizar palavras. Ele e oferecido também nos Sabados de manha, mas em datas diferente que o SAT que combinam melhor com o calendário do 3o ano. 

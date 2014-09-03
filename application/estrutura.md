@@ -22,3 +22,23 @@ High School e composto dos últimos 4 anos de ensino antes da faculdade. Normalm
 Todos esses últimos quatro anos são considerados pelos faculdades norte Americanos no processo de admissões. Por tanto, e necessário mandar notas de todos os anos, algo que requer que muitos alunos Brasileiros mandam o histórico escolar do ensino fundamental junto com o do ensino médio.
 
 ![tabela high school years](http://i.imgur.com/TCXoGCH.png)
+
+## ICi – Nivelamento, Tracking e Ranking
+
+Fora dos grandes capitais, nos EUA, os alunos não tem muita decisão em qual colégio vão frequentar. Cada cidade, ou grupo de cidades, tem um Colégio Central.
+ 
+Para poder atender as necessidades de alunos de varias níveis de talento, colégios Americanos geralmente dividem os alunos em 2-3 grupos.
+
+Alunos não são penalizados por não ter acesso a níveis diferente de aulas, mas faculdades esperam que você procura as matérias mais rigorosas, se você tem opção em escolher, e também, mostram uma preferencia para colégios com reputações de ser mais difíceis /competitivos.
+
+A. **Curso "normal"**
+- Para alunos que não pretendem competir para uma faculdade de excelência.  Cobre o material considerado necessário para sair do colégio. E equivalente a estudar no CIEP tradicional no Brasil.
+- Também é equivalente ao “Studies” level do IB
+
+B. **College Prep**
+- Curso que promote o rigor necessario para preparer o aluno para seguir os estudos alem do colegio.  E o nivel de estudo da maioria da populacao.  Seria equivelente ao estudo num colegio mais forte no Brasil.
+- Tambem e equivelente do “Standar Level” do IB.
+
+C. **Honors/AP**
+- Cursos mais rigoros e seletivos, que normalmente so aceitam a turma mais avancada do colegio.  Em alguns colegios, esses aulas sao reservadas pela melhor 10% da turma.  Eles tem um ritimo mais rapido, cobram mais material com maior profundidade e tambem tem uma sistema de avaliacao mais rigorosos.
+- Cursos “AP” sao cursos oferecidos no ensino medio com a mesma grau de dificuldade que um curso numa faculdade publica.  Eles seguem um curriculo padronizado para preparer os alunos a fazer uma prova nacional de equivalencia no fim do ano leitivo (Maio). Um resultado bom no AP (5 ou 6 de um total de 6 pontos) deixe o aluno ganhar creditos ou pular materias em muitas faculdades (principalmente faculdades publicas nos EUA)

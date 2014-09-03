@@ -20,7 +20,7 @@ A taxa de inscriscao, ou “application fee” existe por dois razoes: para ajud
  
 Ja que a taxa e uma barreira proposital, as faculdades muitas frequentamente fazem exeções.  O tipo de exeicao e o método de procura o “waiver” (isenção) depende na faculdade. Pode ser por necessidade, interesse demonstrada ou um waiver geral.
 
-**Por necessidade**
+a. **Por necessidade**
 
 Se o aluno tem dificuldades em arcar com o custo da taxa, muitas vezes a faculdade pode dispensar do valor depois de receber uma carta do “counselor” explicando a situação do aluno e pedindo a isenção.
  
@@ -32,7 +32,7 @@ Lembra que o pedido, se feito, e uma das primeiras interações do aluno com a f
  
 Se alunos Brasileiros começam a abusar dessas ofertas, vao ser mais criteriosas com tudo mundo. Nao destrói a oportunidade para os que realmente precisam.
  
-a. Modelo da Carta
+i. Modelo da Carta
 
   November 28, 2012
 
@@ -47,7 +47,7 @@ a. Modelo da Carta
   TYPE POSITION HERE
  
  
-**Por interesse demonstrada**
+b. **Por interesse demonstrada**
 
 Algumas faculdades sao “yield conscious”, que significa que eles querem candidatos que realmente querem estudar la.
  
@@ -55,7 +55,7 @@ Para essas faculdades, trocar emais com admissions, ver eles quando fazem palest
  
 Isso comum com faculdades menores.  Nenhum “Ivy League” da esse tipo de waiver.
  
-**Para todos os alunos/alunos internacionais**
+c. **Para todos os alunos/alunos internacionais**
 
 As faculdades que querem mais candidatos ou mais candidatos intercacionais normalmente dao um “waiver” automático na Common App, ou no seu formulário individual. 
  

@@ -4,7 +4,7 @@ Alunos internacionais normalmente tem que comprovar a capacidade de coomprender 
  
 Cada faculdade tem uma nota de corte.  Para os mais competitivos e normalmente 100 no TOEFL.
  
-A.      TOEFL - The Test of English as a Foreign Language
-B.      IELTS
-C.      Cambridge
-D.      Waivers
+- A.      TOEFL - The Test of English as a Foreign Language
+- B.      IELTS
+- C.      Cambridge
+- D.      Waivers

@@ -8,7 +8,7 @@ module.exports =  {
 		children: {
 			"introducao": {
 				name: "Introdução a Olimpíadas de Matemática",
-				file: "olimpiadas/matematica/dummies.md",
+				file: "olimpiadas/matematica/introducao.md",
 				children: {
 				}
 			},
@@ -97,7 +97,7 @@ module.exports =  {
 			},
 			acervo: {
 				name: "Acervo de Competições",
-				file: "olimpiadas/fisica/main.md",
+				file: "olimpiadas/fisica/acervo.md",
 				children: {
 					obf: {
 						name: "Olimpíada Brasileira de Física (OBF)",

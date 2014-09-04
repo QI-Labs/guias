@@ -178,6 +178,18 @@ module.exports =  {
 				name: "Provas Internacionais de Admissão",
 				file: "application/provas.md",
 				children: {
+					"sat": {
+						name: "SAT",
+						file: "application/provas.sat.md",
+					},
+					"sat2": {
+						name: "SAT II",
+						file: "application/provas.sat2.md",
+					},
+					"act": {
+						name: "ACT",
+						file: "application/provas.act.md",
+					},
 				}
 			},
 			"provas-ingles": {

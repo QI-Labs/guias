@@ -160,14 +160,30 @@ module.exports =  {
 				name: "Admissions",
 				file: "application/admissions.md",
 				children: {
-					"provas": {
-						name: "Provas Internacionais de Admissão",
-						file: "application/admissions.provas.md",
+					"conceito": {
+						name: "Conceito – Holistic Admissions",
+						file: "application/admissions.conceito.md",
 					},
-					"english": {
-						name: "Provas de Capacidade de Inglês",
-						file: "application/admissions.english.md",
-					}
+					"fatores": {
+						name: "Fatores",
+						file: "application/admissions.fatores.md",
+					},
+					"historico-escolar": {
+						name: "Histórico Escolar",
+						file: "application/admissions.historico.md",
+					},
+				}
+			},
+			"provas": {
+				name: "Provas Internacionais de Admissão",
+				file: "application/provas.md",
+				children: {
+				}
+			},
+			"provas-ingles": {
+				name: "Provas de Capacidade de Ingles",
+				file: "application/provas-ingles.md",
+				children: {
 				}
 			},
 			"assistencia": {

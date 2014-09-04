@@ -126,6 +126,18 @@ module.exports =  {
 				name: "Graduação",
 				file: "application/graduacao.md",
 				children: {
+					"associates": {
+						name: "Associates",
+						file: "application/graduacao.associates.md",
+					},
+					"community-college": {
+						name: "Community College",
+						file: "application/graduacao.com-college.md",
+					},
+					"bachelors": {
+						name: "Bachelors",
+						file: "application/graduacao.bachelors.md",
+					},
 				}
 			},
 			"pos-medicina": {

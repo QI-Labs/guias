@@ -122,6 +122,12 @@ module.exports =  {
 				children: {
 				}
 			},
+			"high-school" {
+				name: "High School",
+				file: "application/high-school.md",
+				children: {
+				}
+			},
 			"graduacao": {
 				name: "Graduação",
 				file: "application/graduacao.md",
@@ -140,10 +146,14 @@ module.exports =  {
 					},
 				}
 			},
-			"pos-medicina": {
-				name: "Pós-graduação - Medicina",
-				file: "application/pos.medicina.md",
+			"Pós-graduação": {
+				name: "Pós-graduação",
+				file: "application/pos.md",
 				children: {
+					"pos-medicina": {
+						name: "Pós em Medicina",
+						file: "application/pos.medicina.md",
+					},
 				}
 			},
 			"admissions": {

@@ -1,4 +1,4 @@
-####  Provas Internacionais de Admissão
+##  Provas Internacionais de Admissão
 
 As provas “padronizadas” são importante para o processo de admissões porque deixa o comitê ver o aluno comparado com todos os outros candidatos de varias partes do mundo. Mesmo dentro de uma cidade como o Rio de Janeiro, tem varias escolas com varias tipos de marcas.  Uma 7 em um colégio pode ser uma nota difícil de atingir, enquanto em outra, pode representar baixo desempenho.
 
@@ -17,65 +17,6 @@ b.     **Para Graduação**
 
 I. **SAT**
 
-O SAT (Scholastic Acheivement Test) foi criado mais que 80 anos atrás para unificar as provas das varias faculdades.  Ele e uma prova de raconio logico, nao de conteúdo que server para julgar a capacidade do aluno trabalhar num nível universitário.  O conteúdo nao e difícil, mas a prova e cheia de pegadinhas. 
+II. **SAT II**
  
-Essa prova compara você com todos os outros candidatos do mundo no ultimo 5 anos, deixando a faculdade facilmente te comparar com a sua competição e também a maioria dos alunos atualmente estudando la. (Alunos “maturos” –formado do segundo grau por mais que cinco anos – muitas vezes sao isento da prova)
- 
-Ia. **As notas**
-Nessa prova, você recebe 3 notas separadas em cada um de 3 categorias (Critical Reading, Writing e Math)
- 
-Raw Score – E o calculo das respostas certas e erradas. No Raw Score cada acerta vale um ponto e cada erro vale -1/4 ponto.
- 
-Percentile Score – E calculado baseado no Raw Score. Ele tem mostra qual porcentagem dos outros candidatos tirou uma nota menor que seu naquele dia e versão da prova.
- 
-Scaled Score – E a nota que mais vale.  E a comparação a sua nota, ajustado para compensar pela grau de dificuldade naquela versao com o desempenho de todos os outros alunos nos últimos 5 anos. Ela vai de 200 a 800, em cada categoria com 500 representando a nota que aproximadamente 50% dos alunos tiram. O total da prova vai 600 a 2400.
- 
-Quando a faculdade fala da sua nota, nao importam com a puntacao (com os acertos e erros). Eles importam com a porcentagem que a sua nota representa na sua colocao mundial.
- 
-Ib. **Quando/Onde Prestar**
-As provas sao oferecidos em varias cidade no Brasil. Normalment sao a utlima sábado de Janeiro e o primeiro sábado de Maio, Junho, Outubro, Novembro e Dezembro.
- 
-1c. **Inscriscao**
-A inscriscao pode ser feito no site do collegeboard.com
-Voce precisa de uma foto recente, um cartão de credito internacional e uns 30 minutos de tempo para preencher o questionário antes de fazer a inscriscao pela primeira vez.
- 
-Nao pode parcelar a prova.  A idea de “parcelar” nao existe nos EUA porque você pode usar um cartão de debito la no lugar de credito e os juros sao baixíssimos.
- 
-E importante notar que as vagas no Brasil sao bem limitados. Por exemplo, em muitas datas somente tem 100 vagas no único centro no estado do Rio de Janeiro. Recomendamos que você se inscreve com pelo 3 meses de antecidencia para garantir uma vaga.
- 
-1d. **Quantos vezes devo prestar?**
-Muitos faculdades considerem o seu “Superscore’ a maior nota de cada categoria, mesmo em provas separadas.  Ja que cada categoria varia em dificuldade de prova a prova, a sua nota tamebm (em algumas provas um erro bobo na matemática, por exemplo, pode te contar muito mais do que em outros). Por isso, recomendamos que você faz a prova pelo menos 2 vezes.
- 
-E importante também saber que as faculdades muitas vezes pedem todos suas notas, mesmo se so olham as mais altas. Eles nao gostam de ver muito mais que 3 provas.  Tambem, nao gostam de ver saltos enormes entre uma prova e a outra, então  e melhor nao fazer “so para experiementar”.
- 
-Se você quer experimentar a prova, e melhor baixar um simulado, comprar o liro Official Guide ou comprar outro livro para fazer um simulado em casa ou você pode fazer um simulado sob condições oficiais num lugar como The Dux Institute.
- 
-1e. **Quando devo fazer as provas?**
-A época certa de fazer as provas e no segundo ano. A matéria nao ultrapassa o que e dado no primeiro (álgebra e geometria) e todos os americanos precisam fazer no junior year (equivelente do segundo ano) ja que algumas faculdades pedem todos os resultados em Novembro, o 3 mes do ultimo ano nos EUA.
- 
-Tambem, no terceiro ano no Brasil e o estudo acustuma fica mais puxada, deixando menos tempo para estudar e as datas do SAT normalmente coincedem com as de provas Brasileiros como o ENEM, FUVEST ou a primeira fase da prova da UERJ no Rio.
- 
-Sair bem nas provas Brasileiras e importante para o processo americano. Conta como uma premiação. Entao, e importante nao se limite por nao se organizar cedo.
- 
-1e. **Como Posso me Preparar?**
-Lea bastante.
-Usa diariamente um aplicativo de vocabulario
-Baixa livros ou compra do amazon.com de acordo com as suas necessidades
-Faca um curso ao vivo ou online (como o curso do Dux Institute
-
-
-II. SAT II
-
-O SAT II (SAT Subjects test) e um complemento pedido pelos faculdades mais competitivos em conjunto com a SAT I.  Na verdade, sao varias provas de uma hora cada que focam no conteúdo.  Podem ser feitos ate 3 provas num dia.
- 
-Para a maioria dos cursos, a matéria nao importa. Para alguns cursos como engenharia e business e recomendado ou ate obrigatório fazer Math II e physics.
- 
-Recomendo que você faz um simulado de cada prova e escola aqueles nos quais você tire as melhores notas.   Essa decisão nao tem que ser feito ate a dia da prova. Voce pode se inscrever para qualquer 3 provas e mudar de mente na hora e fazer 3 completamente diferentes (menos línguas com um parte de listening)
- 
-III. ACT
-
-O ACT e um alternativo ao SAT popular em alguns regiões dos EUA como o centro-oeste.  A nota do ACT nao e comparativo e vai de 1-36. A nota resulta do calculo dos acretos/total em cada um dos 4 areas – English (gramatica), Reading (interpretação de Texto), Math e Science
- 
-Nesta prova você nao perde ponto para erros e a nota composta (a media das 4 categorias) e mais importante do que as notas separadas.
- 
-O ACT e uma prova de conteúdo, nao de racocinio. Ele favorece o aluno que sempre estudo bem, fazendo muitas anotações, mas e mais difícil melhorar a nota rápido ja que nao tem truques para aprender. A matemática e mais avançado, cobrindo ate triganometria. Nao cai vocabulário, e e recomendado com alunos com dificuldade em memorizar palavras. Ele e oferecido também nos Sabados de manha, mas em datas diferente que o SAT que combinam melhor com o calendário do 3o ano. 
+III. **ACT**

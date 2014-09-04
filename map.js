@@ -148,14 +148,17 @@ module.exports =  {
 					}
 				}
 			},
+			"assistencia": {
+				name: "Assistencia Financiera",
+				file: "application/assistencia.md",
+				children: {
+					
+				}
+			},
 			"custos": {
-				name: "Gastos e Ajuda Financeira",
+				name: "Gastos",
 				file: "application/custos.md",
 				children:{
-					"assistencia": {
-						name: "Assistencia Financiera",
-						file: "application/custos.assistencia.md",
-					},
 					"apply": {
 						name: "Custos de Application",
 						file: "application/custos.apply.md",

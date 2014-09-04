@@ -122,7 +122,7 @@ module.exports =  {
 				children: {
 				}
 			},
-			"high-school" {
+			"high-school": {
 				name: "High School",
 				file: "application/high-school.md",
 				children: {

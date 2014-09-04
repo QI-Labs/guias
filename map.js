@@ -152,7 +152,18 @@ module.exports =  {
 				name: "Assistencia Financiera",
 				file: "application/assistencia.md",
 				children: {
-					
+					"work-study": {
+						name: "Work-study",
+						file: "application/assistencia.work-study.md",
+					},
+					"emprestimos": {
+						name: "Empréstimos",
+						file: "application/assistencia.emprestimos.md",
+					},
+					"croudfunding": {
+						name: "Crowd Funding",
+						file: "application/assistencia.croudfunding.md",
+					},
 				}
 			},
 			"custos": {

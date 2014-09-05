@@ -146,7 +146,7 @@ module.exports =  {
 					},
 				}
 			},
-			"Pós-graduação": {
+			"pos-graduacao": {
 				name: "Pós-graduação",
 				file: "application/pos.md",
 				children: {

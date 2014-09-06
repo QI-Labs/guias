@@ -1,8 +1,8 @@
 # Estrutura Acadêmica nos EUA
  
-Nos Estados Unidos, a maioria dos alunos estudam em escolas e colégios públicos por 13 anos antes de ingressar numa faculdade. Começam no jardim de infância antes do FIRST GRADE.  Um erro muito comum feito por brasileiros é chamar o primeiro ano do colégio assim, que e engraçado por um americano ouvir.  A escola elementar vai do jardim ate o fourth, fifth ou sixth grade. 
+Nos Estados Unidos, a maioria dos alunos estudam em escolas e colégios públicos por 13 anos antes de ingressar numa faculdade. Começam no jardim de infância antes do **first grade**.  Um erro muito comum feito por brasileiros é chamar o primeiro ano do colégio assim, que e engraçado por um americano ouvir.  A **escola elementar** vai do jardim ate o fourth, fifth ou sixth grade. 
  
-Middle School, ou Junior High, normalmente vai do fifth ou sixth grade ate ou 8th grade. Depois deles vem o high school (que é o equivalente ao ensino médio no Brasil).
+**Middle School**, ou Junior High, normalmente vai do fifth ou sixth grade ate ou 8th grade. Depois deles vem o **high school** (que é o equivalente ao ensino médio no Brasil).
  
 ## IA – Ano Letivo
 

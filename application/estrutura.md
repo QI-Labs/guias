@@ -18,8 +18,8 @@ Por exemplo, alguém que começa a faculdade em Setembro de 2015 seria do Class 
  
 Cada um tem suas características, por isso recomendamos visitar nossas páginas específicas de cada assunto.
  
-- Na página de [High School](http://www.qilabs.org/guias/application/high-school) você aprenderá um pouco sobre o nivelamento através de cursos (normal, prep e honors) e sobre os rankings escolares.
+- Na página de [**High School**](http://www.qilabs.org/guias/application/high-school) você aprenderá um pouco sobre o nivelamento através de cursos (normal, prep e honors) e sobre os rankings escolares.
 
-- Em [Graduação](http://www.qilabs.org/guias/application/graduacao) explicamos sobre as associations, community colleges e bachelors. 
+- Em [**Graduação**](http://www.qilabs.org/guias/application/graduacao) explicamos sobre as associations, community colleges e bachelors. 
 
-- Ja teve dúvida sobre como é medicina nos EUA? Saiba mais sobre esse assunto na parte de [pós em medicina](http://www.qilabs.org/guias/application/pos-graduacao/pos-medicina).
+- Ja teve dúvida sobre como é medicina nos EUA? Saiba mais sobre esse assunto na parte de [**pós em medicina**](http://www.qilabs.org/guias/application/pos-graduacao/pos-medicina).

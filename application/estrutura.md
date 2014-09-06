@@ -15,6 +15,12 @@ Para cada etapa do ensino, os Americanos tem um habito de falar do “class year
  
 Por exemplo, alguém que começa a faculdade em Setembro de 2015 seria do Class of 2019, pois, a previsão de término do seu curso de 4 anos seria em Junho de 2019.
  
-## IC. High School
+## IC. High School, Graduação e Pós-graduação
  
-Acesse nossos conteúdo sobre [High School]() e [Graduação]()!
+Cada um tem suas características, por isso recomendamos visitar nossas páginas específicas de cada assunto.
+ 
+- Na página de [High School](http://www.qilabs.org/guias/application/high-school) você aprenderá um pouco sobre o nivelamento através de cursos (normal, prep e honors) e sobre os rankings escolares.
+
+- Em [Graduação](http://www.qilabs.org/guias/application/graduacao) explicamos sobre as associations, community colleges e bachelors. 
+
+- Ja teve dúvida sobre como é medicina nos EUA? Saiba mais sobre esse assunto na parte de [pós em medicina](http://www.qilabs.org/guias/application/pos-graduacao/pos-medicina).

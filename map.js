@@ -115,6 +115,7 @@ module.exports =  {
 		name: "Application",
 		file: "application/main.md",
 		contribuitors: ['5368f4b91e35a902003ca1f7'],
+		icon: 'icon-directions',
 		children: {
 			"estrutura": {
 				name: "Estrutura Acadêmica nos EUA",
@@ -218,7 +219,6 @@ module.exports =  {
 			},
 			"custos": {
 				name: "Gastos",
-				file: "application/custos.md",
 				children:{
 					"apply": {
 						name: "Custos de Application",

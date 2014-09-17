@@ -11,41 +11,40 @@ Em faculdades públicas, os fatores objetivos tem mais peso.  Em geral, quanto m
 ### Subjetivos
 
 
-#### 1. **Atividades Extracurriculares**
+#### 1. Atividades Extracurriculares
 
 O que importa:
 
-- Duracao
-- Nivel de Competicao
-- Premios
+- Duração
+- Nivel de Competição
+- Prêmios
 - Horas/involvimento
 
 Exemplos:
 
-- Servico (não é caridade!)
+- Serviço (não é caridade!)
 - Esportes
 - Olimpidas Academicas
 - Gremio Estudantil
-- Simulacao de ONU
-- Musica
+- Simulacao de modelo ONU
+- Música
 - Artes e Design
-- Programacao
-- Responsibilidades Familiares
-- Ferias
-- Intercambios
-- Cursos fora do Colegio
-- Trabalho e Estagios
+- Programação
+- Responsibilidades familiares
+- Férias
+- Intercâmbios
+- Cursos fora do colégio
+- Trabalho e Estágios
 
-2. **Redacoes**
+#### 2. Redações
 
 a. Common Application
 b. Supplements
 
-Exemplos de Redacoes
+Exemplos de Redações
 
 a.      Cartas de Recomendacao
 b.      Professores
-c.      Direitor/Coordinador
+c.      Direitor/Coordenador
 d.      Entrevistas
 e.      Art Supplement
-

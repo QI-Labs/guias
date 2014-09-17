@@ -17,7 +17,9 @@ Alunos que não se encontram nessas categorias geralmente não são aceitos. Pro
 
 Se você faz medicina no Brasil, pode fazer um grupo de provas e competir por uma vaga de residência e se tornar medico nos Estados Unidos sem tantos problemas. No entanto, se você se forma nos EUA você não somente vai ser barrado de praticar medicina no Brasil, mas também não estará com o visto garantido para trabalhar nos EUA e pode acabar cheio de dívidas e com um diploma que de nada lhe serve.
 
-Fazer graduação no Brasil e depois tentar Med School nos EUA, talvez não seja "impossível", mas os dados mostram que a chance é mínima. <!-- (fazer link com a lista de aceitação de universidades)  -->
+Fazer graduação no Brasil e depois tentar Med School nos EUA, talvez não seja "impossível", mas os dados mostram que a chance é mínima. 
+
+<!-- (fazer link com a lista de aceitação de universidades)  -->
 
 É importante lembrar também que bolsas de estudo para medicina não existem nem para Americanos, e muito menos para estudantes internacionais. Então, se você não puder pagar os valores ditos acima e precisa de apoio financeiro, é melhor focar em estudar no Brasil e fazer sua residência nos Estados Unidos, o que é algo muito comum e acessível, além de bem remunerado.
 

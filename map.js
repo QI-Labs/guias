@@ -114,8 +114,9 @@ module.exports =  {
 	application: {
 		name: "Application",
 		file: "application/main.md",
-		contribuitors: ['5368f4b91e35a902003ca1f7'],
+		contributors: ['5368f4b91e35a902003ca1f7'],
 		icon: 'icon-directions',
+		author: '5368f4b91e35a902003ca1f7',
 		children: {
 			"estrutura": {
 				name: "Estrutura Acadêmica nos EUA",

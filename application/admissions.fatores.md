@@ -38,13 +38,13 @@ Exemplos:
 
 #### 2. Redações
 
-a. Common Application
-b. Supplements
+- a. Common Application
+- b. Supplements
 
 Exemplos de Redações
 
-a.      Cartas de Recomendacao
-b.      Professores
-c.      Direitor/Coordenador
-d.      Entrevistas
-e.      Art Supplement
+- a.      Cartas de Recomendacao
+- b.      Professores
+- c.      Direitor/Coordenador
+- d.      Entrevistas
+- e.      Art Supplement

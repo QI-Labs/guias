@@ -43,8 +43,8 @@ Exemplos:
 
 Exemplos de Redações
 
-- a.      Cartas de Recomendacao
-- b.      Professores
-- c.      Direitor/Coordenador
-- d.      Entrevistas
-- e.      Art Supplement
+- Cartas de Recomendacao
+- Professores
+- Direitor/Coordenador
+- Entrevistas
+- Art Supplement

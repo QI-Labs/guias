@@ -16,7 +16,7 @@ Para entrar em colégios particulares (Boarding Schools, Day Schools e Colegio C
 
 b.     **Para Graduação**
 
-Recomendamos que visite as páginas específicas sobre o SAT, SAT II e o ACT. Nelas você entenderá mais sobre as características de cada uma.
+Recomendamos que visite as páginas específicas sobre o SAT, SAT II e o ACT, nelas explicamos as características de cada prova!
 
 - Visite a página sobre o [**SAT**](http://www.qilabs.org/guias/application/provas/sat)
 

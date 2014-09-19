@@ -1,6 +1,6 @@
 # Custos da Faculdade
 
-Muita pessoas acham que as faculdades Norte-Americanas tem valores surreais.  A verdade é que considerando seus custos no Brasil, os seus gastos nos EUA podem até ser mais baratos.
+Muita pessoas acham que as faculdades Norte-Americanas tem valores surreais.  A verdade é que considerando seus custos no Brasil, os gastos nos EUA podem até ser mais baratos.
  
 ## O que é incluído
 

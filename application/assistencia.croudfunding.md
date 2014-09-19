@@ -1,8 +1,8 @@
 ## Crowd Funding
 
-São sites de arrecadação de fundos com benfeitoria, que podem ajudar o aluno a tampar o buraco entre o que pode pagar e o que precisa para ingressar na faculdade. 
+São sites de arrecadação de fundos, como [benfeitoria](http://benfeitoria.com/), que podem ajudar o aluno a tampar o buraco entre o que pode pagar e o que precisa para ingressar na faculdade. 
  
-Se você optar para crowd funding, fique atento nesses tópicos:
+Se você optar pelo **crowd funding**, fique atento nesses tópicos:
 
 - Foque no que você vai contribuir depois para a sua comunidade
 

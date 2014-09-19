@@ -4,7 +4,7 @@ Diferente dos brasileiros, a maioria dos americanos não gastam dinheiro na educ
  
 Desta forma, empréstimos são o modo mais comum de um americano pagar a faculdade. Quase ninguém tem o dinheiro para pagar uma mensalidade. E o Americano pensa na educação de uma forma diferente, tendo-a como o maior investimento da sua vida – não menos importante que comprar uma casa. Por esse motivo, é muito comum financiar os estudos nos EUA. Além disso, é muito comum, para os pais de um aluno, hipotecar a casa (second mortgage) ou resgatar o dinheiro do “FGTS” (o que eles chamam de “emprestar o dinheiro do 401k").
 
-**1. Governamentais**
+### 1. Governamentais
 
 Para cidadãos dos EUA (qualquer um com um passaporte Americano) o governo garante empréstimos de ate $12.000 por ano durante a graduação, com juros baixíssimos, chamado de **Stafford Loan**.
 
@@ -14,11 +14,11 @@ A elegibilidade para estes empréstimos é determinada pelo formulário da FAFSA
 
 Antes de preencher o formulário, todo homem americano que completo 18 anos precisa preencher os documentos de “Selective Service” para a inscrição militar obrigatória no caso de uma futura guerra (the draft), que pode ser feito online.
  
-**2. Privados**
+### 2. Privados
 
 Alunos internacionais podem pedir um empréstimo de bancos Norte-Americanos, baseado na renda, assetts e investimentos dos seus pais.  Se os pais nao tem uma fonte de renda fixa ou bens nos EUA para assegurar o empréstimo, podem procurar um co-signer (fiador).
 
-*Co-signer*
+**Co-signer**
 
 Um co-signer garante o pagamento do empréstimo, sendo legalmente responsável pelo pagamento no caso de inadimplência do beneficiado.
  
@@ -32,6 +32,6 @@ Desse jeito, não é possível pedir para qualquer americano que você conheça 
 
 Se você pedir para alguem ser seu "co-signer" e não receber uma resposta, procure não ficar ofendido. Não é porque o seu conhecido não está pronto para um compromisso “até que a morte nos separe” não significa que ele não apoia seus sonhos.
  
-**3. Institucionais**
+### 3. Institucionais
 
 Faculdades privadas com grandes dotes ("endowments") podem oferecer empréstimos institucionais (do dinheiro deles). São parecidos com os empréstimos de bancos nos termos, condições e juros, mas podem te dispensar da necessidade de um co-signer americano com mais facilidade.

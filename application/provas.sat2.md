@@ -1,7 +1,7 @@
-II. SAT II
+## SAT II
 
-O SAT II (SAT Subjects test) e um complemento pedido pelos faculdades mais competitivos em conjunto com a SAT I.  Na verdade, sao varias provas de uma hora cada que focam no conteúdo.  Podem ser feitos ate 3 provas num dia.
+O **SAT II** (SAT Subjects test) é um complemento pedido pelas faculdades mais competitivas, em conjunto com a SAT I.  São várias provas de uma hora cada, que focam em uma matéria específica, sendo que o aluno pode fazer até três provas num dia.
  
-Para a maioria dos cursos, a matéria nao importa. Para alguns cursos como engenharia e business e recomendado ou ate obrigatório fazer Math II e physics.
+Para a maioria dos cursos, a matéria não possui tanta importância. Entretanto, para certos cursos como engenharia e business, é recomendado ou até obrigatório fazer o SAT II de Math II e physics.
  
-Recomendo que você faz um simulado de cada prova e escola aqueles nos quais você tire as melhores notas.   Essa decisão nao tem que ser feito ate a dia da prova. Voce pode se inscrever para qualquer 3 provas e mudar de mente na hora e fazer 3 completamente diferentes (menos línguas com um parte de listening)
+Recomendamos que você faça um simulado de cada prova e escolha aquelas nas quais você tire as melhores notas. Essa decisão pode ser feita até o dia da prova. Por exemplo, você pode se inscrever para qualquer três provas, mas mudar de ideia na hora e acabar fazendo três outras provas completamente diferentes (menos línguas com um parte de listening). Entretanto, é interessante definir antes as matérias que você fará, pois assim você pode estudar antecipadamente e especificamente para as matérias que escolheu.

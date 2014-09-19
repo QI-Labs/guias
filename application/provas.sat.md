@@ -20,9 +20,9 @@ Quando a faculdade fala da sua nota, não está se importando com a sua pontuaç
 
 As provas são oferecidas em várias cidades no Brasil. Normalmente acontecem no utlimo sábado de Janeiro e no primeiro sábado de Maio, Junho, Outubro, Novembro e Dezembro.
  
-### **Inscriscao**
+### **Inscrição**
 
-A inscriscao pode ser feita no site do [collegeboard.com](https://www.collegeboard.org/)
+A inscrição pode ser feita no site do [collegeboard.com](https://www.collegeboard.org/)
 
 Você precisa de:
 

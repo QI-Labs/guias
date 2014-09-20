@@ -7,7 +7,7 @@ O [**QI Labs Guias**](http://www.qilabs.org/guias) foi criado com o intuito de a
 
 **Por que o conteúdo das Guias é colaborativo?**
 
-Nosso principal objetivo com com as Guias é criar uma rede de conteúdo mais completa possível, capaz de ajudar pessoas de todos os níveis em suas respectivas áreas de interesse. 
+Nosso principal objetivo com com as Guias é criar uma rede de conteúdo mais completa possível, capaz de ajudar pessoas de todos os níveis em suas respectivas áreas de interesse.
 
 Por exemplo, da mesma forma que uma pessoa interessada em nível 3 de Olimpíada de Matemática pode consultar a parte de Plano de Estudo, alguém que nunca teve contato com olimpíadas científicas pode ser intriduzido no assunto e se interessar cada vez mais!
 
@@ -37,7 +37,7 @@ Criar uma conta te permitirá editar o conteúdo pelo Git Hub.
 
 ### 2. Acessar a página do QILabs/Guias no Github
 
-- Agora que você possui uma conta, acesse a página [QI Labs Guias](https://github.com/QI-Labs/guias)  
+- Agora que você possui uma conta, acesse a página [QI Labs Guias](https://github.com/QI-Labs/guias)
 
 ![Imgur](http://i.imgur.com/h1Vu1zr.png)
 

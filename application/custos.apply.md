@@ -33,7 +33,7 @@ Lembre-se que o pedido, se realizado, é uma das primeiras interações do aluno
 Se alunos brasileiros começam a abusar dessas ofertas, as faculdades serão cada vez mais criteriosas com todos os conditatos. Nao prejudique a oportunidade para os que realmente precisam.
 
 
-<section class="wow">
+<section class="doc">
 
 <h3>Modelo da Carta</h3>
 

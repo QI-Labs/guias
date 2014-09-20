@@ -140,7 +140,7 @@ module.exports =  {
 					},
 					"community-college": {
 						name: "Community College",
-						file: "application/graduacao.com-college.md",
+						file: "application/graduacao.community-college.md",
 					},
 					"bachelors": {
 						name: "Bachelors",

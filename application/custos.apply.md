@@ -33,25 +33,22 @@ Lembre-se que o pedido, se realizado, é uma das primeiras interações do aluno
 Se alunos brasileiros começam a abusar dessas ofertas, as faculdades serão cada vez mais criteriosas com todos os conditatos. Nao prejudique a oportunidade para os que realmente precisam.
 
 
-<section class="wow">
+<section class="doc">
 
-
-i. Modelo da Carta
+<h3>Modelo da Carta</h3>
 
   
-  November 28, 2012
+  <p>November 28, 2012</p>
 
-  To whom it may concern,
+  <p>To whom it may concern,</p>
  
-  While I feel  that Fulano Tal would be an excellent match for Princeton University, the $65 application fee would cause financial hardship for Fulano and his family due to the exchange rate and his family`s unfavorable economic situation in Brazil. I therefore request that you waive his application fee and would gladly provide any documentation necessary to prove his need upon request.
+  <p>While I feel  that Fulano Tal would be an excellent match for Princeton University, the $65 application fee would cause financial hardship for Fulano and his family due to the exchange rate and his family`s unfavorable economic situation in Brazil. I therefore request that you waive his application fee and would gladly provide any documentation necessary to prove his need upon request.</p>
  
-  Sincerely,
+  <p>Sincerely,</p>
  
- 
-  *TYPE NAME HERE*
+  <p>*TYPE NAME HERE*</p>
   
-  *TYPE POSITION HERE*
- 
+  <p>*TYPE POSITION HERE*</p>
  
  </section>
  

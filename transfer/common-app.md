@@ -1,0 +1,14 @@
+# Common Application (Common App)
+
+O Common App é formado por vários elementos diferentes. A partir daqui eu vou tentar abordar os aspectos específicos ao processo de transfer de cada uma dessas partes da aplicação. 
+
+O Common App dos transfers tem a peculiaridade de que várias faculdades têm datas de entrega diferentes. Em geral elas se agrupam em três faixas, com aproximadamente duas semanas entre cada uma: começo de março, meio de março e começo de abril. É útil levar isso em consideração na hora 
+de se programar para conseguir os documentos, escrever os essays, etc. Para algumas faculdades as coisas vão ter que estar prontas um mês antes do que para outras, assim algumas podem exigir mais pressa, enquanto para outras talvez dê para levar mais com calma.
+
+As universidades em geral exigem que alguns documentos sejam enviados direto das respectivas instituições. Por exemplo, o histórico escolar tem que ser enviado pela sua escola e não por você. Para 
+instituições que estão no Brasil isso pode ser difícil de conseguir, porque frequentemente não há um protocolo a ser seguido para mandar documentos para o exterior. Assim, o que pode ser feito é pedir 
+os papeis em um envelope selado, o qual você mesmo pode endereçar e enviar para as universidades. Também pode ser útil se programar com alguma antecedência, pois a diferença de preço do correio 
+comum para o correio expresso é grande (e as vezes a diferença de “velocidade” é pequena). Para quem está aplicando para um grande número de faculdades, essa diferença de custo pode se tornar considerável.
+
+Dependendo do local em que você se encontrar no momento, pode valer a pena mandar um fax (sim, isso ainda existe). Para alguns documentos inclusive isso pode ser exigido, o que pode ser um 
+transtorno para quem está no Brasil. É possível que, conversando com as universidades, se possa contornar essa exigência, enviando os documentos por correio ou e-mail

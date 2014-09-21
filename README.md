@@ -1,3 +1,11 @@
-# Guias · QI Labs
+# ![logo](http://qilabs.org/static/images/logoBB-circle-small.png) Guias QI Labs
 
-Fonte de conteúdo do [qilabs.org/guias](http://qilabs.org/guias)
+Fonte dos textos das Guias do QI Labs ([qilabs.org/guias](http://qilabs.org/guias))
+
+Conteúdo do QI Labs e de terceiros, curado pela [@mimimalher](http://qilabs.org/@michelle.malher)
+
+Released under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+© 2014 The [QI Labs](https://github.com/QI-Labs) authors 

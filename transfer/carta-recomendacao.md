@@ -10,7 +10,7 @@ Por fim, vale lembrar que diferentes universidades pedem diferentes números de 
 
 <section class="doc">
 
-<i></p><b>Guide to Developing Good Relationships with Professors for Recommendation Letters**</b></p></i>
+<i><p><b>Guide to Developing Good Relationships with Professors for Recommendation Letters</b></p></i>
 
 <p><i>Well first off many might think that having a good relationship with a professor is everything to getting a good recommendation letter, it's a step but it's not all there is to it, you have to be a good student, not a goof off. I think it's very important to have a good relationship with your professors because when you do and when you are a good student they have more to talk about in your letters since they know you better. Remember they have tons and tons of students (depending on class sizes and university size) and you are probably one more number if you don't take the time to stand out.</i></p>
 

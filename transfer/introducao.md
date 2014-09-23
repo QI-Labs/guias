@@ -9,3 +9,5 @@ As seções do guia estão estruturadas de acordo com a ordem natural do process
 - começando com a escolha das universidades, 
 - seguindo para o *Common Application* e todos os documentos associados a ele, 
 - e terminando com alguns aspectos pós-admissão do processo.
+
+Boa leitura!

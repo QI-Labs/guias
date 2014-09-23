@@ -1,6 +1,6 @@
 # Introdução
 
-O processo de transferência entre faculdades (*_transfer application_*) é um assunto muitas vezes visto quase que sob uma aura de mistério. Muitas pessoas têm interesse, mas informações são frequentemente escassas. Hoje em dia, bastante gente tem conhecimento sobre o processo para *first-year applicants*. Já para os *transfers*, é difícil encontrar pessoas com alguma experiência, mesmo em comunidades específicas para isso (como o BSCUE - grupo do Facebook).
+O processo de transferência entre faculdades (*__transfer application__*) é um assunto muitas vezes visto quase que sob uma aura de mistério. Muitas pessoas têm interesse, mas informações são frequentemente escassas. Hoje em dia, bastante gente tem conhecimento sobre o processo para *first-year applicants*. Já para os *transfers*, é difícil encontrar pessoas com alguma experiência, mesmo em comunidades específicas para isso (como o BSCUE - grupo do Facebook).
 
 Muitos dos assuntos que são importantes para o processo de transferência são também importantes para o processo de admissão para *first-years* (*Common Application*, *essays*, cartas de recomendação, etc.). Por essa razão, recomenda-se que visitem a [**Guia sobre Application**](http://www.qilabs.org/guias/application) do QI Labs, além da leitura do já famoso guia do **Leonardo Stedile**, que servirão de base para a compreensão desse manual e do processo de *transfer*.
 

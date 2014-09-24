@@ -238,6 +238,7 @@ module.exports =  {
 		icon: "icon-directions",
 		file: "transfer/main.md",
 		contribuitors: "",
+		author: "5418fad69b6ed60200b3037a",
 		children: {
 			"posso-aplicar": {
 				name: "Eu posso aplicar?",

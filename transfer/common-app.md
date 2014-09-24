@@ -1,6 +1,6 @@
 # Common Application (Common App)
 
-O *Common App* é formado por vários elementos diferentes. A partir daqui eu vou tentar abordar os aspectos específicos ao processo de transfer de cada uma dessas partes da aplicação. 
+O *Common App* é formado por vários elementos diferentes. O objetivo a partir daqui é abordar os aspectos específicos ao processo de transfer de cada uma dessas partes da aplicação. 
 
 O *Common App* dos transfers tem a peculiaridade de que várias faculdades têm datas de entrega diferentes. Em geral elas se agrupam em três faixas, com aproximadamente duas semanas entre cada uma: começo de março, meio de março e começo de abril. É útil levar isso em consideração na hora de se programar para conseguir os documentos, escrever os *essays*, etc. Para algumas faculdades as coisas vão ter que estar prontas um mês antes do que para outras, assim algumas podem exigir mais pressa, enquanto para outras talvez dê para levar mais com calma.
 

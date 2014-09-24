@@ -233,6 +233,58 @@ module.exports =  {
 			}
 		}
 	},
+	transfer: {
+		name: "Transfer Application",
+		icon: "icon-directions",
+		file: "transfer/main.md",
+		contribuitors: "",
+		children: {
+			"posso-aplicar": {
+				name: "Eu posso aplicar?",
+				file: "transfer/posso-aplicar.md",
+			},
+			"financial-aid": {
+				name: "Financial aid",
+				file: "transfer/financial-aid.md",
+			},
+			"para-onde-aplicar": {
+				name: "Escolhendo para onde aplicar",
+				file: "transfer/para-onde-aplicar.md",
+			},
+			"common-app": {
+				name: "Common Application (Common App)",
+				file: "transfer/common-app.md",
+			},
+			"testes": {
+				name: "Os testes padronizados",
+				file: "transfer/testes.md",
+			},
+			"gpa": {
+				name: "O GPA",
+				file: "transfer/gpa.md",
+			},
+			"carta-recomendacao": {
+				name: "Cartas de recomendação",
+				file: "transfer/carta-recomendacao.md",
+			},
+			"essays": {
+				name: "Essays",
+				file: "transfer/essays.md",
+			},
+			"entrevistas": {
+				name: "Entrevistas",
+				file: "transfer/entrevistas.md",
+			},
+			"midterm-report": {
+				name: "Midterm report",
+				file: "transfer/midterm-report.md",
+			},
+			"credit": {
+				name: "Transfer of credit",
+				file: "transfer/credit.md",
+			},
+		}
+	},
 	vestibular: {
 		name: "Vestibular",
 		icon: 'icon-university',

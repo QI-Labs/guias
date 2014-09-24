@@ -10,4 +10,6 @@ As seções do guia estão estruturadas de acordo com a ordem natural do process
 - seguindo para o *Common Application* e todos os documentos associados a ele, 
 - e terminando com alguns aspectos pós-admissão do processo.
 
+De todo modo, o processo de transfer não é simples: o candidato tem que buscar documentos de tempos remotos (Ensino Médio), lidar com tecnologias arcaicas como o fax, entre outras árduas tarefas. Brincadeiras à parte, o processo é difícil por si só e não ter as informações corretas pode tornar tudo mais complicado ainda. Portanto, o objetivo deste guia é auxiliar quem está em busca de informações a respeito desse processo.
+
 Boa leitura!

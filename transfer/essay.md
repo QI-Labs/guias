@@ -4,7 +4,7 @@ Os *essays* são uma das partes mais interessantes do processo, pois neles o can
 
 Os *essays* do processo de *transfer* são um pouco diferentes daqueles do processo para *first-years*. O *essay* do *Common App* é feito especificamente para os *transfers* e pede para o candidato contar suas razões para querer transferir. Além desse *essay*, que é enviado para todas as universidades para as quais você aplicar, muitas universidades também pedem *essays* suplementares, que frequentemente são iguais aos do processo para *first-year applicants*. 
 
-O *essay* do *Common App*, como eu mencionei acima, é enviado igualmente para todas as universidades para as quais você aplicar. Assim, normalmente se espera que esse texto não trate nenhuma universidade específica. (Veja mais sobre isso na caixa abaixo.)
+O *essay* do *Common App*, como mencionado acima, é enviado igualmente para todas as universidades para as quais você aplicar. Assim, normalmente se espera que esse texto não trate nenhuma universidade específica. (Veja mais sobre isso na caixa abaixo.)
 
 <section class="doc">
 

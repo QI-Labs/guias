@@ -1,4 +1,6 @@
- Todos os anos, diversos estudantes participam do processo de seleção para universidades no exterior. Um sonho almejado por muitos, que requer dedicação e esforço pessoal para ser alcançado.
+# Processo de Application para Universidades Americanas
+
+Todos os anos, diversos estudantes participam do processo de seleção para universidades no exterior. Um sonho almejado por muitos, que requer dedicação e esforço pessoal para ser alcançado.
  
  O processo de admissão é comum para quem vive nos Estados Unidos, mas muitos brasileiros não tem consciencia de que há a possibilidade de tentar aplicar para uma universidade no exterior! 
  

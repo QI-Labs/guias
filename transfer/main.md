@@ -1,4 +1,4 @@
-# Introdução
+# Processo de Transferência para Universidades Americanas
 
 O processo de transferência entre faculdades (*__transfer application__*) é um assunto muitas vezes visto quase que sob uma aura de mistério. Muitas pessoas têm interesse, mas informações são frequentemente escassas. Hoje em dia, bastante gente tem conhecimento sobre o processo para *first-year applicants*. Já para os *transfers*, é difícil encontrar pessoas com alguma experiência, mesmo em comunidades específicas para isso (como o BSCUE - grupo do Facebook).
 

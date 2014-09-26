@@ -5,7 +5,7 @@ No nível 3 você deverá aprender um bocado de teoremas (pode ser até rápido)
 - **Problemas da ShortList**
 
 Todo ano países mandam questões para serem postas na prova da IMO, essas questões formam a LongList. Após isso, a banca seleciona os melhores problemas e esses formam a ShortList da qual são escolhidos os problemas da IMO.
-A ShortList é uma ótima fonte de problemas para todas as matérias, você pode encontrar suas soluções no [MathLinks](53c84babe041df02002f30ed) e no Livro “**The IMO Compendium**”.
+A ShortList é uma ótima fonte de problemas para todas as matérias, você pode encontrar suas soluções no MathLinkse no Livro “**The IMO Compendium**”.
 
 Clique [aqui](http://www.artofproblemsolving.com/Forum/viewforum.php?f=177&) para acessar a página com os problemas da IMO Shortlist, pelo site [Mathlinks](http://www.qilabs.org/guias/olimpiadas-matematica/fontes/aops)!
 

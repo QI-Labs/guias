@@ -13,4 +13,8 @@ Um empecilho que se põe no caminho do estudante que deseja se matricular em um 
 
 Apesar do curso pré-vestibular ser um ótimo meio de preparação para quem deseja prestar o vestibular, existem diversas alternativas para quem não pode fazer um curso, ou para quem deseja complementar os conhecimentos adquiridos no mesmo. Um exemplo são os cursinhos online e canais no Youtube que dão suporte para o estudante! Esses assuntos serão abordados com mais profundidade em [estudar em casa](link pra guia que fala de estudando em casa).
 
+<!--
+
 Mais: [Como escolher um cursinho pré-vestibular? - Super Vestibular / Terra Educação](http://vestibular.mundoeducacao.com/dicas/como-escolher-um-cursinho-pre-vestibular.htm)
+
+/-->

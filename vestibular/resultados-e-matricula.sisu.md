@@ -1,11 +1,11 @@
 SISU
 -----
 
-  As instituições públicas de ensino superior que adotam o [ENEM](link) como exame de vestibular tem os candidatos selecionados através do Sistema de Seleção Unificada - SISU. Este é um sistema desenvolvido pelo Ministério da Educação, através do qual ocorre a seleção dos candidatos às vagas das instituições que utilizarão a nota do Exame Nacional do Ensino Médio (Enem) como única fase de seu processo seletivo. 
+  As instituições públicas de ensino superior que adotam o [ENEM](http://www.qilabs.org/guias/vestibular/exames-unificados/enem) como exame de vestibular tem os candidatos selecionados através do Sistema de Seleção Unificada - SISU. Este é um sistema desenvolvido pelo Ministério da Educação, através do qual ocorre a seleção dos candidatos às vagas das instituições que utilizarão a nota do Exame Nacional do Ensino Médio (Enem) como única fase de seu processo seletivo. 
 
   Os interessados devem se inscrever no site “[sisu.mec.gov.br](http://sisu.mec.gov.br/)”, utilizando o número de inscrição do ENEM e o CPF. Durante o período de inscrições, o candidato deve escolher duas opções de curso na instituição que desejar. A escolha deve ser feita por ordem de preferência, visto que na primeira opção de curso o candidato pode ficar na lista de espera das universidades. Já na segunda opção, não há essa possibilidade, portanto se o candidato não conseguir entrar nas primeiras vagas, perderá a chance naquela opção, restando somente esperar a lista de espera para a primeira opção escolhida.
 
-  É também durante esse processo de inscrição que o candidato deve decidir se deseja concorrer às vagas de ampla concorrência, às vagas reservadas de acordo com a Lei nº 12.711/2012 (Lei de Cotas) ou às vagas destinadas às demais políticas afirmativas das instituições. Veja mais a respeito na nossa página sobre [cotas](link pra guia que fala de cotas).
+  É também durante esse processo de inscrição que o candidato deve decidir se deseja concorrer às vagas de ampla concorrência, às vagas reservadas de acordo com a Lei nº 12.711/2012 (Lei de Cotas) ou às vagas destinadas às demais políticas afirmativas das instituições. Veja mais a respeito na nossa página sobre [cotas](http://www.qilabs.org/guias/vestibular/resultados-e-matricula/cotas).
 
   Quando é encerrado o período de inscrição, o sistema irá selecionar os candidatos com maior pontuação para cada curso, buscando preencher as vagas disponíveis. Essa pontuação é baseada na nota que o participante obteve no ENEM, podendo variar de acordo com os pesos atribuídos às notas.
 

@@ -4,7 +4,7 @@ __Antes do Exame__
 
 É recomendável uma alimentação leve, com frutas legumes e verduras, que alimentam e mantém o cérebro ativo. Nunca é bom ficar com a digestão ruim, muito menos no dia do vestibular! Por esse motivo, evite alimentos muito pesados, que são mais difíceis de digerir e acabam deixando o corpo cansado e com sensação de lentidão. Bem como evitar alimentos gordurosos e fritos, tente não provar nada de muito diferente do seu cardápio habitual, deixe para experimentar comidas exóticas e picantes em outro dia qualquer.
 
-Como dito na parte de [No dia Anterior](link), procure dormir bem e estar com as energias restauradas para encarar as várias horas de prova. Dormindo bem e fazendo uma alimentação leve o candidato não terá que se preocupar com imprevistos, e poderá focar suas energias na prova.
+Como dito na parte de [No dia Anterior](http://www.qilabs.org/guias/vestibular/cronograma/dia-anterior), procure dormir bem e estar com as energias restauradas para encarar as várias horas de prova. Dormindo bem e fazendo uma alimentação leve o candidato não terá que se preocupar com imprevistos, e poderá focar suas energias na prova.
 
 Com relação a roupas, use sempre algo confortável e que você já está habituado a usar, nada de estrear uma roupa nova no dia do exame, vai que você descobre que uma parte dela te incomoda? Para evitar esse problema, use roupas leves e se preocupe com o conforto. Levar um casaco pode ser muito útil também, mesmo que você não tenha certeza que a sala tem ar condicionado, é bom prevenir e evitar passar frio durante o exame.
 

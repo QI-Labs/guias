@@ -12,6 +12,6 @@ Matrícula
 - CPF - Cadastro de Pessoa Física;
 - Título de Eleitor (para brasileiros maiores de 18 anos);
 - Certificado de Reservista ou Atestado de Alistamento Militar ou Atestado de Matrícula em CPOR ou NPOR, para os brasileiros maiores de 18 anos, do sexo masculino;
-- - Foto 3x4.
+- Foto 3x4.
 
   Geralmente, a realização da matrícula depende da apresentação de uma cópia autenticada em cartório ou cópia acompanhada dos originais de cada um dos documentos exigidos pela instituição. Fique atento para as particularidades de cada uma, e identifique todos os documentos necessários para a matrícula o quanto antes. Desta forma, terá tempo para organizar todos os documentos e evitar imprevistos.

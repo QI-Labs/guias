@@ -9,7 +9,7 @@ ProUNI
   - Para concorrer às bolsas integrais o candidato deve ter renda bruta familiar de até um salário mínimo e meio por pessoa. 
   - Para as bolsas parciais (50%), a renda familiar bruta mensal deve ser de até três salários mínimos por pessoa. 
   
-        Para calcular a renda familiar você deve somar todas as rendas das pessoas que residem com você, e dividir o valor da renda total pelo número de pessoas que moram na sua casa.   
+>Para calcular a renda familiar você deve somar todas as rendas das pessoas que residem com você, e dividir o valor da renda total pelo número de pessoas que moram na sua casa.   
 
   Além do requisito de renda, os candidatos não podem possuir diploma de curso superior, e tem que participar do Exame Nacional do Ensino Médio (Enem), pois no ato da inscrição do Prouni, o candidato deverá informar seu número de inscrição e sua senha no Enem. 
 

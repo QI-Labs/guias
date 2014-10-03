@@ -7,9 +7,9 @@ Exercicios e Simulados:
 O Guia do Estudante oferece diversos simulados e exercícios, e é uma ótima opção para quem deseja treinar seus conhecimentos. Outro site que também disponibiliza simulados e exercícios é o Geek Lab, oferecendo conteúdo personalizado para cada usuário, de acordo com os erros e acertos nos exercícios.
 
 Sites que oferecem simulados online:
-[Simulado ENEM do site Educar para Crescer](http://educarparacrescer.abril.com.br/blog/boletim-lista/index.shtml?185512)
-[Simulado ENEM do iG](http://ultimosegundo.ig.com.br/educacao/simulado-enem/)
-[Simulado da Folha ENEM 2013](http://www.adaptativa.com.br/simuladofolha-enem2013)
+- [Simulado ENEM do site Educar para Crescer](http://educarparacrescer.abril.com.br/blog/boletim-lista/index.shtml?185512)
+- [Simulado ENEM do iG](http://ultimosegundo.ig.com.br/educacao/simulado-enem/)
+- [Simulado da Folha ENEM 2013](http://www.adaptativa.com.br/simuladofolha-enem2013)
 
 <!--
 

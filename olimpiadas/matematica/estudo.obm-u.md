@@ -4,7 +4,7 @@ Para se preparar para a OBM-U você pode começar primeiro estudando os conteúd
 
 Depois que você tiver aprendido bem esses conteúdos, você deve treinar com problemas olímpicos, fazendo isso você estará em boas condições de ganhar medalha ou menção na competição.
 
-**Mas onde buscar esses conteúdos?**
+### Mas onde buscar esses conteúdos?
 
 Acredito que com os livros comuns da universidade você pode aprender os conteúdos principais, mas os problemas de treinamento devem ser buscados em livros mais avançados. 
 

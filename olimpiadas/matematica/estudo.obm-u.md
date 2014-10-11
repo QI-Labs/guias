@@ -11,4 +11,4 @@ Acredito que com os livros comuns da universidade você pode aprender os conteú
 Por exemplo para cálculo você pode usar o livro "**Cálculo**" do Stewart, para análise e algébra linear pode usar o Elon,
 e para geometria analítica ...
 
-Já para os exercícios você deve usar uns livros mais pesados. Por exemplo, para a parte de cálculo e geometria analítica eu recomendo o ''**Putnam and Beyond**'' e para a parte de análise e algébra linear o ''**Berkeley Problems in Mathematics**'', mas existem outros.
+Já para os exercícios você deve usar uns livros mais pesados. Por exemplo, para a parte de cálculo e geometria analítica eu recomendo o ''**Putnam and Beyond**'' e para a parte de análise e algébra linear o ''**Berkeley Problems in Mathematics**'', mas existem diversos outros livros com os quais você pode treinar e aperfeiçoar para a OBM-U.

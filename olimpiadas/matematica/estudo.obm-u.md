@@ -6,6 +6,10 @@ Depois que você tiver aprendido bem esses conteúdos, você deve treinar com pr
 
 **Mas onde buscar esses conteúdos?**
 
-Eu acho que com os livros comuns da universidade você pode aprender os conteúdos principais, mas os problemas de treinamento devem ser buscados em livros mais avançados. Por exemplo, eu acho que cálculo você pode usar o Stewart, análise, o Elon, algébra linear, o Elon também, geometria analítica eu não me lembro agora. 
+Acredito que com os livros comuns da universidade você pode aprender os conteúdos principais, mas os problemas de treinamento devem ser buscados em livros mais avançados. Por exemplo: 
 
-Para os exercícios você deve usar uns livros mais pesados. Por exemplo, para a parte de cálculo e geometria analítica eu gosto do ''Putnam and Beyond'' e para a parte de análise e algébra linear o ''Berkeley Problems in Mathematics'', mas existem outros.
+- para cálculo você pode usar o Stewart, 
+- para análise e algébra linear pode usar o Elon,
+- geometria analítica ...
+
+Já para os exercícios você deve usar uns livros mais pesados. Por exemplo, para a parte de cálculo e geometria analítica eu recomendo o ''Putnam and Beyond'' e para a parte de análise e algébra linear o ''Berkeley Problems in Mathematics'', mas existem outros.

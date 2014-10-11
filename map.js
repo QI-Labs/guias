@@ -28,6 +28,10 @@ module.exports =  {
 						name: "Nível 3 (Ensino Médio)",
 						file: "olimpiadas/matematica/estudo.nivel3.md",
 					},
+					"obm-u": {
+						name: "OMB - Nível Universitário",
+						file: "olimpiadas/matematica/estudo.obm-u.md",
+					},
 					"internacionais": {
 						name: "Olimpíadas Internacionais",
 						file: "olimpiadas/matematica/estudo.internacionais.md",

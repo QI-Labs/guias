@@ -1,6 +1,6 @@
 #OBM - Nível Universitário
 
-Você pode começar primeiro estudando os conteúdos da Cálculo, Geometria Analítica, Álgebra Linear e Análise Combinatória, que são os quatro principais conteúdos universitários que aparecem na prova. Além disso, é bom manter-se treinado com alguns conteúdos da [OBM de ensino médio](http://www.qilabs.org/guias/olimpiadas-matematica/estudo/nivel3), como combinatória e teoria dos números. 
+Para se preparar para a **OBM-U** você pode começar primeiro estudando os conteúdos da Cálculo, Geometria Analítica, Álgebra Linear e Análise Combinatória, que são os quatro principais conteúdos universitários que aparecem na prova. Além disso, é bom manter-se treinado com alguns conteúdos da [OBM de ensino médio](http://www.qilabs.org/guias/olimpiadas-matematica/estudo/nivel3), como combinatória e teoria dos números. 
 
 Depois que você tiver aprendido bem esses conteúdos, você deve treinar com problemas olímpicos, fazendo isso você estará em boas condições de ganhar medalha ou menção na OBM-U.
 

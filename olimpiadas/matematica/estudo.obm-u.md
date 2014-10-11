@@ -4,7 +4,7 @@ Você pode começar primeiro estudando os conteúdos da Cálculo, Geometria Anal
 
 Depois que você tiver aprendido bem esses conteúdos, você deve treinar com problemas olímpicos, fazendo isso você estará em boas condições de ganhar medalha ou menção na OBM-U.
 
-Você pode treinar através das [provas e gabaritos da OBM](http://www.obm.org.br/opencms/provas_gabaritos/) ou acessar o [banco de provas internacionais](http://www.obm.org.br/opencms/como_se_preparar/provas/) para mais questões.
+>Você pode treinar através das [provas e gabaritos da OBM](http://www.obm.org.br/opencms/provas_gabaritos/) ou acessar o [banco de provas internacionais](http://www.obm.org.br/opencms/como_se_preparar/provas/) para mais questões.
 
 **Mas onde buscar esses conteúdos?**
 

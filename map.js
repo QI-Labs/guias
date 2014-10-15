@@ -2,9 +2,9 @@
 module.exports =  {
 	"olimpiadas-matematica": {
 		name: "Olimpíadas de Matemática",
-		icon: 'icon-circle-compass',
+		icon: "icon-circle-compass",
 		file: "olimpiadas/matematica/main.md",
-		contributors: ['53c84babe041df02002f30ed', '5320fd8ab6172102003081b9', '5321477b2816f6020050cb90', '5397b21e5c86f602009aa558', '5438837184f3440200279afe'],
+		contributors: ["53c84babe041df02002f30ed", "5320fd8ab6172102003081b9", "5321477b2816f6020050cb90", "5397b21e5c86f602009aa558", "5438837184f3440200279afe"],
 		children: {
 			"introducao": {
 				name: "Introdução a Olimpíadas de Matemática",
@@ -84,7 +84,7 @@ module.exports =  {
 	},
 	"olimpiadas-fisica": {
 		name: "Olimpíadas de Física",
-		icon: 'icon-genius',
+		icon: "icon-genius",
 		file: "olimpiadas/fisica/main.md",
 		children: {
 			"plano-de-estudo": {
@@ -118,9 +118,9 @@ module.exports =  {
 	application: {
 		name: "Application",
 		file: "application/main.md",
-		contributors: ['5368f4b91e35a902003ca1f7'],
-		icon: 'icon-directions',
-		author: '5368f4b91e35a902003ca1f7',
+		contributors: ["5368f4b91e35a902003ca1f7"],
+		icon: "icon-directions",
+		author: "5368f4b91e35a902003ca1f7",
 		children: {
 			"estrutura": {
 				name: "Estrutura Acadêmica nos EUA",
@@ -292,9 +292,9 @@ module.exports =  {
 	},
 	vestibular: {
 		name: "Vestibular",
-		icon: 'icon-university',
+		icon: "icon-university",
 		file: "vestibular/main.md",
-		contributors: ['5320fd8ab6172102003081b9'],
+		contributors: ["5320fd8ab6172102003081b9"],
 		children: {
 			"exames-unificados": {
 				name: "Exames Unificados",
@@ -416,5 +416,4 @@ module.exports =  {
 			},
 		}
 	},
-
 }

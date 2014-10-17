@@ -4,7 +4,7 @@ module.exports =  {
 		name: "Olimpíadas de Matemática",
 		icon: "icon-circle-compass",
 		file: "olimpiadas/matematica/main.md",
-		contributors: ["53c84babe041df02002f30ed", "5320fd8ab6172102003081b9", "5321477b2816f6020050cb90", "5397b21e5c86f602009aa558", "5438837184f3440200279afe"],
+		contributors: ["5438837184f3440200279afe", "53c84babe041df02002f30ed", "5320fd8ab6172102003081b9", "5321477b2816f6020050cb90", "5397b21e5c86f602009aa558"],
 		children: {
 			"introducao": {
 				name: "Introdução a Olimpíadas de Matemática",

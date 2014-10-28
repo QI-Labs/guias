@@ -235,6 +235,15 @@ module.exports =  {
 					}
 				}
 			}
+			"fontes-de-conteudo": {
+				name: "Fontes de Conteúdo",
+				children:{
+					"sparknotes": {
+						name: "Sparknotes",
+						file: "application/fontes-de-conteudo.spark.md",
+					},
+				}
+			}	
 		}
 	},
 	transfer: {

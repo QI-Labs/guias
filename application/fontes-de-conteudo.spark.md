@@ -12,4 +12,4 @@ No site se encontram os livros com informações úteis, além de dicas e estrat
 - AP Subject Tests
 - GRE
 
-Por exemplo, na parte sobre o [SAT](http://www.sparknotes.com/testprep/newsat/), você pode acessar o *SAT Book*, estratégias específicas para o teste e um *Vocabulary Builder*, que te ajudará a memorizar a definição de palavras como *"execrable"* e *"grandiloquent"*.
+Por exemplo, na seção sobre o [SAT](http://www.sparknotes.com/testprep/newsat/), você pode acessar o *SAT Book*, estratégias específicas para o teste e um *Vocabulary Builder*, que te ajudará a memorizar a definição de palavras como *"execrable"* e *"grandiloquent"*!

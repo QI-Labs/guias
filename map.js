@@ -234,7 +234,7 @@ module.exports =  {
 						file: "application/custos.faculdade.md",
 					}
 				}
-			}
+			},
 			"fontes-de-conteudo": {
 				name: "Fontes de Conteúdo",
 				children:{
@@ -243,7 +243,7 @@ module.exports =  {
 						file: "application/fontes-de-conteudo.spark.md",
 					},
 				}
-			}	
+			}
 		}
 	},
 	transfer: {

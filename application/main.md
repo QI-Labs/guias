@@ -9,7 +9,7 @@ Todos os anos, diversos estudantes participam do processo de seleção para univ
  - Saiba como é a [estrutura acadêmica nos EUA](http://www.qilabs.org/guias/application/estrutura);
  - Aprenda sobre o [high school](http://www.qilabs.org/guias/application/high-school), [graduação](http://www.qilabs.org/guias/application/graduacao) e pós (para [medicina](http://www.qilabs.org/guias/application/pos-graduacao/pos-medicina));
  - Conheça como é feito o processo de [admissions](http://www.qilabs.org/guias/application/admissions/conceito);
- - Navegue pela página de [provas internacionais de admissões](http://www.qilabs.org/guias/application/provas) e [prrovas de conhecimentos de ingles](http://www.qilabs.org/guias/application/provas-ingles);
+ - Navegue pela página de [provas internacionais de admissões](http://www.qilabs.org/guias/application/provas) e [provas de conhecimentos de ingles](http://www.qilabs.org/guias/application/provas-ingles);
  - Tem alguma dúvida a respeito dos gastos? Visite as páginas de [custo com a faculdade](http://www.qilabs.org/guias/application/custos/faculdade) e [custos com application](http://www.qilabs.org/guias/application/custos/apply);
  - Entenda como conseguir [assistência financeira](http://www.qilabs.org/guias/application/assistencia).
 

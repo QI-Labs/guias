@@ -4,6 +4,7 @@ module.exports =  {
 		name: "Olimpíadas de Matemática",
 		icon: "icon-circle-compass",
 		file: "olimpiadas/matematica/main.md",
+		labId: "mathematics",
 		contributors: ["5438837184f3440200279afe", "53c84babe041df02002f30ed", "5320fd8ab6172102003081b9", "5321477b2816f6020050cb90", "5397b21e5c86f602009aa558"],
 		children: {
 			"introducao": {
@@ -84,8 +85,10 @@ module.exports =  {
 	},
 	"olimpiadas-fisica": {
 		name: "Olimpíadas de Física",
-		icon: "icon-genius",
+		icon: "icon-rocket3",
+		labId: "physics",
 		file: "olimpiadas/fisica/main.md",
+		contributors: ["5397b21e5c86f602009aa558", "5320fd8ab6172102003081b9"],
 		children: {
 			"plano-de-estudo": {
 				name: "Plano de Estudos",
@@ -118,8 +121,9 @@ module.exports =  {
 	application: {
 		name: "Application",
 		file: "application/main.md",
-		contributors: ["5368f4b91e35a902003ca1f7"],
+		contributors: ["5320fd8ab6172102003081b9", "5368f4b91e35a902003ca1f7"],
 		icon: "icon-directions",
+		labId: "application",
 		author: "5368f4b91e35a902003ca1f7",
 		children: {
 			"estrutura": {
@@ -249,8 +253,9 @@ module.exports =  {
 	transfer: {
 		name: "Transfer Application",
 		icon: "icon-directions",
+		labId: "application",
 		file: "transfer/main.md",
-		contribuitors: "",
+		contributors: ["5418fad69b6ed60200b3037a", "5320fd8ab6172102003081b9"],
 		author: "5418fad69b6ed60200b3037a",
 		children: {
 			"posso-aplicar": {
@@ -397,32 +402,6 @@ module.exports =  {
 					}
 				}
 			}
-		}
-	},
-	olimpiadas: {
-		name: "Olimpíadas Científicas",
-		file: "olimpiadas/main.md",
-		children: {
-			"olimpiadas-matematica": {
-				name: "Olimpíadas de Matemática",
-				redirect: "olimpiadas-matematica",
-			},
-			"olimpiadas-fisica": {
-				name: "Olimpíadas de Física",
-				redirect: "olimpiadas-fisica",
-			},
-			"olimpiadas-quimica": {
-				name: "Olimpíadas de Química",
-				redirect: "olimpiadas-quimica",
-			},
-			"olimpiadas-informatica": {
-				name: "Olimpíadas de Informática",
-				redirect: "olimpiadas-informática",
-			},
-			"olimpiadas-biologia": {
-				name: "Olimpíadas de Biologia",
-				redirect: "olimpiadas-biologia",
-			},
 		}
 	},
 }

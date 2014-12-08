@@ -4,7 +4,7 @@ UNICAMP
 Para o Vestibular 2014 a Unicamp ofereceu 3.320 vagas, distribuídas em 66 cursos. A Unicamp também seleciona em seu Vestibular candidatos para os cursos de Medicina (80 vagas) e de Enfermagem (60 vagas) da Famerp (Faculdade de Medicina de São José do Rio Preto). Veja [aqui](https://www.comvest.unicamp.br/cursos/cursos.html) a lista completa dos cursos oferecidos!
 As inscrições para o Vestibular Nacional da Unicamp são feitas por meio da página da Comissão Permanente para os Vestibulares da Unicamp, a Comvest: www.comvest.unicamp.br. Depois da inscrição, há o valor a ser pago (podendo ser online ou, ao imprimir o boleto, em uma agência bancária).
 
-O Vestibular Unicamp É composto de duas fases, idênticas para todos os candidatos. Entretanto, os que estiverem concorrendo aos cursos de Arquitetura e Urbanismo, Artes Cênicas, Artes Visuais, Dança e Música devem fazer as provas de Habilidades Específicas em Campinas. O vestibulando que almeja uma vaga em algum desses cursos deve ficar atento, pois detalhes sobre essas provas serão divulgados na [página eletrônica da Comvest](www.comvest.unicamp.br).
+O Vestibular Unicamp É composto de duas fases, idênticas para todos os candidatos. Entretanto, os que estiverem concorrendo aos cursos de Arquitetura e Urbanismo, Artes Cênicas, Artes Visuais, Dança e Música devem fazer as provas de Habilidades Específicas em Campinas. O vestibulando que almeja uma vaga em algum desses cursos deve ficar atento, pois detalhes sobre essas provas serão divulgados na [página eletrônica da Comvest](http://www.comvest.unicamp.br).
 
 ### Primeira Fase
 

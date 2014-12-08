@@ -308,6 +308,7 @@ module.exports =  {
 		name: "Vestibular",
 		icon: "icon-university",
 		file: "vestibular/main.md",
+		labId: 'vestibular',
 		contributors: ["5320fd8ab6172102003081b9"],
 		children: {
 			"exames-unificados": {

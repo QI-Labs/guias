@@ -8,4 +8,4 @@ Released under the [Creative Commons Attribution-NonCommercial 4.0 International
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 
-© 2014 The [QI Labs](https://github.com/QI-Labs) authors 
+© 2014 The [QI Labs](https://github.com/QI-Labs) authors

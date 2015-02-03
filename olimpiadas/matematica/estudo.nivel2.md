@@ -35,10 +35,10 @@ Não é necessário resolver a parte de probabilidade do livro! O capítulo de N
 **Principles and Techniques in Combinatorics - Chen Chuan-Chong**
 
 Talvez um pouco mais avançado para esse nível entretanto para aqueles que tem tempo sobrando é uma ótima opção. Os materiais são apresentados de forma muito explícita, de modo que os alunos acham muito fácil de ler. Uma ampla variedade de exemplos, a cerca de 500 problemas combinatórios tomadas a partir de várias competições matemáticas.
-Os conteúdos que caem no nível 2 são aqueles especificados na descrição do livro do prof. Morgado, leia o livro do Morgado antes!
+Os conteúdos que caem no nível 2 são aqueles especificados na descrição do livro do p zf. Morgado, leia o livro do Morgado antes!
 
 
 ##Álgebra
 
-Nesse nível o conteúdo de álgebra exigido é bem pequeno. Necessário o conhecimento de apenas as desigualdades: MA>= MG e Cauchy. Ambas as desigualdades se encontram no **MathCircles e no Problem Solving**.
+Nesse nível o conteúdo de álgebra exigido é bem pequeno. Necessário o conhecimento de equações do 1º e 2º graus; propriedades das raízes da equação do 2º grau, sistemas de equações, produtos notáveis e desigualdades: MA>= MG e Cauchy. Ambas desigualdades se encontram no **MathCircles e no Problem Solving**.
 Outro livro recomendado é o **Matemática elementar 1**, que ajudará principalmente nas noções preliminares de álgebra.

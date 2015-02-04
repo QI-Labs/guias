@@ -220,9 +220,9 @@ module.exports =  {
 						name: "Empréstimos",
 						file: "application/assistencia.emprestimos.md",
 					},
-					"croudfunding": {
+					"crowdfunding": {
 						name: "Crowd Funding",
-						file: "application/assistencia.croudfunding.md",
+						file: "application/assistencia.crowdfunding.md",
 					},
 				}
 			},

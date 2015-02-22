@@ -1,4 +1,6 @@
-## Assistencia Financiera
+## Assistencia Financeira
+
+http://www.edupass.org/finaid/sources.phtml
 
 ### Work-study
  
@@ -18,4 +20,4 @@ iii. **Institucionais**
 
 ### Crowd Funding
 
-#### Experiências de pessoas  que optaram por Croud Funding
+#### Experiências de pessoas  que optaram por Crowd Funding

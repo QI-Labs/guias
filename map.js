@@ -1,408 +1,481 @@
 
-module.exports =  {
-	"olimpiadas-matematica": {
+module.exports = [
+	{
+		id: "olimpiadas-matematica",
 		name: "Olimpíadas de Matemática",
-		icon: "icon-circle-compass",
 		file: "olimpiadas/matematica/main.md",
 		labId: "mathematics",
 		contributors: ["5438837184f3440200279afe", "53c84babe041df02002f30ed", "5320fd8ab6172102003081b9", "5321477b2816f6020050cb90", "5397b21e5c86f602009aa558"],
-		children: {
-			"introducao": {
+		children: [
+			{
+				id: "introducao",
 				name: "Introdução a Olimpíadas de Matemática",
 				file: "olimpiadas/matematica/introducao.md",
-				children: {
-				}
+				children: [],
 			},
-			"estudo": {
+			{
+				id: "estudo",
 				name: "Planos de Estudo",
 				file: "olimpiadas/matematica/estudo.md",
-				children: {
-					"nivel1": {
+				children: [
+					{
+						id: "nivel1",
 						name: "Nível 1 (6º e 7º ano)",
 						file: "olimpiadas/matematica/estudo.nivel1.md",
 					},
-					"nivel2": {
+					{
+						id: "nivel2",
 						name: "Nível 2 (8º e 9º ano)",
 						file: "olimpiadas/matematica/estudo.nivel2.md",
 					},
-					"nivel3": {
+					{
+						id: "nivel3",
 						name: "Nível 3 (Ensino Médio)",
 						file: "olimpiadas/matematica/estudo.nivel3.md",
 					},
-					"obm-u": {
+					{
+						id: "obm-u",
 						name: "OMB - Nível Universitário",
 						file: "olimpiadas/matematica/estudo.obm-u.md",
 					},
-					"internacionais": {
+					{
+						id: "internacionais",
 						name: "Olimpíadas Internacionais",
 						file: "olimpiadas/matematica/estudo.internacionais.md",
 					},
-				}
+				],
 			},
-			"fontes": {
+			{
+				id: "fontes",
 				name: "Fontes de Conteúdo",
 				file: "olimpiadas/matematica/fontes-de-conteudo.md",
-				children: {
-					"aops": {
+				children: [
+					{
+						id: "aops",
 						name: "Art of Problem Solving",
 						file: "olimpiadas/matematica/fontes-de-conteudo.aops.md",
 					},
-					"poti": {
+					{
+						id: "poti",
 						name: "POTI",
 						file: "olimpiadas/matematica/fontes-de-conteudo.poti.md",
 					},
-					"eureka": {
+					{
+						id: "eureka",
 						name: "Eureka!",
 						file: "olimpiadas/matematica/fontes-de-conteudo.eureka.md",
 						notes: "olimpiadas/matematica/fontes-de-conteudo.eureka.notes.md",
 					},
-					"excalibur":{
+					{
+						id: "excalibur",
 						name: "Mathematical Excalibur",
 						file: "olimpiadas/matematica/fontes-de-conteudo.excalibur.md",
 					},
-				},
+				],
 			},
-			acervo: {
+			{
+				id: "acervo",
 				name: "Acervo de Competições",
 				file: "olimpiadas/matematica/acervo.md",
-				children: {
-					"obm": {
+				children: [
+					{
+						id: "obm",
 						name: "Olimpíada Brasileira de Matemática (OBM)",
 						file: "olimpiadas/matematica/acervo.obm.md",
 					},
-					"obmep": {
+					{
+						id: "obmep",
 						name: "Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)",
 						file: "olimpiadas/matematica/acervo.obmep.md",
 					},
-					"imo": {
+					{
+						id: "imo",
 						name: "Olimpíada Internacional de Matemática (IMO)",
 						file: "olimpiadas/matematica/acervo.imo.md",
 						notes: "olimpiadas/matematica/acervo.imo.notes.md",
 					},
-				}
-			}
-		}
+				],
+			},
+		],
 	},
-	"olimpiadas-fisica": {
+	{
+		id: "olimpiadas-fisica",
 		name: "Olimpíadas de Física",
-		icon: "icon-rocket3",
 		labId: "physics",
 		file: "olimpiadas/fisica/main.md",
 		contributors: ["5397b21e5c86f602009aa558", "5320fd8ab6172102003081b9"],
-		children: {
-			"plano-de-estudo": {
+		children: [
+			{
+				id: "plano-de-estudo",
 				name: "Plano de Estudos",
 				file: "olimpiadas/fisica/main.md",
-				children: {
-				}
+				children: [],
 			},
-			"conteudo": {
+			{
+				id: "conteudo",
 				name: "Conteúdo das Provas",
 				file: "olimpiadas/fisica/conteudo.md",
-				children: {
-				}
+				children: [],
 			},
-			acervo: {
+			{
+				id: "acervo",
 				name: "Acervo de Competições",
 				file: "olimpiadas/fisica/acervo.md",
-				children: {
-					obf: {
+				children: [
+					{
+						id: "obf",
 						name: "Olimpíada Brasileira de Física (OBF)",
 						file: "olimpiadas/fisica/main.md",
 					},
-					obfep: {
+					{
+						id: "obfep",
 						name: "Olimpíada Brasileira de Física das Escolas Públicas (OBFEP)",
 						file: "olimpiadas/fisica/main.md",
 					},
-				}
-			}
-		}
+				],
+			},
+		],
 	},
-	application: {
+	{
+		id: "application",
 		name: "Application",
 		file: "application/main.md",
 		contributors: ["5320fd8ab6172102003081b9", "5368f4b91e35a902003ca1f7"],
-		icon: "icon-directions",
 		labId: "application",
 		author: "5368f4b91e35a902003ca1f7",
-		children: {
-			"estrutura": {
+		children: [
+			{
+				id: "estrutura",
 				name: "Estrutura Acadêmica nos EUA",
 				file: "application/estrutura.md",
-				children: {
-				}
+				children: [],
 			},
-			"high-school": {
+			{
+				id: "high-school",
 				name: "High School",
 				file: "application/high-school.md",
-				children: {
-				}
+				children: [],
 			},
-			"graduacao": {
+			{
+				id: "graduacao",
 				name: "Graduação",
 				file: "application/graduacao.md",
-				children: {
-					"associates": {
+				children: [
+					{
+						id: "associates",
 						name: "Associates",
 						file: "application/graduacao.associates.md",
 					},
-					"community-college": {
+					{
+						id: "community-college",
 						name: "Community College",
 						file: "application/graduacao.community-college.md",
 					},
-					"bachelors": {
+					{
+						id: "bachelors",
 						name: "Bachelors",
 						file: "application/graduacao.bachelors.md",
 					},
-				}
+				],
 			},
-			"pos-graduacao": {
+			{
+				id: "pos-graduacao",
 				name: "Pós-graduação",
 				file: "application/pos.md",
-				children: {
-					"pos-medicina": {
+				children: [
+					{
+						id: "pos-medicina",
 						name: "Pós em Medicina",
 						file: "application/pos.medicina.md",
 					},
-				}
+				],
 			},
-			"admissions": {
+			{
+				id: "admissions",
 				name: "Admissions",
 				file: "application/admissions.md",
-				children: {
-					"conceito": {
+				children: [
+					{
+						id: "conceito",
 						name: "Conceito – Holistic Admissions",
 						file: "application/admissions.conceito.md",
 					},
-					"fatores": {
+					{
+						id: "fatores",
 						name: "Fatores",
 						file: "application/admissions.fatores.md",
 					},
-					"historico-escolar": {
+					{
+						id: "historico-escolar",
 						name: "Histórico Escolar",
 						file: "application/admissions.historico.md",
 					},
-				}
+				],
 			},
-			"provas": {
+			{
+				id: "provas",
 				name: "Provas Internacionais de Admissão",
 				file: "application/provas.md",
-				children: {
-					"sat": {
+				children: [
+					{
+						id: "sat",
 						name: "SAT",
 						file: "application/provas.sat.md",
 					},
-					"sat2": {
+					{
+						id: "sat2",
 						name: "SAT II",
 						file: "application/provas.sat2.md",
 					},
-					"act": {
+					{
+						id: "act",
 						name: "ACT",
 						file: "application/provas.act.md",
 					},
-				}
+				],
 			},
-			"provas-ingles": {
+			{
+				id: "provas-ingles",
 				name: "Provas de Capacidade de Ingles",
 				file: "application/provas-ingles.md",
-				children: {
-				}
+				children: [],
 			},
-			"assistencia": {
+			{
+				id: "assistencia",
 				name: "Assistencia Financiera",
 				file: "application/assistencia.md",
-				children: {
-					"work-study": {
+				children: [
+					{
+						id: "work-study",
 						name: "Work-study",
 						file: "application/assistencia.work-study.md",
 					},
-					"emprestimos": {
+					{
+						id: "emprestimos",
 						name: "Empréstimos",
 						file: "application/assistencia.emprestimos.md",
 					},
-					"crowdfunding": {
+					{
+						id: "crowdfunding",
 						name: "Crowd Funding",
 						file: "application/assistencia.crowdfunding.md",
 					},
-				}
+				],
 			},
-			"custos": {
+			{
+				id: "custos",
 				name: "Gastos",
-				children:{
-					"apply": {
+				children: [
+					{
+						id: "apply",
 						name: "Custos de Application",
 						file: "application/custos.apply.md",
 					},
-					"faculdade": {
+					{
+						id: "faculdade",
 						name: "Custos da Faculdade",
 						file: "application/custos.faculdade.md",
-					}
-				}
+					},
+				],
 			},
-			"fontes-de-conteudo": {
+			{
+				id: "fontes-de-conteudo",
 				name: "Fontes de Conteúdo",
-				children:{
-					"sparknotes": {
+				children: [
+					{
+						id: "sparknotes",
 						name: "Sparknotes",
 						file: "application/fontes-de-conteudo.spark.md",
 					},
-				}
-			}
-		}
+				],
+			},
+		],
 	},
-	transfer: {
+	{
+		id: "transfer",
 		name: "Transfer Application",
-		icon: "icon-directions",
 		labId: "application",
 		file: "transfer/main.md",
 		contributors: ["5418fad69b6ed60200b3037a", "5320fd8ab6172102003081b9"],
 		author: "5418fad69b6ed60200b3037a",
-		children: {
-			"posso-aplicar": {
+		children: [
+			{
+				id: "posso-aplicar",
 				name: "Eu posso aplicar?",
 				file: "transfer/posso-aplicar.md",
 			},
-			"financial-aid": {
+			{
+				id: "financial-aid",
 				name: "Financial aid",
 				file: "transfer/financial-aid.md",
 			},
-			"para-onde-aplicar": {
+			{
+				id: "para-onde-aplicar",
 				name: "Escolhendo para onde aplicar",
 				file: "transfer/para-onde-aplicar.md",
 			},
-			"common-app": {
+			{
+				id: "common-app",
 				name: "Common Application (Common App)",
 				file: "transfer/common-app.md",
 			},
-			"testes": {
+			{
+				id: "testes",
 				name: "Os testes padronizados",
 				file: "transfer/testes.md",
 			},
-			"gpa": {
+			{
+				id: "gpa",
 				name: "O GPA",
 				file: "transfer/gpa.md",
 			},
-			"carta-recomendacao": {
+			{
+				id: "carta-recomendacao",
 				name: "Cartas de recomendação",
 				file: "transfer/carta-recomendacao.md",
 			},
-			"essays": {
+			{
+				id: "essays",
 				name: "Essays",
 				file: "transfer/essays.md",
 			},
-			"entrevistas": {
+			{
+				id: "entrevistas",
 				name: "Entrevistas",
 				file: "transfer/entrevistas.md",
 			},
-			"midterm-report": {
+			{
+				id: "midterm-report",
 				name: "Midterm report",
 				file: "transfer/midterm-report.md",
 			},
-			"credit": {
+			{
+				id: "credit",
 				name: "Transfer of credit",
 				file: "transfer/credit.md",
 			},
-		}
+		],
 	},
-	vestibular: {
+	{
+		id: "vestibular",
 		name: "Vestibular",
-		icon: "icon-university",
 		file: "vestibular/main.md",
 		labId: 'vestibular',
 		contributors: ["5320fd8ab6172102003081b9"],
-		children: {
-			"exames-unificados": {
+		children: [
+			{
+				id: "exames-unificados",
 				name: "Exames Unificados",
 				file: "vestibular/exames-unificados.md",
-				children: {
-					"enem": {
+				children: [
+					{
+						id: "enem",
 						name: "ENEM",
 						file: "vestibular/exames-unificados.enem.md",
 					},
-					"fuvest": {
+					{
+						id: "fuvest",
 						name: "FUVEST",
 						file: "vestibular/exames-unificados.fuvest.md",
 					},
-					"unicamp": {
+					{
+						id: "unicamp",
 						name: "UNICAMP",
 						file: "vestibular/exames-unificados.unicamp.md",
-					}
-				}
+					},
+				],
 			},
-			"preparacao-para-provas": {
+			{
+				id: "preparacao-para-provas",
 				name: "Preparação Para As Provas",
 				file: "vestibular/preparacao-para-provas.md",
-				children: {
-					"cursinhos": {
+				children: [
+					{
+						id: "cursinhos",
 						name: "Cursinhos",
 						file: "vestibular/preparacao-para-provas.cursinhos.md",
 					},
-					"estudando-em-casa": {
+					{
+						id: "estudando-em-casa",
 						name: "Estudando em Casa",
 						file: "vestibular/preparacao-para-provas.estudando-casa.md",
 					},
-					"provas-antigas": {
+					{
+						id: "provas-antigas",
 						name: "Provas Antigas & Conteúdo Cobrado",
 						file: "vestibular/preparacao-para-provas.provas-antigas.md",
 					},
-					"sites-uteis": {
+					{
+						id: "sites-uteis",
 						name: "Sites Úteis",
 						file: "vestibular/preparacao-para-provas.sites-uteis.md",
-					}
-				}
+					},
+				],
 			},
-			"cronograma": {
+			{
+				id: "cronograma",
 				name: "Cronograma",
 				file: "vestibular/cronograma.md",
-				children: {
-					"durante-o-ano": {
+				children: [
+					{
+						id: "durante-o-ano",
 						name: "Durante o Ano",
 						file: "vestibular/cronograma.durante-o-ano.md",
 					},
-					"semana-do-exame": {
+					{
+						id: "semana-do-exame",
 						name: "Na Semana do Exame",
 						file: "vestibular/cronograma.semana-do-exame.md",
 					},
-					"dia-anterior": {
+					{
+						id: "dia-anterior",
 						name: "No Dia Anterior",
 						file: "vestibular/cronograma.dia-anterior.md",
 					},
-					"dia-do-exame": {
+					{
+						id: "dia-do-exame",
 						name: "No Dia do Exame",
 						file: "vestibular/cronograma.dia-do-exame.md",
-					}
-				}
+					},
+				],
 			},
-			"resultados-e-matricula": {
+			{
+				id: "resultados-e-matricula",
 				name: "Resultados e Matrícula",
 				file: "vestibular/resultados-e-matricula.md",
-				children: {
-					"classificacao-e-reclassificacao": {
+				children: [
+					{
+						id: "classificacao-e-reclassificacao",
 						name: "Classificação e Reclassificação",
 						file: "vestibular/resultados-e-matricula.classificacao-e-reclassificacao.md",
 					},
-					"matricula": {
+					{
+						id: "matricula",
 						name: "Matrícula",
 						file: "vestibular/resultados-e-matricula.matricula.md",
 					},
-					"cotas": {
+					{
+						id: "cotas",
 						name: "Cotas",
 						file: "vestibular/resultados-e-matricula.cotas.md",
 					},
-					"sisu": {
+					{
+						id: "sisu",
 						name: "SISU",
 						file: "vestibular/resultados-e-matricula.sisu.md",
 					},
-					"prouni": {
+					{
+						id: "prouni",
 						name: "Prouni",
 						file: "vestibular/resultados-e-matricula.prouni.md",
 					},
-					"fies": {
+					{
+						id: "fies",
 						name: "Fies",
 						file: "vestibular/resultados-e-matricula.fies.md",
-					}
-				}
-			}
-		}
-	},
-}
+					},
+				],
+			},
+		],
+	}
+]

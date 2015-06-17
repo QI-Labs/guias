@@ -242,7 +242,7 @@ module.exports = [
 			},
 			{
 				id: "assistencia",
-				name: "Assistencia Financiera",
+				name: "Assistencia Financeira",
 				file: "application/assistencia.md",
 				children: [
 					{
@@ -299,6 +299,7 @@ module.exports = [
 		contributors: ["5418fad69b6ed60200b3037a", "5320fd8ab6172102003081b9"],
 		authorHTML: "<a href=\"http://www.qilabs.org/@filipeperes\">Conteúdo original <div class=\"author\">Filipe Peres</div></a>",
 		_author: "5418fad69b6ed60200b3037a",
+		background: "http://i.imgur.com/zuFpeZc.jpg",
 		children: [
 			{
 				id: "posso-aplicar",

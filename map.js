@@ -108,7 +108,7 @@ module.exports = [
 			{
 				id: "plano-de-estudo",
 				name: "Plano de Estudos",
-				file: "olimpiadas/fisica/main.md",
+				file: "olimpiadas/fisica/estudo.md",
 				children: [],
 			},
 			{
@@ -125,7 +125,7 @@ module.exports = [
 					{
 						id: "obf",
 						name: "Olimpíada Brasileira de Física (OBF)",
-						file: "olimpiadas/fisica/main.md",
+						file: "olimpiadas/fisica/acervo.obf.md",
 					},
 					{
 						id: "obfep",
@@ -140,9 +140,9 @@ module.exports = [
 		id: "application",
 		name: "Application",
 		file: "application/main.md",
-		contributors: ["5320fd8ab6172102003081b9", "5368f4b91e35a902003ca1f7"],
+		contributors: ["5321477b2816f6020050cb90", "5320fd8ab6172102003081b9", "5368f4b91e35a902003ca1f7"],
 		labId: "application",
-		author: "5368f4b91e35a902003ca1f7",
+		authorHTML: "<a href=\"http://facebook.com/picoBrasil\">Conteúdo original <div class=\"author\">Pico Educacional</div></a>",
 		children: [
 			{
 				id: "estrutura",
@@ -297,7 +297,8 @@ module.exports = [
 		labId: "application",
 		file: "transfer/main.md",
 		contributors: ["5418fad69b6ed60200b3037a", "5320fd8ab6172102003081b9"],
-		author: "5418fad69b6ed60200b3037a",
+		authorHTML: "<a href=\"http://www.qilabs.org/@filipeperes\">Conteúdo original <div class=\"author\">Filipe Peres</div></a>",
+		_author: "5418fad69b6ed60200b3037a",
 		children: [
 			{
 				id: "posso-aplicar",

@@ -2,7 +2,7 @@
 
 Fonte dos textos das Guias do QI Labs ([qilabs.org/guias](http://qilabs.org/guias))
 
-Conteúdo do QI Labs e de terceiros, curado pela [@mimimalher](http://qilabs.org/@michelle)
+Conteúdo do QI Labs e de terceiros, curado pela (internet)[https://github.com/QI-Labs/guias/network/members].
 
 Released under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
